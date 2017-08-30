@@ -2,6 +2,7 @@
  * Start Bootstrap - Createive v4.0.0-beta (https://startbootstrap.com/template-overviews/creative)
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-creative/blob/master/LICENSE)
+ * Esta parte del css es tomada del template indicado arriba
  */
 body,
 html {
@@ -79,36 +80,8 @@ img::-moz-selection {
 body {
   -webkit-tap-highlight-color: #222222;
 }
-  .sr-icons {
-    visibility: hidden;
-    text-align: center;
-    transform: scale(0);
-    opacity: 0;
-    transition: transform .6s ease-in-out, opacity .6s ease-in-out;
-  }
-  .sr-icons.active{
-    display: block;
-    visibility: visible;
-    transform: scale(1);
-    opacity: 1;
-    animation: anim .6s ease-in-out;
-  }
-  
-  @keyframes anim {
-  0% {
-    display: none;
-    opacity: 0;
-  }
-  1% {
-    display: block;
-    opacity: 0;
-    transform: scale(0);
-  }
-  100% {
-    opacity: 1;
-    transform: scale(1);
-  }
-}
+
+/** css del navbar **/
 #mainNav {
   border-color: rgba(34, 34, 34, 0.05);
   background-color: white;
@@ -172,14 +145,7 @@ body {
           #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:hover,
           #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus:hover {
             color: #F05F40; } }
-section{
-  overflow-x: hidden;
-}
-.sub{
-  width:100%;
-  overflow: visible;
-  font-size:30px;
-} 
+
 header.masthead {
   overflow-x: hidden;
   position: relative;
@@ -416,7 +382,7 @@ header.masthead {
   height: 100%;
   z-index: 1;
 }
-
+/* css del carrusel */
 ul{
   list-style: none;
   margin: 0px;
@@ -510,7 +476,7 @@ ul{
 .p2_alt { padding-top: 35px; padding-bottom: 35px; }
 
 
-
+/* css personalizado */
 .contentWrapper {
   width: 100%;
   max-width: 1200px; 
@@ -522,7 +488,28 @@ ul{
   width:500px;
 }
 
-.typewriter.active h1 {
+.
+.bg-lightgray
+{
+    background-color:LightGray;
+}
+
+.img-fluid {
+  height:200px; 
+  width:100%
+  }
+
+  section{
+  overflow-x: hidden;
+}
+.sub{
+  width:100%;
+  overflow: visible;
+  font-size:30px;
+} 
+
+/* animaciones */
+typewriter.active h1 {
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: .15em solid orange; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
@@ -547,13 +534,34 @@ ul{
   from, to { border-color: transparent }
   50% { border-color: orange; }
 }
-
-.bg-lightgray
-{
-    background-color:LightGray;
-}
-
-.img-fluid {
-  height:200px; 
-  width:100%
+/* animaciones iconos*/
+  .sr-icons {
+    visibility: hidden;
+    text-align: center;
+    transform: scale(0);
+    opacity: 0;
+    transition: transform .6s ease-in-out, opacity .6s ease-in-out;
   }
+  .sr-icons.active{
+    display: block;
+    visibility: visible;
+    transform: scale(1);
+    opacity: 1;
+    animation: anim .6s ease-in-out;
+  }
+  
+  @keyframes anim {
+  0% {
+    display: none;
+    opacity: 0;
+  }
+  1% {
+    display: block;
+    opacity: 0;
+    transform: scale(0);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
