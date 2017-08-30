@@ -4,6 +4,9 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-creative/blob/master/LICENSE)
  * Esta parte del css es tomada del template indicado arriba
  */
+
+/* Mi única recomendación es que uses algún packete de tu IDE para 'beautify' el código ya que puede parecer un poco enredado. */
+
 body,
 html {
   width: 100%;
