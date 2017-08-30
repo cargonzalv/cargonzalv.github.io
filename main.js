@@ -41,6 +41,12 @@
             })
           });
         }
+        $(".typewriter")
+        var elemTop = Math.round( $(".typewriter").offset().top );
+        var elemBottom = elemTop + $(".typewriter").height();
+      if(isElementInViewport(914,1288)){
+        $(".typewriter").addClass("active");  
+      }
       });
 
 
@@ -51,7 +57,10 @@
       var viewportTop = $(scrollElem).scrollTop();
       var viewportBottom = viewportTop + $(window).height();
 
-      
+        //var elemTop = Math.round( $(this).offset().top );
+        //var elemBottom = elemTop + $(this).height();
+        //console.log(elemTop);
+        //console.log(elemBottom);
 
       return ((top < viewportBottom) && (bot > viewportTop));
     }
@@ -191,9 +200,7 @@ $.fn.extend({
     function init(){
 
       that.each(function(){
-        var elemTop = Math.round( $(this).offset().top );
-        var elemBottom = elemTop + $(this).height();
-        console.log(elemBottom, elemTop);
+
         var $this = $(this),
               //we need to check for a percent otherwise set to 0;
             perc = Math.round($this.data('percent')), //get the percentage from the element
@@ -289,7 +296,7 @@ $('.demo-6').percentcircle({
 $(document).ready(function() {
   var facts = [
   "Click on my head to learn more about me!"
-  ,"I was born the 18th of January..."
+  ,"I was born the 18th of January of 1996..."
   ,"at 6:08 pm..."
   ,"in Caracas, Venezuela..."
   ,"my parents had been married for 9 years."
