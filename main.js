@@ -1,3 +1,5 @@
+/* Muy bacano el carrusel y el poguehead */
+
 "use strict"; // Start of use strict
 
 
