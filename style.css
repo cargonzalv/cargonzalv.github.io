@@ -19,12 +19,15 @@ hr.light {
   border-color: white; }
 
 a {
-  color: #F05F40;
+  color: #006400;
+  font-weight:700;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
-  transition: all 0.2s; }
+  transition: all 0.2s; 
+  font-size:35px;
+}
   a:focus, a:hover {
-    color: #f05f40; }
+    color:  #008000; }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, strong, b { font-family: 'Open Sans', sans-serif !important; margin-bottom: 20px; }
 h1,h4 { font-weight: 700; margin-bottom: 10px; }

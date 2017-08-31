@@ -131,7 +131,7 @@ $.fn.extend({
     {
       animate : true,
       diameter : 150,
-      guage: 5,
+      guage: 10,
       coverBg: "#fff",
       bgColor: "#efefef",
       fillColor: "#5c93c8",
