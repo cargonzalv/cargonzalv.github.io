@@ -13,30 +13,7 @@ $("body").scrollspy({
   offset: 48
 });
 
-// Collapse the navbar when page is scrolled, also for adding active class and start animations
-$(window).scroll(function() {
-  if ($("#mainNav").offset().top > 100) {
-    $("#mainNav").addClass("navbar-shrink");
-  } else {
-    $("#mainNav").removeClass("navbar-shrink");
-  }
-  var elems = $(".sr-icons");
-  if (elems.hasClass("active"))
-    return;
 
-  if (isElementInViewport(2751, 2815)) {
-    // Start the animation
-    elems.each(function(index){
-      $(this).delay(index*200).queue(function(nxt) {
-        $(this).addClass("active");
-        nxt();
-      });
-    });
-  }
-  if(isElementInViewport(914,1288)){
-    $(".typewriter").addClass("active");  
-  }
-});
 
 
 function isElementInViewport(top, bot) {
@@ -53,7 +30,31 @@ function isElementInViewport(top, bot) {
 
   return ((top < viewportBottom) && (bot > viewportTop));
 }
+// Collapse the navbar when page is scrolled, also for adding active class and start animations
+$(window).scroll(function () {
+    if ($("#mainNav").offset().top > 100) {
+        $("#mainNav").addClass("navbar-shrink");
+    } else {
+        $("#mainNav").removeClass("navbar-shrink");
+    }
+    var elems = $(".sr-icons");
+    if (elems.hasClass("active"))
+        return;
 
+    if (isElementInViewport(2751, 2815)) {
+        // Start the animation
+        elems.each(function (index) {
+            $(this).delay(index * 200).queue(function (nxt) {
+                $(this).addClass("active");
+                nxt();
+            });
+        });
+    }
+    if (isElementInViewport(900, 1288)) {
+        console.log($(".typewriter"));
+        $(".typewriter").addClass("active");
+    }
+});
 
 /*
 * Flux 3D Carousel

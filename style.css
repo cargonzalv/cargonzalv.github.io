@@ -509,24 +509,25 @@ ul{
 } 
 
 /* animaciones */
-typewriter.active h1 {
+.typewriter.active h1 {
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: .15em solid orange; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   letter-spacing: .10em; /* Adjust as needed */
+  margin-left:35%;
+  margin-right:30%;
   animation: 
     typing 3.5s steps(40, end),
     blink-caret .75s step-end;
-  margin-left:35%;
-  margin-right:31%;
+  
 }
 
 
 /* The typing effect */
 @keyframes typing {
   from { width: 0 }
-  to { width: 30%; }
+  to { width: 35%; }
 }
 
 /* The typewriter cursor effect */
