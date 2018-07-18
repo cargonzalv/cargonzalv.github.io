@@ -1,0 +1,14 @@
+código,municipio,departamento,mesas,total_mesas,votantes,total_votantes,votos_por_candidato,votos_en_blanco,votos_nulos,votos_no_marcados,iván duque,gustavo petro,sergio fajardo,germán vargas lleras,humberto de la calle,promotores voto en blanco,viviane morales,jorge antonio trujillo sarmiento,cod_depto,cod_mun
+0,60010,El Encanto,Amazonas,3,3,308,776,303,3,2,0,50,190,14,39,8,0,1,1,91,91263
+1,60013,La Chorrera,Amazonas,3,3,565,969,557,3,1,4,44,470,15,19,7,2,0,0,91,91405
+2,60016,La Pedrera,Amazonas,3,3,231,965,229,0,2,0,21,150,20,29,9,0,0,0,91,91407
+3,60017,La Victoria,Amazonas,1,1,19,61,18,1,0,0,2,14,1,0,1,0,0,0,91,91430
+4,60001,Leticia,Amazonas,97,97,14555,36216,14136,259,123,37,6154,3821,2523,853,652,17,43,73,91,91001
+5,60019,Miriti Parana,Amazonas,2,2,77,456,77,0,0,0,4,59,2,5,7,0,0,0,91,91460
+6,60030,Puerto Alegria,Amazonas,1,1,75,264,73,1,0,1,34,31,6,1,1,0,0,0,91,91530
+7,60040,Puerto Arica,Amazonas,2,2,146,450,146,0,0,0,32,98,4,6,5,0,0,1,91,91536
+8,60007,Puerto Nariño,Amazonas,12,12,1911,4456,1870,22,12,7,651,839,84,244,36,0,7,9,91,91540
+9,60021,Puerto Santander,Amazonas,2,2,168,595,165,1,2,0,27,85,3,47,2,0,0,1,91,91669
+10,60022,Tarapaca,Amazonas,4,4,369,1356,355,9,3,2,95,174,21,52,11,0,0,2,91,91798
+11,1004,Abejorral,Antioquia,44,44,6489,14967,6239,77,89,84,4496,178,1097,347,72,11,24,14,5,5002
+12,1007,Abriaqui,Antioquia,6,6,994,1913,975,10,3,6,828,11,89,27,15,1,2,2,5,5004
