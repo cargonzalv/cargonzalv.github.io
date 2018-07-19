@@ -1,4 +1,4 @@
-código,municipio,departamento,mesas,total_mesas,votantes,total_votantes,votos_por_candidato,votos_en_blanco,votos_nulos,votos_no_marcados,iván duque,gustavo petro,sergio fajardo,germán vargas lleras,humberto de la calle,promotores voto en blanco,viviane morales,jorge antonio trujillo sarmiento,cod_depto,cod_mun,latitud,longitud
+código,municipio,departamento,mesas,total_mesas,votantes,total_votantes,votos_por_candidato,votos_en_blanco,votos_nulos,votos_no_marcados,iván duque,gustavo petro,sergio fajardo,germán vargas lleras,humberto de la calle,promotores voto en blanco,viviane morales,jorge antonio trujillo sarmiento,cod_depto,cod_mun,latitude,longitude
 60010,El Encanto,Amazonas,3,3,308,776,303,3,2,0,50,190,14,39,8,0,1,1,91.0,91263.0,-1.747214,-73.209136
 60013,La Chorrera,Amazonas,3,3,565,969,557,3,1,4,44,470,15,19,7,2,0,0,91.0,91405.0,-1.43337,-72.74994
 60016,La Pedrera,Amazonas,3,3,231,965,229,0,2,0,21,150,20,29,9,0,0,0,91.0,91407.0,-1.3239,-69.58234
