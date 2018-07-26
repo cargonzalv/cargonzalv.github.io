@@ -16,21 +16,23 @@ $("body").scrollspy({
 
 
 
-function isElementInViewport(top, bot) {
+function isElementInViewport (el) {
 
-  // Get the scroll position of the page.
-  var scrollElem = ((navigator.userAgent.toLowerCase().indexOf("webkit") != -1) ? "body" : "html");
-  var viewportTop = $(scrollElem).scrollTop();
-  var viewportBottom = viewportTop + $(window).height();
+    //special bonus for those using jQuery
+    if (typeof jQuery === "function" && el instanceof jQuery) {
+        el = el[0];
+    }
 
-  //var elemTop = Math.round( $(this).offset().top );
-  //var elemBottom = elemTop + $(this).height();
-  //console.log(elemTop);
-  //console.log(elemBottom);
+    var rect = el.getBoundingClientRect();
 
-  return ((top < viewportBottom) && (bot > viewportTop));
+    return (
+        rect.top >= 0 &&
+        rect.left >= 0 &&
+        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) && /*or $(window).height() */
+        rect.right <= (window.innerWidth || document.documentElement.clientWidth) /*or $(window).width() */
+    );
 }
-// Collapse the navbar when page is scrolled, also for adding active class and start animations
+//See the navbar when page is scrolled, also for adding active class and start animations
 $(window).scroll(function () {
     if ($("#mainNav").offset().top > 100) {
         $("#mainNav").addClass("navbar-shrink");
@@ -41,17 +43,18 @@ $(window).scroll(function () {
     if (elems.hasClass("active"))
         return;
 
-    if (isElementInViewport(2751, 2815)) {
         // Start the animation
-        elems.each(function (index) {
+        elems.each(function (index,elem) {
+          console.log(elem)
+        if (isElementInViewport(elem)) {
             $(this).delay(index * 200).queue(function (nxt) {
                 $(this).addClass("active");
                 nxt();
             });
+          }
         });
-    }
-    if (isElementInViewport(900, 1288)) {
-        console.log($(".typewriter"));
+    let type = $(".typewriter");
+    if (isElementInViewport(type)) {
         $(".typewriter").addClass("active");
     }
 });
@@ -201,7 +204,7 @@ $.fn.extend({
         $this.append($chart); 
         var animated;
         $(window).scroll(function(){
-          if(isElementInViewport(1759,2359) && !animated){  
+          if(isElementInViewport($chart) && !animated){  
             animateChart(deg,parseInt(stop),$chart.find(".ab")); //both values set to the same value to keep the function from looping and animating 
             animated = true; 
           }
