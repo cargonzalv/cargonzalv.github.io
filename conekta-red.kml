@@ -41,9 +41,9 @@
       <address>AV. NIÑOS HEROES No. 70, CENTRO, CHETUMAL, QUINTANA ROO</address>
       <description><![CDATA[TIENDA: CHETUMAL 2<br>DIRECCION: AV. NIÑOS HEROES No. 70<br>COLONIA: CENTRO<br>CIUDAD: CHETUMAL<br>ESTADO: QUINTANA ROO<br>CP: 77000<br>Direccion FULL: AV. NIÑOS HEROES No. 70, CENTRO, CHETUMAL, QUINTANA ROO<br>LATITUD: 18.495473<br>LONGITUD: -88.297049<br>Latitud/Longitud: 18.495473,-88.297049]]></description>
       <styleUrl>#icon-1686-0288D1</styleUrl>
-      <!-- <Point>
+      <Point>
         <coordinates>-88.297049,18.495473,0</coordinates>
-      </Point> -->
+      </Point>
       <ExtendedData>
         <Data name="TIENDA">
           <value>CHETUMAL 2</value>
