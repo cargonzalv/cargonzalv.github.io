@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>Conekta Efectivo Red</name>
-    <description>Red de puntos de cobro Conekta Efectivo Julio 2024 (D)</description>
+    <name>Cadenas Operando Conekta - Map Draft</name>
     <NetworkLink>
-      <name>Conekta Efectivo Red</name>
+      <name>Copia de Conekta Efectivo Red</name>
       <Link>
-        <href><![CDATA[https://www.google.com/maps/d/kml?forcekml=1&mid=1UOpT2504eCd9x2dxPweEQ8kkC1SHK8M]]></href>
+        <href><![CDATA[https://www.google.com/maps/d/kml?forcekml=1&mid=10NelFYfc953l_gr1FmlAUuQ5zoISU3g&lid=gNZxMvLRc6s]]></href>
       </Link>
     </NetworkLink>
   </Document>
