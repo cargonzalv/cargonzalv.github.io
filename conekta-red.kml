@@ -38,9 +38,12 @@
     </StyleMap>
     <Placemark>
       <name> WALDOS (ELECZION)</name>
-      <address>AV. NIÑOS HEROES No. 70,CENTRO,CHETUMAL,QUINTANA ROO</address>
-      <description><![CDATA[TIENDA: CHETUMAL 2<br>DIRECCION: AV. NIÑOS HEROES No. 70<br>COLONIA: CENTRO<br>CIUDAD: CHETUMAL<br>ESTADO: QUINTANA ROO<br>CP: 77000<br>Direccion FULL: AV. NIÑOS HEROES No. 70,CENTRO,CHETUMAL,QUINTANA ROO<br>LATITUD: 18495473<br>LONGITUD: -88297049<br>Latitud/Longitud: 18,495473,-88,297049]]></description>
+      <address>AV. NIÑOS HEROES No. 70, CENTRO, CHETUMAL, QUINTANA ROO</address>
+      <description><![CDATA[TIENDA: CHETUMAL 2<br>DIRECCION: AV. NIÑOS HEROES No. 70<br>COLONIA: CENTRO<br>CIUDAD: CHETUMAL<br>ESTADO: QUINTANA ROO<br>CP: 77000<br>Direccion FULL: AV. NIÑOS HEROES No. 70, CENTRO, CHETUMAL, QUINTANA ROO<br>LATITUD: 18.495473<br>LONGITUD: -88.297049<br>Latitud/Longitud: 18.495473,-88.297049]]></description>
       <styleUrl>#icon-1686-0288D1</styleUrl>
+      <!-- <Point>
+        <coordinates>-88.297049,18.495473,0</coordinates>
+      </Point> -->
       <ExtendedData>
         <Data name="TIENDA">
           <value>CHETUMAL 2</value>
@@ -61,16 +64,16 @@
           <value>77000</value>
         </Data>
         <Data name="Direccion FULL">
-          <value>AV. NIÑOS HEROES No. 70,CENTRO,CHETUMAL,QUINTANA ROO</value>
+          <value>AV. NIÑOS HEROES No. 70, CENTRO, CHETUMAL, QUINTANA ROO</value>
         </Data>
         <Data name="LATITUD">
-          <value>1.8495473E7</value>
+          <value>18.495473</value>
         </Data>
         <Data name="LONGITUD">
-          <value>-8.8297049E7</value>
+          <value>-88.297049</value>
         </Data>
         <Data name="Latitud/Longitud">
-          <value>18,495473,-88,297049</value>
+          <value>18.495473,-88.297049</value>
         </Data>
       </ExtendedData>
     </Placemark>
