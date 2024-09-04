@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <Folder>
-      <name>Cadenas Operando Conekta - Al Super</name>
+    <name>Cadenas Operando Conekta - Al Super</name>
       <Placemark>
         <name>AL SUPER</name>
         <address>PASEO BOLIVAR Y C.12 ,CENTRO,CHIHUAHUA,CHIHUAHUA</address>
@@ -30,14 +29,12 @@
           <Data name="CP">
             <value>31000.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>28.62892</value>
+          <Data name="LATITUD"><value>28.62892</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-106.07382</value>
+          <Data name="LONGITUD"><value>-106.07382</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.07382,28.62892,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>C. PASEO DE LAS FACULTADES Y SAN MIGUEL EL GRANDE #1600 ,EJIDO NOMBRE DE DIOS,CHIHUAHUA,CHIHUAHUA</address>
@@ -65,14 +62,12 @@
           <Data name="CP">
             <value>31125.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>28.712</value>
+          <Data name="LATITUD"><value>28.712</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-106.15039</value>
+          <Data name="LONGITUD"><value>-106.15039</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.15039,28.712,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>PERIF.VICENTE LOMBARDO TOLEDANO #4800,ROBINSON SECTOR 3,CHIHUAHUA,CHIHUAHUA</address>
@@ -100,14 +95,12 @@
           <Data name="CP">
             <value>31074.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>28.65074</value>
+          <Data name="LATITUD"><value>28.65074</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-106.03631</value>
+          <Data name="LONGITUD"><value>-106.03631</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.03631,28.65074,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>CANAL Y C. 22 , CENTRO, CHIHUAHUA, CHIHUAHUA </address>
@@ -135,14 +128,12 @@
           <Data name="CP">
             <value>31020.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>28.62809</value>
+          <Data name="LATITUD"><value>28.62809</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-106.08564</value>
+          <Data name="LONGITUD"><value>-106.08564</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.08564,28.62809,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>AV. UNIVERSIDAD Y DIV. DEL NORTE ,ALTAVISTA,CHIHUAHUA,CHIHUAHUA</address>
@@ -170,14 +161,12 @@
           <Data name="CP">
             <value>31030.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>28.65129</value>
+          <Data name="LATITUD"><value>28.65129</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-106.08481</value>
+          <Data name="LONGITUD"><value>-106.08481</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.08481,28.65129,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>GLANDORFF Y ORTIZ MENA ,SAN FELIPE,CHIHUAHUA,CHIHUAHUA</address>
@@ -205,14 +194,12 @@
           <Data name="CP">
             <value>31240.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>28.64986</value>
+          <Data name="LATITUD"><value>28.64986</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-106.09954</value>
+          <Data name="LONGITUD"><value>-106.09954</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.09954,28.64986,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>AV. VALLARTA Y ZARAGOZA ,GRANJAS,CHIHUAHUA,CHIHUAHUA</address>
@@ -240,14 +227,12 @@
           <Data name="CP">
             <value>31160.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>28.67247</value>
+          <Data name="LATITUD"><value>28.67247</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-106.10283</value>
+          <Data name="LONGITUD"><value>-106.10283</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.10283,28.67247,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>BLVD. JOSE FUENTES MARES #200,SANTA  ROSA,CHIHUAHUA,CHIHUAHUA</address>
@@ -275,14 +260,12 @@
           <Data name="CP">
             <value>31050.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>28.62036</value>
+          <Data name="LATITUD"><value>28.62036</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-106.05208</value>
+          <Data name="LONGITUD"><value>-106.05208</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.05208,28.62036,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>AV. FCO. VILLA #4905,DESARROLLO SAUCITO,CHIHUAHUA,CHIHUAHUA</address>
@@ -310,14 +293,12 @@
           <Data name="CP">
             <value>31110.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2866094.0</value>
+          <Data name="LATITUD"><value>28.66094</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.0612185E7</value>
+          <Data name="LONGITUD"><value>-106.12185000000002</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.12185000000002,28.66094,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>FCO. I MADERO 201, CENTRO, NCG, CHIHUAHUA</address>
@@ -345,14 +326,12 @@
           <Data name="CP">
             <value>31700.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>304166.0</value>
+          <Data name="LATITUD"><value>30.4166</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.0790921E7</value>
+          <Data name="LONGITUD"><value>-107.90921</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-107.90921,30.4166,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>16 SEPTIEMBRE Y M. ESCOBEDO ,SAN ANTONIO,CUAUHTEMOC,CHIHUAHUA</address>
@@ -380,14 +359,12 @@
           <Data name="CP">
             <value>31500.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>284102.0</value>
+          <Data name="LATITUD"><value>28.410199999999996</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1068549.0</value>
+          <Data name="LONGITUD"><value>-106.8549</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.8549,28.410199999999996,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>AV. FERNANDO BAEZA Y RÍO CHUVISCAR  ,SAN MARCOS,DELICIAS,CHIHUAHUA</address>
@@ -415,14 +392,12 @@
           <Data name="CP">
             <value>33000.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2817401.0</value>
+          <Data name="LATITUD"><value>28.17401</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.0546881E7</value>
+          <Data name="LONGITUD"><value>-105.46881</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-105.46881,28.17401,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>CARRANZA Y CENTENARIO ,CENTRO,CAMARGO,CHIHUAHUA</address>
@@ -450,14 +425,12 @@
           <Data name="CP">
             <value>33700.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>276875.0</value>
+          <Data name="LATITUD"><value>27.6875</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.0516811E7</value>
+          <Data name="LONGITUD"><value>-105.16811000000003</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-105.16811000000003,27.6875,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>ALLENDE Y 3A ,CENTRO,CUAUHTEMOC,CHIHUAHUA</address>
@@ -485,14 +458,12 @@
           <Data name="CP">
             <value>31500.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2840699.0</value>
+          <Data name="LATITUD"><value>28.40699</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.0686537E7</value>
+          <Data name="LONGITUD"><value>-106.86537000000001</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.86537000000001,28.40699,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>ALDAMA 712 ,CENTRO,MEOQUI,CHIHUAHUA</address>
@@ -520,14 +491,12 @@
           <Data name="CP">
             <value>33130.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2827082.0</value>
+          <Data name="LATITUD"><value>28.270819999999997</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1054813.0</value>
+          <Data name="LONGITUD"><value>-105.4813</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-105.4813,28.270819999999997,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>BUSTAMANTE Y TAGLE ,CENTRO,JIMENEZ,CHIHUAHUA</address>
@@ -555,14 +524,12 @@
           <Data name="CP">
             <value>33981.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2712249.0</value>
+          <Data name="LATITUD"><value>27.122490000000006</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.0490905E7</value>
+          <Data name="LONGITUD"><value>-104.90905000000001</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-104.90905000000001,27.122490000000006,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>AVE. PRIMERA PTE. Y TERCERA PTE.,SECTOR PTE.,DELICIAS,CHIHUAHUA</address>
@@ -590,14 +557,12 @@
           <Data name="CP">
             <value>33860.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2819446.0</value>
+          <Data name="LATITUD"><value>28.19446</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.0547499E7</value>
+          <Data name="LONGITUD"><value>-105.47499</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-105.47499,28.19446,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>BLVD. ANTONIO ORTIZ MENA NO. 157,ALTAVISTA,PARRAL,CHIHUAHUA</address>
@@ -625,14 +590,12 @@
           <Data name="CP">
             <value>33000.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2692754.0</value>
+          <Data name="LATITUD"><value>26.92754</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.0567189E7</value>
+          <Data name="LONGITUD"><value>-105.67188999999999</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-105.67188999999999,26.92754,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>AV. HIDALGO 101 ,CENTRO,ALDAMA,CHIHUAHUA</address>
@@ -660,14 +623,12 @@
           <Data name="CP">
             <value>32900.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>288384.0</value>
+          <Data name="LATITUD"><value>28.8384</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.0591287E7</value>
+          <Data name="LONGITUD"><value>-105.91287</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-105.91287,28.8384,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>CASCADA CUSARARE 5959,BENITO JUAREZ,CUAUHTEMOC,CHIHUAHUA</address>
@@ -695,14 +656,12 @@
           <Data name="CP">
             <value>31500.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2842483.0</value>
+          <Data name="LATITUD"><value>28.424829999999996</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.0684297E7</value>
+          <Data name="LONGITUD"><value>-106.84297000000001</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.84297000000001,28.424829999999996,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>TRASVIÑA Y RETES Y BULEVAR OSCAR FLORES #501,CONSTITUCION,OJINAGA,CHIHUAHUA</address>
@@ -730,14 +689,12 @@
           <Data name="CP">
             <value>32881.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>295578.0</value>
+          <Data name="LATITUD"><value>29.557799999999997</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.0441225E7</value>
+          <Data name="LONGITUD"><value>-104.41225</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-104.41225,29.557799999999997,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>AV. FERROCORRIL ORIENTE #401, CD. DELICIAS, CHIH,COL.CENTRO O SECTOR ORIENTE,DELICIAS,CHIHUAHUA</address>
@@ -765,14 +722,12 @@
           <Data name="CP">
             <value>33000.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2819598.0</value>
+          <Data name="LATITUD"><value>28.19598</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.0546156E7</value>
+          <Data name="LONGITUD"><value>-105.46156</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-105.46156,28.19598,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>AV. FERNANDO BAEZA 200,COL. SECTOR ORIENTE,DELICIAS,CHIHUAHUA</address>
@@ -800,14 +755,12 @@
           <Data name="CP">
             <value>33000.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2817954.0</value>
+          <Data name="LATITUD"><value>28.179540000000003</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.0545437E7</value>
+          <Data name="LONGITUD"><value>-105.45437</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-105.45437,28.179540000000003,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>PARCELA #109, ENTRONQUE CUAUHTEMOC/GUERRERO,ELIDO CUAUHTEMOC,CUAUHTEMOC,CHIHUAHUA</address>
@@ -835,14 +788,12 @@
           <Data name="CP">
             <value>31500.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>28401.0</value>
+          <Data name="LATITUD"><value>28.401</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1068967.0</value>
+          <Data name="LONGITUD"><value>-106.89670000000001</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.89670000000001,28.401,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>AV. PROLONGACION TEOFILO BORUNDA 11405,LABOR DE TERRAZAS,CHIHUAHUA,CHIHUAHUA</address>
@@ -870,14 +821,12 @@
           <Data name="CP">
             <value>31220.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2860118.0</value>
+          <Data name="LATITUD"><value>28.60118</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.0612507E7</value>
+          <Data name="LONGITUD"><value>-106.12507000000001</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.12507000000001,28.60118,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>C. EMILIO CARRANZA 1007,NUEVO CASAS GRANDES CENTRO,NUEVO CASAS GRANDES,CHIHUAHUA</address>
@@ -905,14 +854,12 @@
           <Data name="CP">
             <value>31700.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>3.0410082E7</value>
+          <Data name="LATITUD"><value>30.410082</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.07924098E8</value>
+          <Data name="LONGITUD"><value>-107.924098</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-107.924098,30.410082,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>CALLE MA ELENA HERNANDEZ NO. 210,REVOLUCION,CHIHUAHUA,CHIHUAHUA</address>
@@ -940,14 +887,12 @@
           <Data name="CP">
             <value>31135.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.8694231E7</value>
+          <Data name="LATITUD"><value>28.694231000000002</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.06112241E8</value>
+          <Data name="LONGITUD"><value>-106.112241</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.112241,28.694231000000002,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>CARRETERA CHIHuaua-JUAREZ 18700,QUINTAS CAROLINAS,CHIHUAHUA,CHIHUAHUA</address>
@@ -975,14 +920,12 @@
           <Data name="CP">
             <value>31146.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.8764843E7</value>
+          <Data name="LATITUD"><value>28.764843000000003</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-10688.0</value>
+          <Data name="LONGITUD"><value>-106.88</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.88,28.764843000000003,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>AV. FLORES MAGÓN Y C 46 ,ROSARIO,CHIHUAHUA,CHIHUAHUA</address>
@@ -1010,14 +953,12 @@
           <Data name="CP">
             <value>31030.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.8617384E7</value>
+          <Data name="LATITUD"><value>28.617383999999998</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.06079568E8</value>
+          <Data name="LONGITUD"><value>-106.07956800000002</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.07956800000002,28.617383999999998,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>ROSALES Y C 25 ,OBRERA,CHIHUAHUA,CHIHUAHUA</address>
@@ -1045,14 +986,12 @@
           <Data name="CP">
             <value>31000.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.8641307E7</value>
+          <Data name="LATITUD"><value>28.641307</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.0606857E7</value>
+          <Data name="LONGITUD"><value>-106.06857</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.06857,28.641307,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>AV. INDUSTRIAS Y JUAN ESCUTIA ,NOMBRE DE DIOS,CHIHUAHUA,CHIHUAHUA</address>
@@ -1080,14 +1019,12 @@
           <Data name="CP">
             <value>31110.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>286869.0</value>
+          <Data name="LATITUD"><value>28.6869</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.06092281E8</value>
+          <Data name="LONGITUD"><value>-106.092281</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.092281,28.6869,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>CALLE MIGUELITOS Y LILAS ,CAMPESINA,CHIHUAHUA,CHIHUAHUA</address>
@@ -1115,14 +1052,12 @@
           <Data name="CP">
             <value>31410.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.8613346E7</value>
+          <Data name="LATITUD"><value>28.613346</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.06098492E8</value>
+          <Data name="LONGITUD"><value>-106.09849200000001</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.09849200000001,28.613346,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>AV. MELCHOR GUASPE Y C 16 ,DALE,CHIHUAHUA,CHIHUAHUA</address>
@@ -1150,14 +1085,12 @@
           <Data name="CP">
             <value>31050.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.8618072E7</value>
+          <Data name="LATITUD"><value>28.618072</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.06058755E8</value>
+          <Data name="LONGITUD"><value>-106.05875499999999</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.05875499999999,28.618072,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>AV. NIÑOS HEROES Y C 4A ,CENTRO,CHIHUAHUA,CHIHUAHUA</address>
@@ -1185,14 +1118,12 @@
           <Data name="CP">
             <value>31000.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.8637425E7</value>
+          <Data name="LATITUD"><value>28.637424999999997</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.06079731E8</value>
+          <Data name="LONGITUD"><value>-106.079731</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.079731,28.637424999999997,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>AV. FUENTES MARES Y C NVA. ESPAÑA ,MARMOL II,CHIHUAHUA,CHIHUAHUA</address>
@@ -1220,14 +1151,12 @@
           <Data name="CP">
             <value>31075.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.8620408E7</value>
+          <Data name="LATITUD"><value>28.620407999999998</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.0603149E7</value>
+          <Data name="LONGITUD"><value>-106.03148999999999</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.03148999999999,28.620407999999998,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>AV. FEDOR DOSTOYEVSKY ,ALAMEDAS,CHIHUAHUA,CHIHUAHUA</address>
@@ -1255,14 +1184,12 @@
           <Data name="CP">
             <value>31109.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2872555.0</value>
+          <Data name="LATITUD"><value>28.72555</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.06121259E8</value>
+          <Data name="LONGITUD"><value>-106.12125900000001</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.12125900000001,28.72555,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>PERIF. DE LA JUVENTUD Y ABOLICIÓN DE LA ESCLAVITUD  ,LOMA DORADA,CHIHUAHUA,CHIHUAHUA</address>
@@ -1290,14 +1217,12 @@
           <Data name="CP">
             <value>31125.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.8689252E7</value>
+          <Data name="LATITUD"><value>28.689252</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.0613316E7</value>
+          <Data name="LONGITUD"><value>-106.13316</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.13316,28.689252,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>CIRCUITO UNIVERSITARIO Y COLON ,CAFETALES,CHIHUAHUA,CHIHUAHUA</address>
@@ -1325,14 +1250,12 @@
           <Data name="CP">
             <value>31109.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.8723175E7</value>
+          <Data name="LATITUD"><value>28.723175000000005</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.06145897E8</value>
+          <Data name="LONGITUD"><value>-106.14589700000002</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.14589700000002,28.723175000000005,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>AV. FEDOR DOSTOYEVSKY Y AV. INDUSTRIAS ,ALAMEDAS,CHIHUAHUA,CHIHUAHUA</address>
@@ -1360,14 +1283,12 @@
           <Data name="CP">
             <value>31109.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.8728142E7</value>
+          <Data name="LATITUD"><value>28.728142000000002</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.06113502E8</value>
+          <Data name="LONGITUD"><value>-106.11350200000001</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.11350200000001,28.728142000000002,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>CALLE HACIENDA DE LOS  CARRIZALES Y PERIF. JUVENT,HACIENDA DE SANTA FE,CHIHUAHUA,CHIHUAHUA</address>
@@ -1395,14 +1316,12 @@
           <Data name="CP">
             <value>31207.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.8626699E7</value>
+          <Data name="LATITUD"><value>28.626698999999995</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.06114894E8</value>
+          <Data name="LONGITUD"><value>-106.114894</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.114894,28.626698999999995,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>AVE. SILVESTRE TERRAZAS 9002-A,LOS PINOS,CHIHUAHUA,CHIHUAHUA</address>
@@ -1430,14 +1349,12 @@
           <Data name="CP">
             <value>31410.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.8600523E7</value>
+          <Data name="LATITUD"><value>28.600523</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.06103638E8</value>
+          <Data name="LONGITUD"><value>-106.103638</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.103638,28.600523,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>AVE. JUÁREZ Y PACHECO,CENTRO,CHIHUAHUA,CHIHUAHUA</address>
@@ -1465,14 +1382,12 @@
           <Data name="CP">
             <value>31000.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.8649421E7</value>
+          <Data name="LATITUD"><value>28.649421</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.06065913E8</value>
+          <Data name="LONGITUD"><value>-106.06591300000002</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.06591300000002,28.649421,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>UNIV. DE PALERMO NO. 3805,LOMAS UNIV. II,CHIHUAHUA,CHIHUAHUA</address>
@@ -1500,14 +1415,12 @@
           <Data name="CP">
             <value>31123.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.8683907E7</value>
+          <Data name="LATITUD"><value>28.683906999999998</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.06139604E8</value>
+          <Data name="LONGITUD"><value>-106.139604</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.139604,28.683906999999998,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>AVE. DE LA CANTERA 6901,FRACC. RESIDENCIAL CANTERA,CHIHUAHUA,CHIHUAHUA</address>
@@ -1535,14 +1448,12 @@
           <Data name="CP">
             <value>31215.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2864675.0</value>
+          <Data name="LATITUD"><value>28.646750000000004</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.06115373E8</value>
+          <Data name="LONGITUD"><value>-106.115373</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.115373,28.646750000000004,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>AV.GUILLERMO PRIETO LUJAN Y ANTHONY QUEEN #1300,SAHUAROS,CHIHUAHUA,CHIHUAHUA</address>
@@ -1570,14 +1481,12 @@
           <Data name="CP">
             <value>31137.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.8743753E7</value>
+          <Data name="LATITUD"><value>28.743752999999998</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.06132137E8</value>
+          <Data name="LONGITUD"><value>-106.13213699999999</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.13213699999999,28.743752999999998,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>AV. CAMINO REAL  8810 ESQ. CON EQUUS,AEROPUERTO,CHIHUAHUA,CHIHUAHUA</address>
@@ -1605,14 +1514,12 @@
           <Data name="CP">
             <value>31309.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.8667259E7</value>
+          <Data name="LATITUD"><value>28.667259</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.05991827E8</value>
+          <Data name="LONGITUD"><value>-105.99182700000001</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-105.99182700000001,28.667259,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>AV. NUEVA ESPAÑA 3405 . ALMADA,COL. RANCHERIA JUAREZ 2,CHIHUAHUA,CHIHUAHUA</address>
@@ -1640,14 +1547,12 @@
           <Data name="CP">
             <value>31064.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.8599116E7</value>
+          <Data name="LATITUD"><value>28.599116000000002</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.06032515E8</value>
+          <Data name="LONGITUD"><value>-106.03251499999999</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.03251499999999,28.599116000000002,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>CARRETERA ALDAMA CHIHUAHUA 9500         ,RESIDENCIAL EL LEON                ,CHIHUAHUA,CHIHUAHUA</address>
@@ -1675,14 +1580,12 @@
           <Data name="CP">
             <value>31313.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.8671565E7</value>
+          <Data name="LATITUD"><value>28.671564999999998</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.06027411E8</value>
+          <Data name="LONGITUD"><value>-106.02741099999999</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-106.02741099999999,28.671564999999998,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>JOSE B REYES 100,CALERA DE VICTOR ROSALES CENTRO,CALERA,ZACATECAS</address>
@@ -1710,14 +1613,12 @@
           <Data name="CP">
             <value>98500.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.295277115E9</value>
+          <Data name="LATITUD"><value>22.952771149999997</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.027065314E9</value>
+          <Data name="LONGITUD"><value>-102.70653139999999</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-102.70653139999999,22.952771149999997,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>BLVD JESUS VARELA RICO 702,TECNOLOGICA,FRESNILLO,ZACATECAS</address>
@@ -1745,14 +1646,12 @@
           <Data name="CP">
             <value>99020.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.318877349E9</value>
+          <Data name="LATITUD"><value>23.188773490000003</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.028802575E9</value>
+          <Data name="LONGITUD"><value>-102.8802575</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-102.8802575,23.188773490000003,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>VETAGRANDE 3,CAÑADA DEL SOL,GUADALUPE,ZACATECAS</address>
@@ -1780,14 +1679,12 @@
           <Data name="CP">
             <value>98619.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2277203.0</value>
+          <Data name="LATITUD"><value>22.77203</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.0253761E7</value>
+          <Data name="LONGITUD"><value>-102.53761</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-102.53761,22.77203,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>AVE. UNIVERSIDAD 305, TORREON, COAHUILA,SOL DE ORIENTE III,TORREON ,COAHUILA</address>
@@ -1815,14 +1712,12 @@
           <Data name="CP">
             <value>27087.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2553888.0</value>
+          <Data name="LATITUD"><value>25.53888</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.03326085E8</value>
+          <Data name="LONGITUD"><value>-103.32608499999999</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-103.32608499999999,25.53888,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>BOULEVAR LAGUNA SUR 1491, TORREON, COAHUILA,LAZARO CARDENAS AMPLIACION,TORREON ,COAHUILA</address>
@@ -1850,14 +1745,12 @@
           <Data name="CP">
             <value>27390.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.5497461E7</value>
+          <Data name="LATITUD"><value>25.497461000000005</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.03410343E8</value>
+          <Data name="LONGITUD"><value>-103.41034300000001</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-103.41034300000001,25.497461000000005,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>AVENIDA HIDALGO 390,CENTRO,TORREON ,COAHUILA</address>
@@ -1885,14 +1778,12 @@
           <Data name="CP">
             <value>27000.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.5536759E7</value>
+          <Data name="LATITUD"><value>25.536758999999996</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.0344508E7</value>
+          <Data name="LONGITUD"><value>-103.44508</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-103.44508,25.536758999999996,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>AVENIDA 5 DE MAYO # 700, GOMEZ PALACIO, DURANGO,FRANCISCO GONZALEZ DE LA VEGA,GOMEZ PALACIO,DURANGO</address>
@@ -1920,14 +1811,12 @@
           <Data name="CP">
             <value>35030.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.5580425E7</value>
+          <Data name="LATITUD"><value>25.580424999999998</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.03493469E8</value>
+          <Data name="LONGITUD"><value>-103.493469</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-103.493469,25.580424999999998,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>CALLE CIPRECES #1250, TORREON, COAHUILA,CAMPESTRE LA ROSITA,TORREON ,COAHUILA</address>
@@ -1955,14 +1844,12 @@
           <Data name="CP">
             <value>27250.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.5519915E7</value>
+          <Data name="LATITUD"><value>25.519915</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.0341851E7</value>
+          <Data name="LONGITUD"><value>-103.41851</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-103.41851,25.519915,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>AV. LIBERTAD ESQ. SIERRA DE MINA ,RESIDELCIAL NAZAS,TORREON ,COAHUILA</address>
@@ -1990,14 +1877,12 @@
           <Data name="CP">
             <value>27083.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.5536829E7</value>
+          <Data name="LATITUD"><value>25.536828999999997</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.03356606E8</value>
+          <Data name="LONGITUD"><value>-103.35660599999999</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-103.35660599999999,25.536828999999997,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>PROLONGACION AVE. JUAREZ ORIENTE # 5300 ,FRACC. RESIDENCIAL LAS TORRES II ,TORREON ,COAHUILA</address>
@@ -2025,14 +1910,12 @@
           <Data name="CP">
             <value>27085.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.5538628E7</value>
+          <Data name="LATITUD"><value>25.538628</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.0338921E7</value>
+          <Data name="LONGITUD"><value>-103.38920999999998</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-103.38920999999998,25.538628,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>CALZADA DEL JESUITA JUAN AGUSTIN ESPINOZA, ESQ. AV. DE LOS GRANDESPINTORES S/N,FRACC. IV SAN ANTONIO,TORREON ,COAHUILA</address>
@@ -2060,14 +1943,12 @@
           <Data name="CP">
             <value>27058.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.5558801E7</value>
+          <Data name="LATITUD"><value>25.558801</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.03382774E8</value>
+          <Data name="LONGITUD"><value>-103.38277400000001</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-103.38277400000001,25.558801,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>BOULEVARD MIGUEL ALEMAN Y VERSALLES,# 601, GOMEZ PALACIO, DURANGO,EL CAMPESTRE,GOMEZ PALACIO,DURANGO</address>
@@ -2095,14 +1976,12 @@
           <Data name="CP">
             <value>35080.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.5553874E7</value>
+          <Data name="LATITUD"><value>25.553874</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.03498557E8</value>
+          <Data name="LONGITUD"><value>-103.498557</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-103.498557,25.553874,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>CALZADA DE VASCONCELOS Y ESQ. AV. PAVORREL,FRACC.EXHACIENDAS LOS ANGELES,TORREON ,COAHUILA</address>
@@ -2130,14 +2009,12 @@
           <Data name="CP">
             <value>27265.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.5527837E7</value>
+          <Data name="LATITUD"><value>25.527837000000005</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.03397345E8</value>
+          <Data name="LONGITUD"><value>-103.397345</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-103.397345,25.527837000000005,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>AV. CHIHUAHUA NO. 401                   ,COL. CENTRO                        ,LERDO,DURANGO</address>
@@ -2165,14 +2042,12 @@
           <Data name="CP">
             <value>35150.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.5543718E7</value>
+          <Data name="LATITUD"><value>25.543718</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.03527337E8</value>
+          <Data name="LONGITUD"><value>-103.52733699999999</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-103.52733699999999,25.543718,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>BLVD LA LIBERTAD 1050,COL. MONTE REAL,TORREON ,COAHUILA</address>
@@ -2200,14 +2075,12 @@
           <Data name="CP">
             <value>27277.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2554314.0</value>
+          <Data name="LATITUD"><value>25.54314</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1033589.0</value>
+          <Data name="LONGITUD"><value>-103.35889999999999</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-103.35889999999999,25.54314,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>BLVD LUIS ECHEVERRIA ALVAREZ 2012,LOMAS DE LOURDES,SALTILLO ,COAHUILA</address>
@@ -2235,14 +2108,12 @@
           <Data name="CP">
             <value>25090.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2538745.0</value>
+          <Data name="LATITUD"><value>25.387449999999998</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.0099123E7</value>
+          <Data name="LONGITUD"><value>-100.99123000000002</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-100.99123000000002,25.387449999999998,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>CARRETERA AL MEZQUITAL 202,RESIDENCIAL SANTA TERESA,DURANGO,DURANGO</address>
@@ -2270,14 +2141,12 @@
           <Data name="CP">
             <value>34162.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.4000744E7</value>
+          <Data name="LATITUD"><value>24.000744</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1046448.0</value>
+          <Data name="LONGITUD"><value>-104.64479999999999</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-104.64479999999999,24.000744,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>CALZADA ANTONIO NARRO 1471,SAN LORENZO,SALTILLO,COAHUILA</address>
@@ -2305,14 +2174,12 @@
           <Data name="CP">
             <value>25040.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.5407472E7</value>
+          <Data name="LATITUD"><value>25.407472000000002</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1010126.0</value>
+          <Data name="LONGITUD"><value>-101.01259999999999</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-101.01259999999999,25.407472000000002,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>BLVD. DE LA JUVENTUD,COL. 20 DE NOVIEMBRE,DURANGO,DURANGO</address>
@@ -2340,14 +2207,12 @@
           <Data name="CP">
             <value>34234.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.4030808E7</value>
+          <Data name="LATITUD"><value>24.030807999999997</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.04618506E8</value>
+          <Data name="LONGITUD"><value>-104.618506</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-104.618506,24.030807999999997,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>BLVD. REVOLUCION 3108, AMPL. MIRASIERRA,SALTILLO,COAHUILA</address>
@@ -2375,14 +2240,12 @@
           <Data name="CP">
             <value>25016.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.5417801E7</value>
+          <Data name="LATITUD"><value>25.417801</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.00922219E8</value>
+          <Data name="LONGITUD"><value>-100.92221900000001</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-100.92221900000001,25.417801,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>BLVD.LOS FUNDADORES POLIGONO 1 LOTE 4 ESQUINA CON EULALIO GTZ.,COL.VALLE DE LAS FLORES, SALTILLO,SALTILLO,COAHUILA</address>
@@ -2410,14 +2273,12 @@
           <Data name="CP">
             <value>25294.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.5430267E7</value>
+          <Data name="LATITUD"><value>25.430266999999997</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.00956877E8</value>
+          <Data name="LONGITUD"><value>-100.95687699999999</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-100.95687699999999,25.430266999999997,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>BLVD.ISIDRO LOPEZ ZERTUCHE #1255,FRACC. UNIVERSIDAD, SALTILLO,SALTILLO,COAHUILA</address>
@@ -2445,14 +2306,12 @@
           <Data name="CP">
             <value>25260.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.5436699E7</value>
+          <Data name="LATITUD"><value>25.436698999999997</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.0100514E7</value>
+          <Data name="LONGITUD"><value>-101.00514</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-101.00514,25.436698999999997,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>AV. INSTITUTO DURANGO NO. 303,COL. BELLA VISTA,DURANGO,DURANGO</address>
@@ -2480,14 +2339,12 @@
           <Data name="CP">
             <value>34047.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.4030437E7</value>
+          <Data name="LATITUD"><value>24.030437</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.04687963E8</value>
+          <Data name="LONGITUD"><value>-104.68796300000001</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-104.68796300000001,24.030437,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>JOSÉ MA. LAFRAGUA NO. 2226,ZONA CENTRO,SALTILLO,COAHUILA</address>
@@ -2515,14 +2372,12 @@
           <Data name="CP">
             <value>25297.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.5436418E7</value>
+          <Data name="LATITUD"><value>25.436417999999996</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.00979434E8</value>
+          <Data name="LONGITUD"><value>-100.979434</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-100.979434,25.436417999999996,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>BLVD. EULALIO GUTIERREZ TREVINO NO. 1890,SAN PATRICIO PLUS                  ,SALTILLO,COAHUILA</address>
@@ -2550,14 +2405,12 @@
           <Data name="CP">
             <value>25204.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.5458214E7</value>
+          <Data name="LATITUD"><value>25.458213999999998</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.00954483E8</value>
+          <Data name="LONGITUD"><value>-100.95448300000001</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-100.95448300000001,25.458213999999998,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>BLVD. DOMINGO ARRIETA NO.1043,FRACC. S.A.H.O.P.,DURANGO,DURANGO</address>
@@ -2585,14 +2438,12 @@
           <Data name="CP">
             <value>34180.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.4002756E7</value>
+          <Data name="LATITUD"><value>24.002755999999998</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.04661441E8</value>
+          <Data name="LONGITUD"><value>-104.661441</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-104.661441,24.002755999999998,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>BLVD. JAIME BENAVIDES POMPA NO.400,COL. DEL VALLE SECCIÓN II,RAMOS ARIZPE,COAHUILA</address>
@@ -2620,14 +2471,12 @@
           <Data name="CP">
             <value>25903.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2553724.0</value>
+          <Data name="LATITUD"><value>25.537239999999997</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.00943303E8</value>
+          <Data name="LONGITUD"><value>-100.94330299999999</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-100.94330299999999,25.537239999999997,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>LOS REMEDIOS 120,LOS REMEDIOS,DURANGO,DURANGO</address>
@@ -2655,14 +2504,12 @@
           <Data name="CP">
             <value>34100.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.4016038E7</value>
+          <Data name="LATITUD"><value>24.016037999999998</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.04685847E8</value>
+          <Data name="LONGITUD"><value>-104.685847</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-104.685847,24.016037999999998,0</coordinates></Point></Placemark>
       <Placemark>
         <name>AL SUPER</name>
         <address>BLVD. VENUSTIANO CARRANZA NO. 4189,COL. VIRREYES RESIDENCIAL,SALTILLO,COAHUILA</address>
@@ -2690,14 +2537,11 @@
           <Data name="CP">
             <value>25230.0</value>
           </Data>
-          <Data name="LATITUD">
-            <value>2.5461498E7</value>
+          <Data name="LATITUD"><value>25.461498</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>-1.00983415E8</value>
+          <Data name="LONGITUD"><value>-100.98341500000001</value>
           </Data>
         </ExtendedData>
-      </Placemark>
-    </Folder>
+      <Point><coordinates>-100.98341500000001,25.461498,0</coordinates></Point></Placemark>
   </Document>
 </kml>

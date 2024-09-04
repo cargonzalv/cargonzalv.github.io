@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <Folder>
-      <name>Cadenas Operando Conekta - Farmacias Bazar</name>
+    <name>Cadenas Operando Conekta - Farmacias Bazar</name>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 20 NO. 94,CENTRO,CALKINI,CAMPECHE</address>
@@ -30,14 +29,12 @@
           <Data name="CP">
             <value>24900</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.9278152,-89.6083774</value>
+          <Data name="LATITUD"><value>20.9278152</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.9278152,-89.6083774</value>
+          <Data name="LONGITUD"><value>-89.6083774</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6083774,20.9278152,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>C. 23 , COL. CENTRO,,,CAMPECHE</address>
@@ -65,14 +62,12 @@
           <Data name="CP">
             <value>24920</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.9137295,-89.6208974</value>
+          <Data name="LATITUD"><value>20.9137295</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.9137295,-89.6208974</value>
+          <Data name="LONGITUD"><value>-89.6208974</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6208974,20.9137295,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 20 NO.111 ,SAN FRANCISCO,HECELCHAKAN,CAMPECHE</address>
@@ -135,14 +130,12 @@
           <Data name="CP">
             <value>24600</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.990935,-89.5969763</value>
+          <Data name="LATITUD"><value>20.990935</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.990935,-89.5969763</value>
+          <Data name="LONGITUD"><value>-89.5969763</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.5969763,20.990935,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE AV. ALVARO OBREGON NO.221 ,CENTRO,CHETUMAL,QUINTANA ROO</address>
@@ -170,14 +163,12 @@
           <Data name="CP">
             <value>77000</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.0158198,-89.5837553</value>
+          <Data name="LATITUD"><value>21.0158198</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.0158198,-89.5837553</value>
+          <Data name="LONGITUD"><value>-89.5837553</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.5837553,21.0158198,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>AVENIDA DE LOS HÉROES #177B ESQUINA MAHATMA GANDHI, COL CENTRO,,,QUINTANA ROO</address>
@@ -205,14 +196,12 @@
           <Data name="CP">
             <value/>
           </Data>
-          <Data name="LATITUD">
-            <value>21.0691361,-89.6566531</value>
+          <Data name="LATITUD"><value>21.0691361</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.0691361,-89.6566531</value>
+          <Data name="LONGITUD"><value>-89.6566531</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6566531,21.0691361,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>AVENIDA ERICK PAOLO MARTINEZ NO. 326 MZA 120 LOCAL 1 PLANTA BAJA LOTE 22 CHET. X PETCACAB,ANDRES QUINTANA ROO,CHETUMAL,QUINTANA ROO</address>
@@ -275,14 +264,12 @@
           <Data name="CP">
             <value>77000</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.0227849,-89.6057511</value>
+          <Data name="LATITUD"><value>21.0227849</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.0227849,-89.6057511</value>
+          <Data name="LONGITUD"><value>-89.6057511</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6057511,21.0227849,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>AVENIDA MAXUXAC Y CALLE PETCACAB LOCAL 1, LOTE 2, MANZANA 380,PROTERRITORIO,CHETUMAL,QUINTANA ROO</address>
@@ -310,14 +297,12 @@
           <Data name="CP">
             <value>77000</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.9862158,-89.5847144</value>
+          <Data name="LATITUD"><value>20.9862158</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.9862158,-89.5847144</value>
+          <Data name="LONGITUD"><value>-89.5847144</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.5847144,20.9862158,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE AV BELICE NO. 167 ENTRE AV. EFRAIN AGUILAR Y MAHATMA GANDHI,CENTRO,CHETUMAL,QUINTANA ROO</address>
@@ -345,14 +330,12 @@
           <Data name="CP">
             <value>77000</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.9835666,-89.6159649</value>
+          <Data name="LATITUD"><value>20.9835666</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.9835666,-89.6159649</value>
+          <Data name="LONGITUD"><value>-89.6159649</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6159649,20.9835666,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE SAN SALVADOR MANZANA 02 LOTE 05 NO. 490 LOC A ,FRACC. FLAMBOYANES,CHETUMAL,QUINTANA ROO</address>
@@ -380,14 +363,12 @@
           <Data name="CP">
             <value>77034</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.9826631,-89.6522553</value>
+          <Data name="LATITUD"><value>20.9826631</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.9826631,-89.6522553</value>
+          <Data name="LONGITUD"><value>-89.6522553</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6522553,20.9826631,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>AVENIDA ANDRES QUINTANA ROO, MANZANA 61 LOTE 12 Y 13, CRUZAMIENTO CON CALLE 129 N,REGION 97,BENITO JUAREZ,QUINTANA ROO</address>
@@ -415,14 +396,12 @@
           <Data name="CP">
             <value>77530</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.2841964,-89.6632504</value>
+          <Data name="LATITUD"><value>21.2841964</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.2841964,-89.6632504</value>
+          <Data name="LONGITUD"><value>-89.6632504</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6632504,21.2841964,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE AV LUNA MZA 6 FRACC ALBORADA NO. 7 LOC 1 ,SMZA 64 CANCUN,BENITO JUAREZ,QUINTANA ROO</address>
@@ -485,14 +464,12 @@
           <Data name="CP">
             <value>77535</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.9966934,-89.7030364</value>
+          <Data name="LATITUD"><value>20.9966934</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.9966934,-89.7030364</value>
+          <Data name="LONGITUD"><value>-89.7030364</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.7030364,20.9966934,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>AVENIDA JOSE LOPEZ PORTILLO, MANZANA 101, LOTE 16,REGION 102,BENITO JUAREZ,QUINTANA ROO</address>
@@ -520,14 +497,12 @@
           <Data name="CP">
             <value>77538</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.0017603,-89.6889906</value>
+          <Data name="LATITUD"><value>21.0017603</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.0017603,-89.6889906</value>
+          <Data name="LONGITUD"><value>-89.6889906</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6889906,21.0017603,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE AV MIGUEL HIDALGO RUTA 5 NO, MZA 5 LOTE 101 LOCAL 7 ENTRE 41 NORTE Y ESQUINA,MS 73,BENITO JUAREZ,QUINTANA ROO</address>
@@ -555,14 +530,12 @@
           <Data name="CP">
             <value>77510</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.9955345,-89.644593</value>
+          <Data name="LATITUD"><value>20.9955345</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.9955345,-89.644593</value>
+          <Data name="LONGITUD"><value>-89.644593</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.644593,20.9955345,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>AV. NIÑOS HEROES x107 L.14 Mzna.64,,,QUINTANA ROO</address>
@@ -590,14 +563,12 @@
           <Data name="CP">
             <value/>
           </Data>
-          <Data name="LATITUD">
-            <value>20.9852781,-89.6199156</value>
+          <Data name="LATITUD"><value>20.9852781</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.9852781,-89.6199156</value>
+          <Data name="LONGITUD"><value>-89.6199156</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6199156,20.9852781,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE AV JOSE LOPEZ PORTILLO NO. MZA 9 LOTE 11 LOCAL 2 X 7 Y 11,SM 64,BENITO JUAREZ,QUINTANA ROO</address>
@@ -625,14 +596,12 @@
           <Data name="CP">
             <value>77524</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.0414478,-89.5574855</value>
+          <Data name="LATITUD"><value>21.0414478</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.0414478,-89.5574855</value>
+          <Data name="LONGITUD"><value>-89.5574855</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.5574855,21.0414478,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE MANZANA 7  AV MIGUELHIDALGO NO. 803 ENTRE AV. KABAH Y 93 NORTE,REGION 93 CANCUN,BENITO JUAREZ,QUINTANA ROO</address>
@@ -660,14 +629,12 @@
           <Data name="CP">
             <value>77517</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.0115933,-89.6301284</value>
+          <Data name="LATITUD"><value>21.0115933</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.0115933,-89.6301284</value>
+          <Data name="LONGITUD"><value>-89.6301284</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6301284,21.0115933,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>PLAZA 23  SUPERMANZANA 23 MANZANA 32, LOCAL 24.,CENTRO,BENITO JUAREZ,QUINTANA ROO</address>
@@ -695,14 +662,12 @@
           <Data name="CP">
             <value>77500</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.9324008,-89.6205304</value>
+          <Data name="LATITUD"><value>20.9324008</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.9324008,-89.6205304</value>
+          <Data name="LONGITUD"><value>-89.6205304</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6205304,20.9324008,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>AVENIDA XELHA, MANZANA 8, LOCAL 1, LOTE 1,  CRUZAMIENTOS ANDADOR 20 POR 9 Y 10,SM 28,BENITO JUAREZ,QUINTANA ROO</address>
@@ -765,14 +730,12 @@
           <Data name="CP">
             <value>77527</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.9863573,-89.6387514</value>
+          <Data name="LATITUD"><value>20.9863573</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.9863573,-89.6387514</value>
+          <Data name="LONGITUD"><value>-89.6387514</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6387514,20.9863573,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <description><![CDATA[TIENDA: CUN PASEO NIKTE<br>DIRECCION: AV. OBSIDIANA ENTRE IKTAN E ITZAES LOTE 4 CASA 1 SUPER MANZANA 255, MANZANA 48<br>COLONIA: MZA48 REGION 255 FRACC. PASEO NIKTE<br>CIUDAD: BENITO JUAREZ<br>ESTADO: QUINTANA ROO<br>Direccion FULL: AV. OBSIDIANA ENTRE IKTAN E ITZAES LOTE 4 CASA 1 SUPER MANZANA 255, MANZANA 48,MZA48 REGION 255 FRACC. PASEO NIKTE,BENITO JUAREZ,QUINTANA ROO<br>CP: 77527<br>LATITUD: 20.9859704,-89.6384173<br>LONGITUD: 20.9859704,-89.6384173]]></description>
@@ -798,14 +761,12 @@
           <Data name="CP">
             <value>77527</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.9859704,-89.6384173</value>
+          <Data name="LATITUD"><value>20.9859704</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.9859704,-89.6384173</value>
+          <Data name="LONGITUD"><value>-89.6384173</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6384173,20.9859704,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <description><![CDATA[TIENDA: CUN PLAZA ALEBRIJES<br>DIRECCION: CALLE AV KABAH CON ESQUINA AV NIÑOS HEROES, REG 221 M 9 L3-02<br>COLONIA: REGION 221 CANCUN<br>CIUDAD: BENITO JUAREZ<br>ESTADO: QUINTANA ROO<br>Direccion FULL: CALLE AV KABAH CON ESQUINA AV NIÑOS HEROES, REG 221 M 9 L3-02,REGION 221 CANCUN,BENITO JUAREZ,QUINTANA ROO<br>CP: 77517<br>LATITUD: 21.0340629,-89.6278559<br>LONGITUD: 21.0340629,-89.6278559]]></description>
@@ -831,14 +792,12 @@
           <Data name="CP">
             <value>77517</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.0340629,-89.6278559</value>
+          <Data name="LATITUD"><value>21.0340629</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.0340629,-89.6278559</value>
+          <Data name="LONGITUD"><value>-89.6278559</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6278559,21.0340629,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>PROLONGACION AV. KABAH LOTE 2-A LOCAL 27 ENTRE AV. FCO. I MADERO Y ESQUINA,SUPER MANZANA 93,CANCUN,QUINTANA ROO</address>
@@ -866,14 +825,12 @@
           <Data name="CP">
             <value>77517</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.959996,-89.5813849</value>
+          <Data name="LATITUD"><value>20.959996</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.959996,-89.5813849</value>
+          <Data name="LONGITUD"><value>-89.5813849</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.5813849,20.959996,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 105, MANZANA 42, LOTE 5, LOCALES 5 Y 6 CRUZAMIENTO CON CALLE 16,SM 95,BENITO JUAREZ,QUINTANA ROO</address>
@@ -901,14 +858,12 @@
           <Data name="CP">
             <value>77534</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.0189752,-89.594052</value>
+          <Data name="LATITUD"><value>21.0189752</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.0189752,-89.594052</value>
+          <Data name="LONGITUD"><value>-89.594052</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.594052,21.0189752,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>LOTE 45 LOCALL 17 AV.DE LOS TALLERES X DIAGONAL TULUM,SM 89 MZA 61,BENITO JUAREZ,QUINTANA ROO</address>
@@ -936,14 +891,12 @@
           <Data name="CP">
             <value>77527</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.0215778,-89.6431709</value>
+          <Data name="LATITUD"><value>21.0215778</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.0215778,-89.6431709</value>
+          <Data name="LONGITUD"><value>-89.6431709</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6431709,21.0215778,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 131 NO. 210 ENTRE 42 Y 44 SAN NICOLAS DEL SUR,SAN NICOLAS DEL SUR,MERIDA,YUCATAN</address>
@@ -971,14 +924,12 @@
           <Data name="CP">
             <value>97289</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.0307299,-89.6468677</value>
+          <Data name="LATITUD"><value>21.0307299</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.0307299,-89.6468677</value>
+          <Data name="LONGITUD"><value>-89.6468677</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6468677,21.0307299,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 50 NO.318 B , A UN COSTADO DE SUPER WILLYS,PLAN DE AYALA SUR,MERIDA,YUCATAN</address>
@@ -1006,14 +957,12 @@
           <Data name="CP">
             <value>97285</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.0352917,-89.6448453</value>
+          <Data name="LATITUD"><value>21.0352917</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.0352917,-89.6448453</value>
+          <Data name="LONGITUD"><value>-89.6448453</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6448453,21.0352917,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 29 A NO. 168 X 20 LOCAL 1,MIGUEL ALEMAN,MERIDA,YUCATAN</address>
@@ -1041,14 +990,12 @@
           <Data name="CP">
             <value>97148</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.0110668,-89.5740827</value>
+          <Data name="LATITUD"><value>21.0110668</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.0110668,-89.5740827</value>
+          <Data name="LONGITUD"><value>-89.5740827</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.5740827,21.0110668,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 59 A NO.699 LOCAL 2, COL BOJORQUEZ,BOJORQUEZ,MERIDA,YUCATAN</address>
@@ -1076,14 +1023,12 @@
           <Data name="CP">
             <value>97230</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.9858243,-89.6308856</value>
+          <Data name="LATITUD"><value>20.9858243</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.9858243,-89.6308856</value>
+          <Data name="LONGITUD"><value>-89.6308856</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6308856,20.9858243,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 20 NO. 301 LOCAL 1 ,VISTA ALEGRE NORTE,MERIDA,YUCATAN</address>
@@ -1111,14 +1056,12 @@
           <Data name="CP">
             <value>97130</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.9961647,-89.5714307</value>
+          <Data name="LATITUD"><value>20.9961647</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.9961647,-89.5714307</value>
+          <Data name="LONGITUD"><value>-89.5714307</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.5714307,20.9961647,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 49 NO. 215 X 32 LOCAL 8,SAN ANTONIO CUCUL,MERIDA,YUCATAN</address>
@@ -1146,14 +1089,12 @@
           <Data name="CP">
             <value>97116</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.9648668,-89.6496554</value>
+          <Data name="LATITUD"><value>20.9648668</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.9648668,-89.6496554</value>
+          <Data name="LONGITUD"><value>-89.6496554</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6496554,20.9648668,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 26. DIAGONAL, NO. 551,FRACC. BRISAS,MERIDA,YUCATAN</address>
@@ -1181,14 +1122,12 @@
           <Data name="CP">
             <value>97144</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.9850799,-89.6391283</value>
+          <Data name="LATITUD"><value>20.9850799</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.9850799,-89.6391283</value>
+          <Data name="LONGITUD"><value>-89.6391283</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6391283,20.9850799,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 3 NO.290 LOC 1,SAN PEDRO UXMAL,MERIDA,YUCATAN</address>
@@ -1216,14 +1155,12 @@
           <Data name="CP">
             <value>97203</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.0143713,-89.5928365</value>
+          <Data name="LATITUD"><value>21.0143713</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.0143713,-89.5928365</value>
+          <Data name="LONGITUD"><value>-89.5928365</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.5928365,21.0143713,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE CARRETERA MERIDA MOTUL NO. LOC 4 A 10 MTS DE LA GASOLINERA,GRAN SAN PEDRO CHOLUL,MERIDA,YUCATAN</address>
@@ -1251,14 +1188,12 @@
           <Data name="CP">
             <value>97305</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.994919,-89.637891</value>
+          <Data name="LATITUD"><value>20.994919</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.994919,-89.637891</value>
+          <Data name="LONGITUD"><value>-89.637891</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.637891,20.994919,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 59 NO. 684 X 86 Y 88 LOCAL 4,LOS ALMENDROS(CAUCEL),MERIDA,YUCATAN</address>
@@ -1286,14 +1221,12 @@
           <Data name="CP">
             <value>97314</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.9953819,-89.6478092</value>
+          <Data name="LATITUD"><value>20.9953819</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.9953819,-89.6478092</value>
+          <Data name="LONGITUD"><value>-89.6478092</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6478092,20.9953819,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 62 NO. 655 ENTRE CALLE 37 Y 39 A, LOCAL 1 , COLONIA CAUCEL,CAUCEL,MERIDA,YUCATAN</address>
@@ -1321,14 +1254,12 @@
           <Data name="CP">
             <value>97314</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.0047405,-89.5848999</value>
+          <Data name="LATITUD"><value>21.0047405</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.0047405,-89.5848999</value>
+          <Data name="LONGITUD"><value>-89.5848999</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.5848999,21.0047405,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>AV.7  (ALFREDO BARRERA) #286 A POR 44 Y 46 COL SAN DAMIAN,SAN DAMIAN,MERIDA,YUCATAN</address>
@@ -1356,14 +1287,12 @@
           <Data name="CP">
             <value>97070</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.043714,-89.6010345</value>
+          <Data name="LATITUD"><value>21.043714</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.043714,-89.6010345</value>
+          <Data name="LONGITUD"><value>-89.6010345</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6010345,21.043714,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 60 NO. 329  INT. A X 35 Y AV. COLON,CENTRO,MERIDA,YUCATAN</address>
@@ -1391,14 +1320,12 @@
           <Data name="CP">
             <value>97000</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.9235852,-89.5819712</value>
+          <Data name="LATITUD"><value>20.9235852</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.9235852,-89.5819712</value>
+          <Data name="LONGITUD"><value>-89.5819712</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.5819712,20.9235852,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 57 #442-L LOCAL 5 X 42,CHEM BECH,MERIDA,YUCATAN</address>
@@ -1426,14 +1353,12 @@
           <Data name="CP">
             <value> 97110 </value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.9709651,-89.6300747</value>
+          <Data name="LATITUD"><value>20.9709651</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.9709651,-89.6300747</value>
+          <Data name="LONGITUD"><value>-89.6300747</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6300747,20.9709651,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 22 NO 99 C X 21 ESQUINA,CHOLUL,MERIDA,YUCATAN</address>
@@ -1461,14 +1386,12 @@
           <Data name="CP">
             <value>97305</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.0155846,-89.5849021</value>
+          <Data name="LATITUD"><value>21.0155846</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.0155846,-89.5849021</value>
+          <Data name="LONGITUD"><value>-89.5849021</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.5849021,21.0155846,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 21 NO. 96 A X 16 Y 18,CHUBURNA,MERIDA,YUCATAN</address>
@@ -1496,14 +1419,12 @@
           <Data name="CP">
             <value>97205</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.0150623,-89.5844573</value>
+          <Data name="LATITUD"><value>21.0150623</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.0150623,-89.5844573</value>
+          <Data name="LONGITUD"><value>-89.5844573</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.5844573,21.0150623,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <description><![CDATA[TIENDA: MID CINCO COLONIAS<br>DIRECCION: CALLE 119 NO. 402 LOCAL 1 Y 2 ENTRE 50 ESQUINA<br>COLONIA: CINCO COLONIAS<br>CIUDAD: MERIDA<br>ESTADO: YUCATAN<br>Direccion FULL: CALLE 119 NO. 402 LOCAL 1 Y 2 ENTRE 50 ESQUINA,CINCO COLONIAS,MERIDA,YUCATAN<br>CP: 97280<br>LATITUD: 21.0264305,-89.5787345<br>LONGITUD: 21.0264305,-89.5787345]]></description>
@@ -1529,14 +1450,12 @@
           <Data name="CP">
             <value>97280</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.0264305,-89.5787345</value>
+          <Data name="LATITUD"><value>21.0264305</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.0264305,-89.5787345</value>
+          <Data name="LONGITUD"><value>-89.5787345</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.5787345,21.0264305,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 32 AVE. ITZAES NO. 252 DEPTO. B ,GARCIA GINERES,MERIDA,YUCATAN</address>
@@ -1564,14 +1483,12 @@
           <Data name="CP">
             <value>97070</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.9463778,-89.631998</value>
+          <Data name="LATITUD"><value>20.9463778</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.9463778,-89.631998</value>
+          <Data name="LONGITUD"><value>-89.631998</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.631998,20.9463778,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 76 NO. 455-T X 45 Y 47,CENTRO,MERIDA,YUCATAN</address>
@@ -1599,14 +1516,12 @@
           <Data name="CP">
             <value>97000</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.9374579,-89.6213338</value>
+          <Data name="LATITUD"><value>20.9374579</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.9374579,-89.6213338</value>
+          <Data name="LONGITUD"><value>-89.6213338</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6213338,20.9374579,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 32 NO.242 X 25 Y 27 (AV. ITZAES),GARCIA GINERES,MERIDA,YUCATAN</address>
@@ -1634,14 +1549,12 @@
           <Data name="CP">
             <value>97070</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.8124535,-89.4531138</value>
+          <Data name="LATITUD"><value>20.8124535</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.8124535,-89.4531138</value>
+          <Data name="LONGITUD"><value>-89.4531138</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.4531138,20.8124535,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 27 NO.220 B  ENFRENTE DE URGENCIAS C.MERIDA,GARCIA GINERES,MERIDA,YUCATAN</address>
@@ -1669,14 +1582,12 @@
           <Data name="CP">
             <value>97070</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.2020624,-88.794993</value>
+          <Data name="LATITUD"><value>21.2020624</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.2020624,-88.794993</value>
+          <Data name="LONGITUD"><value>-88.794993</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-88.794993,21.2020624,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 7 NO. 215-A X 32 Y 34,GARCIA GINERES,MERIDA,YUCATAN</address>
@@ -1704,14 +1615,12 @@
           <Data name="CP">
             <value>97070</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.6558165,-87.9378336</value>
+          <Data name="LATITUD"><value>20.6558165</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.6558165,-87.9378336</value>
+          <Data name="LONGITUD"><value>-87.9378336</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-87.9378336,20.6558165,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 54 NO. 371-A X 33-A Y 35,CENTRO,MERIDA,YUCATAN</address>
@@ -1739,14 +1648,12 @@
           <Data name="CP">
             <value>97000</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.2945697,-89.607302</value>
+          <Data name="LATITUD"><value>21.2945697</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.2945697,-89.607302</value>
+          <Data name="LONGITUD"><value>-89.607302</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.607302,21.2945697,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 7 NO. 616 COL. MAYA,MAYA,MERIDA,YUCATAN</address>
@@ -1774,14 +1681,12 @@
           <Data name="CP">
             <value>97134</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.0746257,-89.5195177</value>
+          <Data name="LATITUD"><value>21.0746257</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.0746257,-89.5195177</value>
+          <Data name="LONGITUD"><value>-89.5195177</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.5195177,21.0746257,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>C20 #102B FRACCION UNO ,CONKAL,CONKAL,YUCATAN</address>
@@ -1842,14 +1747,12 @@
           <Data name="CP">
             <value/>
           </Data>
-          <Data name="LATITUD">
-            <value>21.0097759,-88.3082775</value>
+          <Data name="LATITUD"><value>21.0097759</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.0097759,-88.3082775</value>
+          <Data name="LONGITUD"><value>-88.3082775</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-88.3082775,21.0097759,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 61 NO.299 LOC C Y D ,CORDEMEX,MERIDA,YUCATAN</address>
@@ -1877,14 +1780,12 @@
           <Data name="CP">
             <value> 97110 </value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.4773765,-90.0818078</value>
+          <Data name="LATITUD"><value>20.4773765</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.4773765,-90.0818078</value>
+          <Data name="LONGITUD"><value>-90.0818078</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-90.0818078,20.4773765,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 65  (AV.  QUETZALCOATL)  NO. 779  ENTRE 4A Y 6,EMILIO PORTES GIL,MERIDA,YUCATAN</address>
@@ -1912,14 +1813,12 @@
           <Data name="CP">
             <value>97167</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.0161984,-89.8766725</value>
+          <Data name="LATITUD"><value>21.0161984</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.0161984,-89.8766725</value>
+          <Data name="LONGITUD"><value>-89.8766725</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.8766725,21.0161984,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>AV. CÁMARA DE COMERCIO, NUM. 131 ,MONTECRISTO,MERIDA,YUCATAN</address>
@@ -1947,14 +1846,12 @@
           <Data name="CP">
             <value>97133</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.9338123,-89.0177681</value>
+          <Data name="LATITUD"><value>20.9338123</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.9338123,-89.0177681</value>
+          <Data name="LONGITUD"><value>-89.0177681</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.0177681,20.9338123,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 7 NO. 350  X 52 Y 54,RESIDENCIAL PENSIONES,MERIDA,YUCATAN</address>
@@ -2017,14 +1914,12 @@
           <Data name="CP">
             <value>92203</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.9345535,-89.557455</value>
+          <Data name="LATITUD"><value>20.9345535</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.9345535,-89.557455</value>
+          <Data name="LONGITUD"><value>-89.557455</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.557455,20.9345535,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 50 NO. 313 B LOCAL 5,FCO. DE MONTEJO,MERIDA,YUCATAN</address>
@@ -2052,14 +1947,12 @@
           <Data name="CP">
             <value>97203</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.5850696,-90.0010041</value>
+          <Data name="LATITUD"><value>20.5850696</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.5850696,-90.0010041</value>
+          <Data name="LONGITUD"><value>-90.0010041</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-90.0010041,20.5850696,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 17 NO. 238  LOCAL 8,FRACC. FLORIDA,MERIDA,YUCATAN</address>
@@ -2087,14 +1980,12 @@
           <Data name="CP">
             <value>97138</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.0962247,-89.2844419</value>
+          <Data name="LATITUD"><value>21.0962247</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.0962247,-89.2844419</value>
+          <Data name="LONGITUD"><value>-89.2844419</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.2844419,21.0962247,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 25 NO. 196-A  X 16,GARCIA GINERES ,MERIDA,YUCATAN</address>
@@ -2122,14 +2013,12 @@
           <Data name="CP">
             <value>97070</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.0933327,-89.2845462</value>
+          <Data name="LATITUD"><value>21.0933327</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.0933327,-89.2845462</value>
+          <Data name="LONGITUD"><value>-89.2845462</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.2845462,21.0933327,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 21 NO. 98-C BIS ,CENTRO,KANASIN,YUCATAN</address>
@@ -2157,14 +2046,12 @@
           <Data name="CP">
             <value>97370</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.4866915,-89.713467</value>
+          <Data name="LATITUD"><value>20.4866915</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.4866915,-89.713467</value>
+          <Data name="LONGITUD"><value>-89.713467</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.713467,20.4866915,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 24 NO. 108, LOCAL 4 Y 5 ENTRE 19 Y 21,,,YUCATAN</address>
@@ -2192,14 +2079,12 @@
           <Data name="CP">
             <value/>
           </Data>
-          <Data name="LATITUD">
-            <value>20.3042147,-89.4192365</value>
+          <Data name="LATITUD"><value>20.3042147</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.3042147,-89.4192365</value>
+          <Data name="LONGITUD"><value>-89.4192365</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.4192365,20.3042147,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 100 NO.252 X 59 Y 98 LOCAL-1 A UN COSTADO DE SUPER WILLIS,LAS AMERICAS,MERIDA,YUCATAN</address>
@@ -2227,14 +2112,12 @@
           <Data name="CP">
             <value>97302</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.2973597,-88.2709726</value>
+          <Data name="LATITUD"><value>21.2973597</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.2973597,-88.2709726</value>
+          <Data name="LONGITUD"><value>-88.2709726</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-88.2709726,21.2973597,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>AV 74 X 65 Y 67- A  FRACC LAS AMERICAS ETAPA 1,LAS AMERICAS,MERIDA,YUCATAN</address>
@@ -2262,14 +2145,12 @@
           <Data name="CP">
             <value>97302</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.1261275,-88.9229862</value>
+          <Data name="LATITUD"><value>20.1261275</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.1261275,-88.9229862</value>
+          <Data name="LONGITUD"><value>-88.9229862</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-88.9229862,20.1261275,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 20 NO.238 X 39 Y 41,LEANDRO VALLE,MERIDA,YUCATAN</address>
@@ -2297,14 +2178,12 @@
           <Data name="CP">
             <value>97143</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.2852722,-89.6629364</value>
+          <Data name="LATITUD"><value>21.2852722</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.2852722,-89.6629364</value>
+          <Data name="LONGITUD"><value>-89.6629364</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6629364,21.2852722,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 31 NO. 170 B ENTRE 12 Y 14 A 200 M DE LA CLINICA MADERO,FRANCISO I. MADERO,MERIDA,YUCATAN</address>
@@ -2332,14 +2211,12 @@
           <Data name="CP">
             <value>97240</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.2777951,-89.6613084</value>
+          <Data name="LATITUD"><value>21.2777951</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.2777951,-89.6613084</value>
+          <Data name="LONGITUD"><value>-89.6613084</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6613084,21.2777951,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 23 NO. 220 FRAC. MONTECARLO,VISTA ALEGRE NORTE,MERIDA,YUCATAN</address>
@@ -2367,14 +2244,12 @@
           <Data name="CP">
             <value>97130</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.2841964,-89.6632504</value>
+          <Data name="LATITUD"><value>21.2841964</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.2841964,-89.6632504</value>
+          <Data name="LONGITUD"><value>-89.6632504</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6632504,21.2841964,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <description><![CDATA[TIENDA: MID MONTECRISTO<br>DIRECCION: CALLE 8 X AV. OMAR G. DIAZ, COL. RESIDENCIAL MONTECRISTO<br>COLONIA: FRACC. MONTECRISTO<br>CIUDAD: MERIDA<br>ESTADO: YUCATAN<br>Direccion FULL: CALLE 8 X AV. OMAR G. DIAZ, COL. RESIDENCIAL MONTECRISTO,FRACC. MONTECRISTO,MERIDA,YUCATAN<br>CP: 97133<br>LATITUD: 20.2040463,-89.2873199<br>LONGITUD: 20.2040463,-89.2873199]]></description>
@@ -2400,14 +2275,12 @@
           <Data name="CP">
             <value>97133</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.2040463,-89.2873199</value>
+          <Data name="LATITUD"><value>20.2040463</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.2040463,-89.2873199</value>
+          <Data name="LONGITUD"><value>-89.2873199</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.2873199,20.2040463,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 17 NO. 392 LOCAL 2,RESIDENCIAL PINOS,MERIDA,YUCATAN</address>
@@ -2435,14 +2308,12 @@
           <Data name="CP">
             <value>97138</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.3971241,-89.5356544</value>
+          <Data name="LATITUD"><value>20.3971241</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.3971241,-89.5356544</value>
+          <Data name="LONGITUD"><value>-89.5356544</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.5356544,20.3971241,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 24 NO. 280 TABLAJE 26813 LOC. 16 ENTRE 7 Y 7-A,SANTA GERTRUDIS COPO,MERIDA,YUCATAN</address>
@@ -2505,14 +2376,12 @@
           <Data name="CP">
             <value>97115</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.002591,-89.3947107</value>
+          <Data name="LATITUD"><value>21.002591</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.002591,-89.3947107</value>
+          <Data name="LONGITUD"><value>-89.3947107</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.3947107,21.002591,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 58 NO. 612 X 61 DIAG. Y 77,FRACC. REPARTO GRANJAS,KANASIN,YUCATAN</address>
@@ -2540,14 +2409,12 @@
           <Data name="CP">
             <value>97370</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.144384,-88.1497447</value>
+          <Data name="LATITUD"><value>21.144384</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.144384,-88.1497447</value>
+          <Data name="LONGITUD"><value>-88.1497447</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-88.1497447,21.144384,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 57 NO. 555 X 72,CENTRO,MERIDA,YUCATAN</address>
@@ -2575,14 +2442,12 @@
           <Data name="CP">
             <value>97000</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.1429696,-88.1518806</value>
+          <Data name="LATITUD"><value>21.1429696</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.1429696,-88.1518806</value>
+          <Data name="LONGITUD"><value>-88.1518806</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-88.1518806,21.1429696,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 26 NO. 210,212 Y 214 -1 ,FRACC. ALTABRISA,MERIDA,YUCATAN</address>
@@ -2610,14 +2475,12 @@
           <Data name="CP">
             <value>97133</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.1445003,-88.1486136</value>
+          <Data name="LATITUD"><value>21.1445003</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.1445003,-88.1486136</value>
+          <Data name="LONGITUD"><value>-88.1486136</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-88.1486136,21.1445003,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 26 NO.206 LOC 1 ENTRE 7 Y 15, A UN COSTADO PLAZA LAS BRISAS,FRACC. ALTABRISA,MERIDA,YUCATAN</address>
@@ -2645,14 +2508,12 @@
           <Data name="CP">
             <value>97133</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.1445003,-88.1486136</value>
+          <Data name="LATITUD"><value>21.1445003</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.1445003,-88.1486136</value>
+          <Data name="LONGITUD"><value>-88.1486136</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-88.1486136,21.1445003,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 95 NO. 501-B BIS ,CENTRO,MERIDA,YUCATAN</address>
@@ -2680,14 +2541,12 @@
           <Data name="CP">
             <value>97000</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.8817843,-89.7465273</value>
+          <Data name="LATITUD"><value>20.8817843</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.8817843,-89.7465273</value>
+          <Data name="LONGITUD"><value>-89.7465273</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.7465273,20.8817843,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>AVENIDA MISIÓN DEL CARMEN Y JOSÉ MARÍA MORELOS, LOCAL 2 LOTE 28 MANZANA 40.,FRACC. NUEVA CREACIÓN,PLAYA DEL CARMEN,QUINTANA ROO</address>
@@ -2715,14 +2574,12 @@
           <Data name="CP">
             <value>77714</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.6907602,-88.2053317</value>
+          <Data name="LATITUD"><value>20.6907602</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.6907602,-88.2053317</value>
+          <Data name="LONGITUD"><value>-88.2053317</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-88.2053317,20.6907602,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE AV. 30 NORTE ESQ. NO. 1 LOC. 1 Y 2 ENTRE CALLE 6 NORTE Y MZA 50,CENTRO,PLAYA DEL CARMEN,QUINTANA ROO</address>
@@ -2750,14 +2607,12 @@
           <Data name="CP">
             <value>77710</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.699769,-88.2030302</value>
+          <Data name="LATITUD"><value>20.699769</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.699769,-88.2030302</value>
+          <Data name="LONGITUD"><value>-88.2030302</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-88.2030302,20.699769,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE AV CONSTITUYENTES NO. MZA 34 LOTE 01 LOCAL 8 ENTRE 115 AV NORTE Y 120 AV NORTE,REGION 14,PLAYA DEL CARMEN,QUINTANA ROO</address>
@@ -2785,14 +2640,12 @@
           <Data name="CP">
             <value>77710</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.6884516,-88.2021883</value>
+          <Data name="LATITUD"><value>20.6884516</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.6884516,-88.2021883</value>
+          <Data name="LONGITUD"><value>-88.2021883</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-88.2021883,20.6884516,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 30 S/N AV NORTE ENTRE 74 Y 76,LUIS DONALDO COLOSIO,PLAYA DEL CARMEN,QUINTANA ROO</address>
@@ -2820,14 +2673,12 @@
           <Data name="CP">
             <value>77710</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.3709462,-90.0504547</value>
+          <Data name="LATITUD"><value>20.3709462</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.3709462,-90.0504547</value>
+          <Data name="LONGITUD"><value>-90.0504547</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-90.0504547,20.3709462,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE AV 115 MZ 32 LOTE 8 ,EJIDO,PLAYA DEL CARMEN,QUINTANA ROO</address>
@@ -2855,14 +2706,12 @@
           <Data name="CP">
             <value>77710</value>
           </Data>
-          <Data name="LATITUD">
-            <value>19.8378508,-90.5356086</value>
+          <Data name="LATITUD"><value>19.8378508</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>19.8378508,-90.5356086</value>
+          <Data name="LONGITUD"><value>-90.5356086</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-90.5356086,19.8378508,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE AV. CANCUN X AVE. XEL-HA Y PASEO SAC BE FRACC. LA GUADALUPANA,CENTRO,PLAYA DEL CARMEN,QUINTANA ROO</address>
@@ -2890,14 +2739,12 @@
           <Data name="CP">
             <value>77710</value>
           </Data>
-          <Data name="LATITUD">
-            <value>19.8431877,-90.5249939</value>
+          <Data name="LATITUD"><value>19.8431877</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>19.8431877,-90.5249939</value>
+          <Data name="LONGITUD"><value>-90.5249939</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-90.5249939,19.8431877,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <description><![CDATA[TIENDA: QROO COZUMEL CENTRO<br>DIRECCION: CALLE 5TA AV NORTE NO. 151 LOC B ENTRE 2 Y 4 (ACOSTADO DEL ESTAC. MILLET. 25 METROS OXXO)<br>COLONIA: CENTRO<br>CIUDAD: COZUMEL<br>ESTADO: QUINTANA ROO<br>Direccion FULL: CALLE 5TA AV NORTE NO. 151 LOC B ENTRE 2 Y 4 (ACOSTADO DEL ESTAC. MILLET. 25 METROS OXXO),CENTRO,COZUMEL,QUINTANA ROO<br>CP: 77600<br>LATITUD: 20.1766467,-90.1347175<br>LONGITUD: 20.1766467,-90.1347175]]></description>
@@ -2923,14 +2770,12 @@
           <Data name="CP">
             <value>77600</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.1766467,-90.1347175</value>
+          <Data name="LATITUD"><value>20.1766467</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.1766467,-90.1347175</value>
+          <Data name="LONGITUD"><value>-90.1347175</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-90.1347175,20.1766467,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE AV. LAZARO CARDENAS NO. 795 ENTRE 68 Y AV BENITO JUAREZ GARCIA,CENTRO,FELIPE CARRILLO PUERTO,QUINTANA ROO</address>
@@ -2958,14 +2803,12 @@
           <Data name="CP">
             <value>77200</value>
           </Data>
-          <Data name="LATITUD">
-            <value>19.7452433,-89.8454641</value>
+          <Data name="LATITUD"><value>19.7452433</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>19.7452433,-89.8454641</value>
+          <Data name="LONGITUD"><value>-89.8454641</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.8454641,19.7452433,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <description><![CDATA[TIENDA: QROO ISLA MUJERES<br>DIRECCION: CALLE MZA 2 ZONA 2 NO.10 ENTRE AV.JUAREZ SUR Y AV. NICOLAS BRAVO<br>COLONIA: CENTRO<br>CIUDAD: ISLA MUJERES<br>ESTADO: QUINTANA ROO<br>Direccion FULL: CALLE MZA 2 ZONA 2 NO.10 ENTRE AV.JUAREZ SUR Y AV. NICOLAS BRAVO,CENTRO,ISLA MUJERES,QUINTANA ROO<br>CP: 77400<br>LATITUD: 19.8441885,-90.5327613<br>LONGITUD: 19.8441885,-90.5327613]]></description>
@@ -2991,14 +2834,12 @@
           <Data name="CP">
             <value>77400</value>
           </Data>
-          <Data name="LATITUD">
-            <value>19.8441885,-90.5327613</value>
+          <Data name="LATITUD"><value>19.8441885</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>19.8441885,-90.5327613</value>
+          <Data name="LONGITUD"><value>-90.5327613</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-90.5327613,19.8441885,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE AVENIDA JOSE MA. MORELOS S/N,CENTRO,JOSE MA. MORELOS,QUINTANA ROO</address>
@@ -3026,14 +2867,12 @@
           <Data name="CP">
             <value>77870</value>
           </Data>
-          <Data name="LATITUD">
-            <value>19.8140448,-90.5243316</value>
+          <Data name="LATITUD"><value>19.8140448</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>19.8140448,-90.5243316</value>
+          <Data name="LONGITUD"><value>-90.5243316</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-90.5243316,19.8140448,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>AV. JOSE MARIA MORELOS Y PAVÓN, LOCAL 2, PLANTA BAJA, LOTE 10 ,JOSE MARIA MORELOS,JOSE MA. MORELOS,QUINTANA ROO</address>
@@ -3061,14 +2900,12 @@
           <Data name="CP">
             <value>77890</value>
           </Data>
-          <Data name="LATITUD">
-            <value>19.8322154,-90.5525208</value>
+          <Data name="LATITUD"><value>19.8322154</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>19.8322154,-90.5525208</value>
+          <Data name="LONGITUD"><value>-90.5525208</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-90.5525208,19.8322154,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>AV. COBA X AV TULUM ORIENT. N SN. INT 11, COL. CENTRO,,,QUINTANA ROO</address>
@@ -3096,14 +2933,12 @@
           <Data name="CP">
             <value/>
           </Data>
-          <Data name="LATITUD">
-            <value>19.8307824,-90.5389952</value>
+          <Data name="LATITUD"><value>19.8307824</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>19.8307824,-90.5389952</value>
+          <Data name="LONGITUD"><value>-90.5389952</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-90.5389952,19.8307824,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>AV. COLOSIO ENTRE AV. LÁZARO CARDENAS. LOCAL 1,BARRIO SANTA ANA,CAMPECHE,CAMPECHE</address>
@@ -3131,14 +2966,12 @@
           <Data name="CP">
             <value>24050</value>
           </Data>
-          <Data name="LATITUD">
-            <value>19.855472,-90.4928947</value>
+          <Data name="LATITUD"><value>19.855472</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>19.855472,-90.4928947</value>
+          <Data name="LONGITUD"><value>-90.4928947</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-90.4928947,19.855472,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>AV. GOBERNADORES NO. 430 LOC. 1 X ARGENTINA Y VENEZUELA,CENTRO,CAMPECHE,CAMPECHE</address>
@@ -3166,14 +2999,12 @@
           <Data name="CP">
             <value>24000</value>
           </Data>
-          <Data name="LATITUD">
-            <value>19.8259978,-90.5459362</value>
+          <Data name="LATITUD"><value>19.8259978</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>19.8259978,-90.5459362</value>
+          <Data name="LONGITUD"><value>-90.5459362</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-90.5459362,19.8259978,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>AV. LÓPEZ MATEOS X CALLE LAZARETO Y MONTECRISTO,PRADO,CAMPECHE,CAMPECHE</address>
@@ -3201,14 +3032,12 @@
           <Data name="CP">
             <value>24030</value>
           </Data>
-          <Data name="LATITUD">
-            <value>19.8269869,-90.5510597</value>
+          <Data name="LATITUD"><value>19.8269869</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>19.8269869,-90.5510597</value>
+          <Data name="LONGITUD"><value>-90.5510597</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-90.5510597,19.8269869,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>AV. LUIS D. COLOSIO NO. 258 LOC. 1 X ALLENDE Y S.N. SN FCO,SAN JOSE,CAMPECHE,CAMPECHE</address>
@@ -3306,14 +3135,12 @@
           <Data name="CP">
             <value>24000</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.1691141,-86.82728</value>
+          <Data name="LATITUD"><value>21.1691141</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.1691141,-86.82728</value>
+          <Data name="LONGITUD"><value>-86.82728</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-86.82728,21.1691141,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>AV. CONCORDIA #A2, MANZANA G, POR CALLE SAN LUIS Y PABLO GARCÍA NORTE,,,CAMPECHE</address>
@@ -3341,14 +3168,12 @@
           <Data name="CP">
             <value/>
           </Data>
-          <Data name="LATITUD">
-            <value>20.6469983,-87.0641197</value>
+          <Data name="LATITUD"><value>20.6469983</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.6469983,-87.0641197</value>
+          <Data name="LONGITUD"><value>-87.0641197</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-87.0641197,20.6469983,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <description><![CDATA[TIENDA: SFCAM FIDEL VELAZQUEZ<br>DIRECCION: baja california por nayarit, mz 64, L30 Fidel<br>COLONIA: <br>CIUDAD: <br>ESTADO: CAMPECHE<br>Direccion FULL: baja california por nayarit, mz 64, L30 Fidel,,,CAMPECHE<br>CP: <br>LATITUD: 19.750265,-88.7107491<br>LONGITUD: 19.750265,-88.7107491]]></description>
@@ -3374,14 +3199,12 @@
           <Data name="CP">
             <value/>
           </Data>
-          <Data name="LATITUD">
-            <value>19.750265,-88.7107491</value>
+          <Data name="LATITUD"><value>19.750265</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>19.750265,-88.7107491</value>
+          <Data name="LONGITUD"><value>-88.7107491</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-88.7107491,19.750265,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 51 NO 81 X 14 Y 16,CENTRO,CAMPECHE,CAMPECHE</address>
@@ -3409,14 +3232,12 @@
           <Data name="CP">
             <value>24000</value>
           </Data>
-          <Data name="LATITUD">
-            <value>19.7480391,-88.7080402</value>
+          <Data name="LATITUD"><value>19.7480391</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>19.7480391,-88.7080402</value>
+          <Data name="LONGITUD"><value>-88.7080402</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-88.7080402,19.7480391,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE AV JOSE LOPEZ PORTILLO NO. S/N ENTRE PROL. LAZARO CARDENAS Y PAVO REAL,,CAMPECHE,CAMPECHE</address>
@@ -3444,14 +3265,12 @@
           <Data name="CP">
             <value>24097</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.6281244,-87.0777432</value>
+          <Data name="LATITUD"><value>20.6281244</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.6281244,-87.0777432</value>
+          <Data name="LONGITUD"><value>-87.0777432</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-87.0777432,20.6281244,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>AV. JÓSE LOPEZ PORTILLO MZA IV LOTE 9 ENTRE AV. DEL DUQUE, FRACC. LOMAS DEL PEDREGAL,LOMAS DEL PEDREGAL,CAMPECHE,CAMPECHE</address>
@@ -3479,14 +3298,12 @@
           <Data name="CP">
             <value>24035</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.6872021,-87.0555218</value>
+          <Data name="LATITUD"><value>20.6872021</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.6872021,-87.0555218</value>
+          <Data name="LONGITUD"><value>-87.0555218</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-87.0555218,20.6872021,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE AV JAINA NO.20 ENTRE ANDADOR EDZBALAM Y AVENIDA CHICANA,PLAN CHAC,CAMPECHE,CAMPECHE</address>
@@ -3514,14 +3331,12 @@
           <Data name="CP">
             <value>24088</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.634496,-87.0960622</value>
+          <Data name="LATITUD"><value>20.634496</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.634496,-87.0960622</value>
+          <Data name="LONGITUD"><value>-87.0960622</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-87.0960622,20.634496,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE AV JOSE LOPEZ PORTILLO NO. 5 ENTRE 18 Y ESQUINA,,CAMPECHE,CAMPECHE</address>
@@ -3549,14 +3364,12 @@
           <Data name="CP">
             <value>24035</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.255731,-86.7458611</value>
+          <Data name="LATITUD"><value>21.255731</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.255731,-86.7458611</value>
+          <Data name="LONGITUD"><value>-86.7458611</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-86.7458611,21.255731,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 23 NO. 102 X 20 LOC 1,CENTRO,ACANCEH,YUCATAN</address>
@@ -3584,14 +3397,12 @@
           <Data name="CP">
             <value>97380</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.1666435,-86.8561924</value>
+          <Data name="LATITUD"><value>21.1666435</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.1666435,-86.8561924</value>
+          <Data name="LONGITUD"><value>-86.8561924</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-86.8561924,21.1666435,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 21 NO. 106-A X 22 Y 24,CENTRO,BUCTZOTZ,YUCATAN</address>
@@ -3619,14 +3430,12 @@
           <Data name="CP">
             <value>97620</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.1499627,-86.84097</value>
+          <Data name="LATITUD"><value>21.1499627</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.1499627,-86.84097</value>
+          <Data name="LONGITUD"><value>-86.84097</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-86.84097,21.1499627,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 22 NO. 99 ,CENTRO,CHEMAX,YUCATAN</address>
@@ -3654,14 +3463,12 @@
           <Data name="CP">
             <value>97770</value>
           </Data>
-          <Data name="LATITUD">
-            <value>18.5098393,-88.3137475</value>
+          <Data name="LATITUD"><value>18.5098393</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>18.5098393,-88.3137475</value>
+          <Data name="LONGITUD"><value>-88.3137475</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-88.3137475,18.5098393,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 20 NO.43 ,CENTRO,CHICXULUB PUERTO,YUCATAN</address>
@@ -3689,14 +3496,12 @@
           <Data name="CP">
             <value>97330</value>
           </Data>
-          <Data name="LATITUD">
-            <value>18.4970194,-88.298288</value>
+          <Data name="LATITUD"><value>18.4970194</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>18.4970194,-88.298288</value>
+          <Data name="LONGITUD"><value>-88.298288</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-88.298288,18.4970194,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <description><![CDATA[TIENDA: YUC DZIDZANTÚN<br>DIRECCION: CALLE 21 #96B POR 18 Y 20<br>COLONIA: <br>CIUDAD: <br>ESTADO: YUCATAN<br>Direccion FULL: CALLE 21 #96B POR 18 Y 20,,,YUCATAN<br>CP: <br>LATITUD: 19.580563,-88.0450307<br>LONGITUD: 19.580563,-88.0450307]]></description>
@@ -3722,14 +3527,12 @@
           <Data name="CP">
             <value/>
           </Data>
-          <Data name="LATITUD">
-            <value>19.580563,-88.0450307</value>
+          <Data name="LATITUD"><value>19.580563</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>19.580563,-88.0450307</value>
+          <Data name="LONGITUD"><value>-88.0450307</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-88.0450307,19.580563,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 27 NO. 208 ,CENTRO,ESPITA,YUCATAN</address>
@@ -3757,14 +3560,12 @@
           <Data name="CP">
             <value>97730</value>
           </Data>
-          <Data name="LATITUD">
-            <value>18.5031244,-88.2964984</value>
+          <Data name="LATITUD"><value>18.5031244</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>18.5031244,-88.2964984</value>
+          <Data name="LONGITUD"><value>-88.2964984</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-88.2964984,18.5031244,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 21 NO. 98,CENTRO,HALACHO,YUCATAN</address>
@@ -3792,14 +3593,12 @@
           <Data name="CP">
             <value>97830</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.17472,-86.8607498</value>
+          <Data name="LATITUD"><value>21.17472</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.17472,-86.8607498</value>
+          <Data name="LONGITUD"><value>-86.8607498</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-86.8607498,21.17472,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 31 NO 198 A X 28 Y 30,CENTRO,HUNUCMA,YUCATAN</address>
@@ -3827,14 +3626,12 @@
           <Data name="CP">
             <value>97350</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.1746639,-86.8255556</value>
+          <Data name="LATITUD"><value>21.1746639</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.1746639,-86.8255556</value>
+          <Data name="LONGITUD"><value>-86.8255556</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-86.8255556,21.1746639,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 31-A  NO. 299 X 28 Y 30, CENTRO,CENTRO,IZAMAL,YUCATAN</address>
@@ -3862,14 +3659,12 @@
           <Data name="CP">
             <value>97540</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.1995015,-86.8331427</value>
+          <Data name="LATITUD"><value>21.1995015</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.1995015,-86.8331427</value>
+          <Data name="LONGITUD"><value>-86.8331427</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-86.8331427,21.1995015,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 20 NO. 89 X 19 Y 21,CENTRO,MAXCANU,YUCATAN</address>
@@ -3897,14 +3692,12 @@
           <Data name="CP">
             <value>97800</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.1730987,-86.9031342</value>
+          <Data name="LATITUD"><value>21.1730987</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.1730987,-86.9031342</value>
+          <Data name="LONGITUD"><value>-86.9031342</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-86.9031342,21.1730987,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 27 NO.313,CENTRO,MOTUL,YUCATAN</address>
@@ -3932,14 +3725,12 @@
           <Data name="CP">
             <value>97430</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.1840291,-86.8280913</value>
+          <Data name="LATITUD"><value>21.1840291</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.1840291,-86.8280913</value>
+          <Data name="LONGITUD"><value>-86.8280913</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-86.8280913,21.1840291,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 28 NO 306 LOC 1 ENTRE 29 Y 31,CENTRO,MOTUL,YUCATAN</address>
@@ -3967,14 +3758,12 @@
           <Data name="CP">
             <value>97430</value>
           </Data>
-          <Data name="LATITUD">
-            <value>18.503743859587267,-88.29670729727582</value>
+          <Data name="LATITUD"><value>18.503743859587267</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>18.503743859587267,-88.29670729727582</value>
+          <Data name="LONGITUD"><value>-88.29670729727582</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-88.29670729727582,18.503743859587267,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>C. 23 #181 ENTRE 21 Y 23,CENTRO,MUNA,YUCATAN</address>
@@ -4072,14 +3861,12 @@
           <Data name="CP">
             <value>97610</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.511711,-86.9476262</value>
+          <Data name="LATITUD"><value>20.511711</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.511711,-86.9476262</value>
+          <Data name="LONGITUD"><value>-86.9476262</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-86.9476262,20.511711,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 30 NO. 200 X  31,CENTRO,PETO,YUCATAN</address>
@@ -4107,14 +3894,12 @@
           <Data name="CP">
             <value>97930</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.1747618,-86.8405674</value>
+          <Data name="LATITUD"><value>21.1747618</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.1747618,-86.8405674</value>
+          <Data name="LONGITUD"><value>-86.8405674</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-86.8405674,21.1747618,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 80 NO.139 X 79 Y 81 CENTRO,CENTRO,PROGRESO,YUCATAN</address>
@@ -4142,14 +3927,12 @@
           <Data name="CP">
             <value>97320</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.642053130496837,-87.08940625190735</value>
+          <Data name="LATITUD"><value>20.642053130496837</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.642053130496837,-87.08940625190735</value>
+          <Data name="LONGITUD"><value>-87.08940625190735</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-87.08940625190735,20.642053130496837,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 78 NO. 251 CENTRO,CENTRO,PROGRESO,YUCATAN</address>
@@ -4177,14 +3960,12 @@
           <Data name="CP">
             <value>97320</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.1329026,-86.8762095</value>
+          <Data name="LATITUD"><value>21.1329026</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.1329026,-86.8762095</value>
+          <Data name="LONGITUD"><value>-86.8762095</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-86.8762095,21.1329026,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 27 NO. 148 X 78 Y 80,CENTRO,PROGRESO,YUCATAN</address>
@@ -4212,14 +3993,12 @@
           <Data name="CP">
             <value>97320</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.1453557,-86.8851116</value>
+          <Data name="LATITUD"><value>21.1453557</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.1453557,-86.8851116</value>
+          <Data name="LONGITUD"><value>-86.8851116</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-86.8851116,21.1453557,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 51 NO. 201 X 50 Y 52,CENTRO,TEKAX,YUCATAN</address>
@@ -4317,14 +4096,12 @@
           <Data name="CP">
             <value>97860</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.1738633,-86.8279757</value>
+          <Data name="LATITUD"><value>21.1738633</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.1738633,-86.8279757</value>
+          <Data name="LONGITUD"><value>-86.8279757</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-86.8279757,21.1738633,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 21 NO. 100 X 20 CENTRO,CENTRO,TIXCOCOB,YUCATAN</address>
@@ -4352,14 +4129,12 @@
           <Data name="CP">
             <value>97470</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.1469968,-86.8742064</value>
+          <Data name="LATITUD"><value>21.1469968</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.1469968,-86.8742064</value>
+          <Data name="LONGITUD"><value>-86.8742064</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-86.8742064,21.1469968,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 48-B , COL. 8 CALLES, ,TIZIMIN,YUCATAN</address>
@@ -4387,14 +4162,12 @@
           <Data name="CP">
             <value> </value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.1604937,-86.8344233</value>
+          <Data name="LATITUD"><value>21.1604937</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.1604937,-86.8344233</value>
+          <Data name="LONGITUD"><value>-86.8344233</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-86.8344233,21.1604937,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 47 NO. 381 X 48 INTERIOR 1,CENTRO,TIZIMIN,YUCATAN</address>
@@ -4422,14 +4195,12 @@
           <Data name="CP">
             <value>97700</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.1434337,-86.8590602</value>
+          <Data name="LATITUD"><value>21.1434337</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.1434337,-86.8590602</value>
+          <Data name="LONGITUD"><value>-86.8590602</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-86.8590602,21.1434337,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 51 NO. 399 LOC. 1 X 48 Y 50,CENTRO,TIZIMIN,YUCATAN</address>
@@ -4457,14 +4228,12 @@
           <Data name="CP">
             <value>97700</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.6605694,-87.0739365</value>
+          <Data name="LATITUD"><value>20.6605694</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.6605694,-87.0739365</value>
+          <Data name="LONGITUD"><value>-87.0739365</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-87.0739365,20.6605694,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 46 NO. 362 X 45 Y 47 CENTRO,CENTRO,TIZIMIN,YUCATAN</address>
@@ -4492,14 +4261,12 @@
           <Data name="CP">
             <value>97700</value>
           </Data>
-          <Data name="LATITUD">
-            <value>18.5354351,-88.303624</value>
+          <Data name="LATITUD"><value>18.5354351</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>18.5354351,-88.303624</value>
+          <Data name="LONGITUD"><value>-88.303624</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-88.303624,18.5354351,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 18 NO. 94 X 19-A Y 21-A,CENTRO,UMAN,YUCATAN</address>
@@ -4667,14 +4434,12 @@
           <Data name="CP">
             <value>97000</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.9278152,-89.6083774</value>
+          <Data name="LATITUD"><value>20.9278152</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.9278152,-89.6083774</value>
+          <Data name="LONGITUD"><value>-89.6083774</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6083774,20.9278152,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 65 NO. 475-A DEPTO.1,CENTRO,MERIDA,YUCATAN</address>
@@ -4702,14 +4467,12 @@
           <Data name="CP">
             <value>97000</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.0227849,-89.6057511</value>
+          <Data name="LATITUD"><value>21.0227849</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.0227849,-89.6057511</value>
+          <Data name="LONGITUD"><value>-89.6057511</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6057511,21.0227849,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 18 NO. 102 X 21 Y 4 LOC. 1,ITZIMNA,MERIDA,YUCATAN</address>
@@ -4737,14 +4500,12 @@
           <Data name="CP">
             <value>97100</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.0691361,-89.6566531</value>
+          <Data name="LATITUD"><value>21.0691361</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.0691361,-89.6566531</value>
+          <Data name="LONGITUD"><value>-89.6566531</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6566531,21.0691361,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 9 NO. 269 X 38 DEPTO. 1,CAMPESTRE,MERIDA,YUCATAN</address>
@@ -4772,14 +4533,12 @@
           <Data name="CP">
             <value>97120</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.9137295,-89.6208974</value>
+          <Data name="LATITUD"><value>20.9137295</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.9137295,-89.6208974</value>
+          <Data name="LONGITUD"><value>-89.6208974</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6208974,20.9137295,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 1H  NO. 149 X 14-A Y 16  LOCAL 1 Y 2,RESIDENCIAL COL. MEXICO ,MERIDA,YUCATAN</address>
@@ -4807,14 +4566,12 @@
           <Data name="CP">
             <value>97128</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.990935,-89.5969763</value>
+          <Data name="LATITUD"><value>20.990935</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.990935,-89.5969763</value>
+          <Data name="LONGITUD"><value>-89.5969763</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.5969763,20.990935,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 41 No. 442 DEPTO. 2 Y 3,INDUSTRIAL,MERIDA,YUCATAN</address>
@@ -4842,14 +4599,12 @@
           <Data name="CP">
             <value>97000</value>
           </Data>
-          <Data name="LATITUD">
-            <value>21.0158198,-89.5837553</value>
+          <Data name="LATITUD"><value>21.0158198</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>21.0158198,-89.5837553</value>
+          <Data name="LONGITUD"><value>-89.5837553</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.5837553,21.0158198,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 54 NO. 542 DEPTO. B,CENTRO ,MERIDA,YUCATAN</address>
@@ -4912,14 +4667,12 @@
           <Data name="CP">
             <value>97128</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.9648877,-89.6210118</value>
+          <Data name="LATITUD"><value>20.9648877</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.9648877,-89.6210118</value>
+          <Data name="LONGITUD"><value>-89.6210118</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6210118,20.9648877,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 30 NO. 92, COL. MEXICO,MEXICO NORTE,MERIDA,YUCATAN</address>
@@ -4947,14 +4700,12 @@
           <Data name="CP">
             <value>97125</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.9862158,-89.5847144</value>
+          <Data name="LATITUD"><value>20.9862158</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.9862158,-89.5847144</value>
+          <Data name="LONGITUD"><value>-89.5847144</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.5847144,20.9862158,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 30 DIAGONAL NO. 492 LOC 1 ENTRE 49 Y ESQUINA,MEXICO NORTE,MERIDA,YUCATAN</address>
@@ -4982,14 +4733,12 @@
           <Data name="CP">
             <value>97130</value>
           </Data>
-          <Data name="LATITUD">
-            <value>20.9835666,-89.6159649</value>
+          <Data name="LATITUD"><value>20.9835666</value>
           </Data>
-          <Data name="LONGITUD">
-            <value>20.9835666,-89.6159649</value>
+          <Data name="LONGITUD"><value>-89.6159649</value>
           </Data>
         </ExtendedData>
-      </Placemark>
+      <Point><coordinates>-89.6159649,20.9835666,0</coordinates></Point></Placemark>
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 67 N°509 LOCAL 1, CENTRO,CENTRO,MERIDA,YUCATAN</address>
@@ -5025,6 +4774,5 @@
           </Data>
         </ExtendedData>
       </Placemark>
-    </Folder>
   </Document>
 </kml>
