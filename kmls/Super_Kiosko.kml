@@ -18345,39 +18345,7 @@ BONFIL,MAZATLAN,SINALOA,82050</value>
           </Data>
         </ExtendedData>
       <Point><coordinates>-106.41061800000003,23.234435,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>SUPER KIOSKO</name>
-        <description><![CDATA[TIENDA: 4181 PASEO DEL PACIFICO<br>DIRECCION: JOSE LUIS PECHE RICE GARCIA<br>COLONIA: EL VENADILLO<br>CIUDAD: MAZATLAN<br>ESTADO: SINALOA<br>Direccion FULL: 4181 PASEO DEL PACIFICO,JOSE LUIS PECHE RICE GARCIA,EL VENADILLO,MAZATLAN,SINALOA,82129<br>CP: 82129<br>LATITUD: 0<br>LONGITUD: 0]]></description>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>4181 PASEO DEL PACIFICO</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>JOSE LUIS PECHE RICE GARCIA</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>EL VENADILLO</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>MAZATLAN</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>SINALOA</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>4181 PASEO DEL PACIFICO,JOSE LUIS PECHE RICE GARCIA,EL VENADILLO,MAZATLAN,SINALOA,82129</value>
-          </Data>
-          <Data name="CP">
-            <value>82129.0</value>
-          </Data>
-          <Data name="LATITUD">
-            <value>0.0</value>
-          </Data>
-          <Data name="LONGITUD">
-            <value>0.0</value>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>SUPER KIOSKO</name>
         <address>4183 HACIENDA EL SEMINARIO,BLVD. HACIENDA DEL SEMINARIO,HACIENDA DEL SEMINARIO,MAZATLAN,SINALOA,82129</address>
@@ -18411,39 +18379,7 @@ BONFIL,MAZATLAN,SINALOA,82050</value>
           </Data>
         </ExtendedData>
       <Point><coordinates>-106.42186219999999,23.2881816,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>SUPER KIOSKO</name>
-        <description><![CDATA[TIENDA: 4185 GAS URIAS<br>DIRECCION: CARR. INTERNACIONAL AL SUR<br>COLONIA: URIAS<br>CIUDAD: MAZATLAN<br>ESTADO: SINALOA<br>Direccion FULL: 4185 GAS URIAS,CARR. INTERNACIONAL AL SUR,URIAS,MAZATLAN,SINALOA,82099<br>CP: 82099<br>LATITUD: 0<br>LONGITUD: 0]]></description>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>4185 GAS URIAS</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>CARR. INTERNACIONAL AL SUR</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>URIAS</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>MAZATLAN</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>SINALOA</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>4185 GAS URIAS,CARR. INTERNACIONAL AL SUR,URIAS,MAZATLAN,SINALOA,82099</value>
-          </Data>
-          <Data name="CP">
-            <value>82099.0</value>
-          </Data>
-          <Data name="LATITUD">
-            <value>0.0</value>
-          </Data>
-          <Data name="LONGITUD">
-            <value>0.0</value>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>SUPER KIOSKO</name>
         <address>4186 JUAREZ INTERNACIONAL,PRIVADA DE LA BATERIA,BENITO JUAREZ,MAZATLAN,SINALOA,82180</address>

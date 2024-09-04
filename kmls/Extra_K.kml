@@ -32475,39 +32475,7 @@
           </Data>
         </ExtendedData>
       <Point><coordinates>-86.74991199999998,21.137887,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>CIRCLE K, EXTRA Y K</name>
-        <address>PUNTA YOQUEN ESQ. AV. XEL-HA SM.24 MZA.35 LOTE 65 , SM. 24, BENITO JUÁREZ, QUINTANA ROO</address>
-        <description><![CDATA[TIENDA: CAN LIQUOR 432<br>DIRECCION: PUNTA YOQUEN ESQ. AV. XEL-HA SM.24 MZA.35 LOTE 65 <br>COLONIA: SM. 24<br>CIUDAD: BENITO JUÁREZ<br>ESTADO: QUINTANA ROO<br>Direccion FULL: PUNTA YOQUEN ESQ. AV. XEL-HA SM.24 MZA.35 LOTE 65 , SM. 24, BENITO JUÁREZ, QUINTANA ROO<br>CP: 77500<br>LATITUD: 21.163137<br><br>LONGITUD: -86833826]]></description>
-        <styleUrl>#icon-1686-0288D1</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>CAN LIQUOR 432</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>PUNTA YOQUEN ESQ. AV. XEL-HA SM.24 MZA.35 LOTE 65 </value>
-          </Data>
-          <Data name="COLONIA">
-            <value>SM. 24</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>BENITO JUÁREZ</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>QUINTANA ROO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>PUNTA YOQUEN ESQ. AV. XEL-HA SM.24 MZA.35 LOTE 65 , SM. 24, BENITO JUÁREZ, QUINTANA ROO</value>
-          </Data>
-          <Data name="CP">
-            <value>77500</value>
-          </Data>
-          <Data name="LATITUD"><value>21.163137</value>
-          </Data>
-          <Data name="LONGITUD"><value>-86.83382600000002</value>
-          </Data>
-        </ExtendedData>
-      <Point><coordinates>-86.83382600000002,21.163137,0</coordinates></Point></Placemark>
+      
       <Placemark>
         <name>CIRCLE K, EXTRA Y K</name>
         <address>KM. 9.4 PLAYA CHACMOL ZONA TURISTICA 2A. ETAPA. ,KM. 9.5 ZONA HOTELERA, BENITO JUAREZ, QUINTANA ROO</address>

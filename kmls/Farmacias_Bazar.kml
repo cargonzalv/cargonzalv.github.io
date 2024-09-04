@@ -68,41 +68,7 @@
           </Data>
         </ExtendedData>
       <Point><coordinates>-89.6208974,20.9137295,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BAZAR</name>
-        <address>CALLE 20 NO.111 ,SAN FRANCISCO,HECELCHAKAN,CAMPECHE</address>
-        <description><![CDATA[TIENDA: CAM HECELCHAKAN<br>DIRECCION: CALLE 20 NO.111 X 20 Y 22<br>COLONIA: SAN FRANCISCO<br>CIUDAD: HECELCHAKAN<br>ESTADO: CAMPECHE<br>Direccion FULL: CALLE 20 NO.111 ,SAN FRANCISCO,HECELCHAKAN,CAMPECHE<br>CP: 24800<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>CAM HECELCHAKAN</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>CALLE 20 NO.111 X 20 Y 22</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>SAN FRANCISCO</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>HECELCHAKAN</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>CAMPECHE</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>CALLE 20 NO.111 ,SAN FRANCISCO,HECELCHAKAN,CAMPECHE</value>
-          </Data>
-          <Data name="CP">
-            <value>24800</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 22 NO. 72  CENTRO,CENTRO,HOPELCHEN,CAMPECHE</address>
@@ -202,41 +168,7 @@
           </Data>
         </ExtendedData>
       <Point><coordinates>-89.6566531,21.0691361,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BAZAR</name>
-        <address>AVENIDA ERICK PAOLO MARTINEZ NO. 326 MZA 120 LOCAL 1 PLANTA BAJA LOTE 22 CHET. X PETCACAB,ANDRES QUINTANA ROO,CHETUMAL,QUINTANA ROO</address>
-        <description><![CDATA[TIENDA: CHT ERICK PAOLO<br>DIRECCION: AVENIDA ERICK PAOLO MARTINEZ NO. 326 MZA 120 LOCAL 1 PLANTA BAJA LOTE 22 CHET. X PETCACAB<br>COLONIA: ANDRES QUINTANA ROO<br>CIUDAD: CHETUMAL<br>ESTADO: QUINTANA ROO<br>Direccion FULL: AVENIDA ERICK PAOLO MARTINEZ NO. 326 MZA 120 LOCAL 1 PLANTA BAJA LOTE 22 CHET. X PETCACAB,ANDRES QUINTANA ROO,CHETUMAL,QUINTANA ROO<br>CP: 77086<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>CHT ERICK PAOLO</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>AVENIDA ERICK PAOLO MARTINEZ NO. 326 MZA 120 LOCAL 1 PLANTA BAJA LOTE 22 CHET. X PETCACAB</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>ANDRES QUINTANA ROO</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>CHETUMAL</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>QUINTANA ROO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>AVENIDA ERICK PAOLO MARTINEZ NO. 326 MZA 120 LOCAL 1 PLANTA BAJA LOTE 22 CHET. X PETCACAB,ANDRES QUINTANA ROO,CHETUMAL,QUINTANA ROO</value>
-          </Data>
-          <Data name="CP">
-            <value>77086</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE AV. MAHATMA GANDHI NO. 203 X BELICE,CENTRO,CHETUMAL,QUINTANA ROO</address>
@@ -402,41 +334,7 @@
           </Data>
         </ExtendedData>
       <Point><coordinates>-89.6632504,21.2841964,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BAZAR</name>
-        <address>CALLE AV LUNA MZA 6 FRACC ALBORADA NO. 7 LOC 1 ,SMZA 64 CANCUN,BENITO JUAREZ,QUINTANA ROO</address>
-        <description><![CDATA[TIENDA: CUN AV. LA LUNA<br>DIRECCION: CALLE AV LUNA MZA 6 FRACC ALBORADA NO. 7 LOC 1 ENTRE OCASO Y RODRIGO GOMEZ<br>COLONIA: SMZA 64 CANCUN<br>CIUDAD: BENITO JUAREZ<br>ESTADO: QUINTANA ROO<br>Direccion FULL: CALLE AV LUNA MZA 6 FRACC ALBORADA NO. 7 LOC 1 ,SMZA 64 CANCUN,BENITO JUAREZ,QUINTANA ROO<br>CP: 77506<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>CUN AV. LA LUNA</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>CALLE AV LUNA MZA 6 FRACC ALBORADA NO. 7 LOC 1 ENTRE OCASO Y RODRIGO GOMEZ</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>SMZA 64 CANCUN</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>BENITO JUAREZ</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>QUINTANA ROO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>CALLE AV LUNA MZA 6 FRACC ALBORADA NO. 7 LOC 1 ,SMZA 64 CANCUN,BENITO JUAREZ,QUINTANA ROO</value>
-          </Data>
-          <Data name="CP">
-            <value>77506</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>AVENIDA CARLOS CASTILLO PERAZA (AV LAS TORRES) LOCAL 13, LOTE 2, MANZANA 23 POR CALLE 115,REGION 515,BENITO JUAREZ,QUINTANA ROO</address>
@@ -668,41 +566,7 @@
           </Data>
         </ExtendedData>
       <Point><coordinates>-89.6205304,20.9324008,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BAZAR</name>
-        <address>AVENIDA XELHA, MANZANA 8, LOCAL 1, LOTE 1,  CRUZAMIENTOS ANDADOR 20 POR 9 Y 10,SM 28,BENITO JUAREZ,QUINTANA ROO</address>
-        <description><![CDATA[TIENDA: CUN MERCADO 28<br>DIRECCION: AVENIDA XELHA, MANZANA 8, LOCAL 1, LOTE 1,  CRUZAMIENTOS ANDADOR 20 POR 9 Y 10<br>COLONIA: SM 28<br>CIUDAD: BENITO JUAREZ<br>ESTADO: QUINTANA ROO<br>Direccion FULL: AVENIDA XELHA, MANZANA 8, LOCAL 1, LOTE 1,  CRUZAMIENTOS ANDADOR 20 POR 9 Y 10,SM 28,BENITO JUAREZ,QUINTANA ROO<br>CP: 77509<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>CUN MERCADO 28</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>AVENIDA XELHA, MANZANA 8, LOCAL 1, LOTE 1,  CRUZAMIENTOS ANDADOR 20 POR 9 Y 10</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>SM 28</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>BENITO JUAREZ</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>QUINTANA ROO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>AVENIDA XELHA, MANZANA 8, LOCAL 1, LOTE 1,  CRUZAMIENTOS ANDADOR 20 POR 9 Y 10,SM 28,BENITO JUAREZ,QUINTANA ROO</value>
-          </Data>
-          <Data name="CP">
-            <value>77509</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE AV. JOSE PAGES LLERGO MZ.88 LT 19 Y 20 LOC. 3 Y 4 SMZ.237  CANCUN,BENITO JUAREZ,QUINTANA ROO</address>
@@ -1687,41 +1551,7 @@
           </Data>
         </ExtendedData>
       <Point><coordinates>-89.5195177,21.0746257,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BAZAR</name>
-        <address>C20 #102B FRACCION UNO ,CONKAL,CONKAL,YUCATAN</address>
-        <description><![CDATA[TIENDA: MID CONKAL<br>DIRECCION: C20 #102B FRACCION UNO X 21 Y 23<br>COLONIA: CONKAL<br>CIUDAD: CONKAL<br>ESTADO: YUCATAN<br>Direccion FULL: C20 #102B FRACCION UNO ,CONKAL,CONKAL,YUCATAN<br>CP: 97345<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>MID CONKAL</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>C20 #102B FRACCION UNO X 21 Y 23</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>CONKAL</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>CONKAL</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>YUCATAN</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>C20 #102B FRACCION UNO ,CONKAL,CONKAL,YUCATAN</value>
-          </Data>
-          <Data name="CP">
-            <value>97345</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <description><![CDATA[TIENDA: MID CONKAL ENTRADA<br>DIRECCION: TABLAJE 4024, DEPTO 81, L. 1 Y 2, COL. SANTA CRUZ<br>COLONIA: <br>CIUDAD: <br>ESTADO: YUCATAN<br>Direccion FULL: TABLAJE 4024, DEPTO 81, L. 1 Y 2, COL. SANTA CRUZ,,,YUCATAN<br>CP: <br>LATITUD: 21.0097759,-88.3082775<br>LONGITUD: 21.0097759,-88.3082775]]></description>
@@ -1852,41 +1682,7 @@
           </Data>
         </ExtendedData>
       <Point><coordinates>-89.0177681,20.9338123,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BAZAR</name>
-        <address>CALLE 7 NO. 350  X 52 Y 54,RESIDENCIAL PENSIONES,MERIDA,YUCATAN</address>
-        <description><![CDATA[TIENDA: MID DORADA PENSIONES<br>DIRECCION: CALLE 7 NO. 350  X 52 Y 54<br>COLONIA: RESIDENCIAL PENSIONES<br>CIUDAD: MERIDA<br>ESTADO: YUCATAN<br>Direccion FULL: CALLE 7 NO. 350  X 52 Y 54,RESIDENCIAL PENSIONES,MERIDA,YUCATAN<br>CP: 97217<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>MID DORADA PENSIONES</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>CALLE 7 NO. 350  X 52 Y 54</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>RESIDENCIAL PENSIONES</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>MERIDA</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>YUCATAN</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>CALLE 7 NO. 350  X 52 Y 54,RESIDENCIAL PENSIONES,MERIDA,YUCATAN</value>
-          </Data>
-          <Data name="CP">
-            <value>97217</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 50 NO. 221 X 47 LOCAL 6,FCO. DE MONTEJO,MERIDA,YUCATAN</address>
@@ -2314,41 +2110,7 @@
           </Data>
         </ExtendedData>
       <Point><coordinates>-89.5356544,20.3971241,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BAZAR</name>
-        <address>CALLE 24 NO. 280 TABLAJE 26813 LOC. 16 ENTRE 7 Y 7-A,SANTA GERTRUDIS COPO,MERIDA,YUCATAN</address>
-        <description><![CDATA[TIENDA: MID PLAZA PIRE<br>DIRECCION: CALLE 24 NO. 280 TABLAJE 26813 LOC. 16 ENTRE 7 Y 7-A<br>COLONIA: SANTA GERTRUDIS COPO<br>CIUDAD: MERIDA<br>ESTADO: YUCATAN<br>Direccion FULL: CALLE 24 NO. 280 TABLAJE 26813 LOC. 16 ENTRE 7 Y 7-A,SANTA GERTRUDIS COPO,MERIDA,YUCATAN<br>CP: 97305<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>MID PLAZA PIRE</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>CALLE 24 NO. 280 TABLAJE 26813 LOC. 16 ENTRE 7 Y 7-A</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>SANTA GERTRUDIS COPO</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>MERIDA</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>YUCATAN</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>CALLE 24 NO. 280 TABLAJE 26813 LOC. 16 ENTRE 7 Y 7-A,SANTA GERTRUDIS COPO,MERIDA,YUCATAN</value>
-          </Data>
-          <Data name="CP">
-            <value>97305</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>TABLAJE CATASTRAL #32880 LOCAL 15 Y 16,MONTES DE AMÉ,MERIDA,YUCATAN</address>
@@ -3038,76 +2800,8 @@
           </Data>
         </ExtendedData>
       <Point><coordinates>-90.5510597,19.8269869,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BAZAR</name>
-        <address>AV. LUIS D. COLOSIO NO. 258 LOC. 1 X ALLENDE Y S.N. SN FCO,SAN JOSE,CAMPECHE,CAMPECHE</address>
-        <description><![CDATA[TIENDA: SFCAM CENTRO MEDICO CAMP.<br>DIRECCION: AV. LUIS D. COLOSIO NO. 258 LOC. 1 X ALLENDE Y S.N. SN FCO<br>COLONIA: SAN JOSE<br>CIUDAD: CAMPECHE<br>ESTADO: CAMPECHE<br>Direccion FULL: AV. LUIS D. COLOSIO NO. 258 LOC. 1 X ALLENDE Y S.N. SN FCO,SAN JOSE,CAMPECHE,CAMPECHE<br>CP: 24000<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>SFCAM CENTRO MEDICO CAMP.</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>AV. LUIS D. COLOSIO NO. 258 LOC. 1 X ALLENDE Y S.N. SN FCO</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>SAN JOSE</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>CAMPECHE</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>CAMPECHE</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>AV. LUIS D. COLOSIO NO. 258 LOC. 1 X ALLENDE Y S.N. SN FCO,SAN JOSE,CAMPECHE,CAMPECHE</value>
-          </Data>
-          <Data name="CP">
-            <value>24000</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>FARMACIAS BAZAR</name>
-        <address>AV. CENTRAL NO. 63 ,CENTRO,CAMPECHE,CAMPECHE</address>
-        <description><![CDATA[TIENDA: SFCAM CLINICA CAMPECHE<br>DIRECCION: AV. CENTRAL NO. 63 ENTRE CALLE QUERETARO Y PUEBLA<br>COLONIA: CENTRO<br>CIUDAD: CAMPECHE<br>ESTADO: CAMPECHE<br>Direccion FULL: AV. CENTRAL NO. 63 ,CENTRO,CAMPECHE,CAMPECHE<br>CP: 24000<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>SFCAM CLINICA CAMPECHE</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>AV. CENTRAL NO. 63 ENTRE CALLE QUERETARO Y PUEBLA</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>CENTRO</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>CAMPECHE</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>CAMPECHE</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>AV. CENTRAL NO. 63 ,CENTRO,CAMPECHE,CAMPECHE</value>
-          </Data>
-          <Data name="CP">
-            <value>24000</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
+      
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>AV. GOBERNADORES #11-B, y 20 DE NOVIEMBRE, COL. ESPERANZA,ESPERANZA,CAMPECHE,CAMPECHE</address>
@@ -3764,76 +3458,8 @@
           </Data>
         </ExtendedData>
       <Point><coordinates>-88.29670729727582,18.503743859587267,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BAZAR</name>
-        <address>C. 23 #181 ENTRE 21 Y 23,CENTRO,MUNA,YUCATAN</address>
-        <description><![CDATA[TIENDA: YUC MUNA<br>DIRECCION: C. 23 #181 -A ENTRE 21 Y 23<br>COLONIA: CENTRO<br>CIUDAD: MUNA<br>ESTADO: YUCATAN<br>Direccion FULL: C. 23 #181 ENTRE 21 Y 23,CENTRO,MUNA,YUCATAN<br>CP: 97840<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>YUC MUNA</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>C. 23 #181 -A ENTRE 21 Y 23</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>CENTRO</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>MUNA</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>YUCATAN</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>C. 23 #181 ENTRE 21 Y 23,CENTRO,MUNA,YUCATAN</value>
-          </Data>
-          <Data name="CP">
-            <value>97840</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>FARMACIAS BAZAR</name>
-        <address>CALLE 49 NO. 107 X 52 Y 54,CENTRO,OXKUTZCAB,YUCATAN</address>
-        <description><![CDATA[TIENDA: YUC OXKUTZCAB<br>DIRECCION: CALLE 49 NO. 107 X 52 Y 54<br>COLONIA: CENTRO<br>CIUDAD: OXKUTZCAB<br>ESTADO: YUCATAN<br>Direccion FULL: CALLE 49 NO. 107 X 52 Y 54,CENTRO,OXKUTZCAB,YUCATAN<br>CP: 97880<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>YUC OXKUTZCAB</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>CALLE 49 NO. 107 X 52 Y 54</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>CENTRO</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>OXKUTZCAB</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>YUCATAN</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>CALLE 49 NO. 107 X 52 Y 54,CENTRO,OXKUTZCAB,YUCATAN</value>
-          </Data>
-          <Data name="CP">
-            <value>97880</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
+      
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 20 NO. 101 X 21 Y 23,CENTRO,PANABA,YUCATAN</address>
@@ -3999,76 +3625,8 @@
           </Data>
         </ExtendedData>
       <Point><coordinates>-86.8851116,21.1453557,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BAZAR</name>
-        <address>CALLE 51 NO. 201 X 50 Y 52,CENTRO,TEKAX,YUCATAN</address>
-        <description><![CDATA[TIENDA: YUC TEKAX<br>DIRECCION: CALLE 51 NO. 201 X 50 Y 52<br>COLONIA: CENTRO<br>CIUDAD: TEKAX<br>ESTADO: YUCATAN<br>Direccion FULL: CALLE 51 NO. 201 X 50 Y 52,CENTRO,TEKAX,YUCATAN<br>CP: 97970<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>YUC TEKAX</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>CALLE 51 NO. 201 X 50 Y 52</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>CENTRO</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>TEKAX</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>YUCATAN</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>CALLE 51 NO. 201 X 50 Y 52,CENTRO,TEKAX,YUCATAN</value>
-          </Data>
-          <Data name="CP">
-            <value>97970</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>FARMACIAS BAZAR</name>
-        <address>CALLE 25 NO. 205-D  X 26-A Y 28,CENTRO,TICUL,YUCATAN</address>
-        <description><![CDATA[TIENDA: YUC TICUL CENTRO<br>DIRECCION: CALLE 25 NO. 205-D  X 26-A Y 28<br>COLONIA: CENTRO<br>CIUDAD: TICUL<br>ESTADO: YUCATAN<br>Direccion FULL: CALLE 25 NO. 205-D  X 26-A Y 28,CENTRO,TICUL,YUCATAN<br>CP: 97860<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>YUC TICUL CENTRO</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>CALLE 25 NO. 205-D  X 26-A Y 28</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>CENTRO</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>TICUL</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>YUCATAN</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>CALLE 25 NO. 205-D  X 26-A Y 28,CENTRO,TICUL,YUCATAN</value>
-          </Data>
-          <Data name="CP">
-            <value>97860</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
+      
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 23 NO. 217-C ,CENTRO,TICUL,YUCATAN</address>
@@ -4267,146 +3825,10 @@
           </Data>
         </ExtendedData>
       <Point><coordinates>-88.303624,18.5354351,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BAZAR</name>
-        <address>CALLE 18 NO. 94 X 19-A Y 21-A,CENTRO,UMAN,YUCATAN</address>
-        <description><![CDATA[TIENDA: YUC UMAN<br>DIRECCION: CALLE 18 NO. 94 X 19-A Y 21-A<br>COLONIA: CENTRO<br>CIUDAD: UMAN<br>ESTADO: YUCATAN<br>Direccion FULL: CALLE 18 NO. 94 X 19-A Y 21-A,CENTRO,UMAN,YUCATAN<br>CP: 97390<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>YUC UMAN</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>CALLE 18 NO. 94 X 19-A Y 21-A</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>CENTRO</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>UMAN</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>YUCATAN</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>CALLE 18 NO. 94 X 19-A Y 21-A,CENTRO,UMAN,YUCATAN</value>
-          </Data>
-          <Data name="CP">
-            <value>97390</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>FARMACIAS BAZAR</name>
-        <address>CALLE 39 NO. 202-G X 46 Y 48,CENTRO,VALLADOLID,YUCATAN</address>
-        <description><![CDATA[TIENDA: YUC VALLADOLID CENTRO<br>DIRECCION: CALLE 39 NO. 202-G X 46 Y 48<br>COLONIA: CENTRO<br>CIUDAD: VALLADOLID<br>ESTADO: YUCATAN<br>Direccion FULL: CALLE 39 NO. 202-G X 46 Y 48,CENTRO,VALLADOLID,YUCATAN<br>CP: 97781<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>YUC VALLADOLID CENTRO</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>CALLE 39 NO. 202-G X 46 Y 48</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>CENTRO</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>VALLADOLID</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>YUCATAN</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>CALLE 39 NO. 202-G X 46 Y 48,CENTRO,VALLADOLID,YUCATAN</value>
-          </Data>
-          <Data name="CP">
-            <value>97781</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>FARMACIAS BAZAR</name>
-        <address>CALLE 43 NO.204 X 40 Y 42 ESPALDAS DE LA IGLESIA SAN SERBACIO,CENTRO,VALLADOLID,YUCATAN</address>
-        <description><![CDATA[TIENDA: YUC VALLADOLID SAN SERVACIO<br>DIRECCION: CALLE 43 NO.204 X 40 Y 42 ESPALDAS DE LA IGLESIA SAN SERBACIO<br>COLONIA: CENTRO<br>CIUDAD: VALLADOLID<br>ESTADO: YUCATAN<br>Direccion FULL: CALLE 43 NO.204 X 40 Y 42 ESPALDAS DE LA IGLESIA SAN SERBACIO,CENTRO,VALLADOLID,YUCATAN<br>CP: 97781<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>YUC VALLADOLID SAN SERVACIO</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>CALLE 43 NO.204 X 40 Y 42 ESPALDAS DE LA IGLESIA SAN SERBACIO</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>CENTRO</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>VALLADOLID</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>YUCATAN</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>CALLE 43 NO.204 X 40 Y 42 ESPALDAS DE LA IGLESIA SAN SERBACIO,CENTRO,VALLADOLID,YUCATAN</value>
-          </Data>
-          <Data name="CP">
-            <value>97781</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>FARMACIAS BAZAR</name>
-        <address>CALLE 42 NO. 168 O X 25  ESQUINA DEL PARQUE SANTA LUCIA,SANTA LUCIA,VALLADOLID,YUCATAN</address>
-        <description><![CDATA[TIENDA: YUC VALLADOLID SANTA LUCIA<br>DIRECCION: CALLE 42 NO. 168 O X 25  ESQUINA DEL PARQUE SANTA LUCIA<br>COLONIA: SANTA LUCIA<br>CIUDAD: VALLADOLID<br>ESTADO: YUCATAN<br>Direccion FULL: CALLE 42 NO. 168 O X 25  ESQUINA DEL PARQUE SANTA LUCIA,SANTA LUCIA,VALLADOLID,YUCATAN<br>CP: 97780<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>YUC VALLADOLID SANTA LUCIA</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>CALLE 42 NO. 168 O X 25  ESQUINA DEL PARQUE SANTA LUCIA</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>SANTA LUCIA</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>VALLADOLID</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>YUCATAN</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>CALLE 42 NO. 168 O X 25  ESQUINA DEL PARQUE SANTA LUCIA,SANTA LUCIA,VALLADOLID,YUCATAN</value>
-          </Data>
-          <Data name="CP">
-            <value>97780</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
+      
+      
+      
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 65 NO. 479-J X 56,CENTRO,MERIDA,YUCATAN</address>
@@ -4605,41 +4027,7 @@
           </Data>
         </ExtendedData>
       <Point><coordinates>-89.5837553,21.0158198,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BAZAR</name>
-        <address>CALLE 54 NO. 542 DEPTO. B,CENTRO ,MERIDA,YUCATAN</address>
-        <description><![CDATA[TIENDA: FILIAL MERCADO<br>DIRECCION: CALLE 54 NO. 542-A X 67 DEPTO. B<br>COLONIA: CENTRO <br>CIUDAD: MERIDA<br>ESTADO: YUCATAN<br>Direccion FULL: CALLE 54 NO. 542 DEPTO. B,CENTRO ,MERIDA,YUCATAN<br>CP: 97000<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>FILIAL MERCADO</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>CALLE 54 NO. 542-A X 67 DEPTO. B</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>CENTRO </value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>MERIDA</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>YUCATAN</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>CALLE 54 NO. 542 DEPTO. B,CENTRO ,MERIDA,YUCATAN</value>
-          </Data>
-          <Data name="CP">
-            <value>97000</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BAZAR</name>
         <address>CALLE 19 NO. 92-C X 28 Y 30 LOCAL 6 PZA DEL SOL,MEXICO NORTE,MERIDA,YUCATAN</address>
@@ -4739,40 +4127,5 @@
           </Data>
         </ExtendedData>
       <Point><coordinates>-89.6159649,20.9835666,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BAZAR</name>
-        <address>CALLE 67 N°509 LOCAL 1, CENTRO,CENTRO,MERIDA,YUCATAN</address>
-        <description><![CDATA[TIENDA: FILIAL SAN JUAN<br>DIRECCION: CALLE 67 N°509 LOCAL 1 POR 60 Y 62, CENTRO<br>COLONIA: CENTRO<br>CIUDAD: MERIDA<br>ESTADO: YUCATAN<br>Direccion FULL: CALLE 67 N°509 LOCAL 1, CENTRO,CENTRO,MERIDA,YUCATAN<br>CP: 97000<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>FILIAL SAN JUAN</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>CALLE 67 N°509 LOCAL 1 POR 60 Y 62, CENTRO</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>CENTRO</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>MERIDA</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>YUCATAN</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>CALLE 67 N°509 LOCAL 1, CENTRO,CENTRO,MERIDA,YUCATAN</value>
-          </Data>
-          <Data name="CP">
-            <value>97000</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
   </Document>
 </kml>

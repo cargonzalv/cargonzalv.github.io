@@ -695,41 +695,7 @@
           </Data>
         </ExtendedData>
       <Point><coordinates>-97.53488055999999,25.856266670000004,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>SEXTA #500 ESQ. TERÁN  COLONIA: CENTRO  C.P.: 87300  MATAMOROS, TAMAULIPASNo. 500,CENTRO,MATAMOROS,TAMAULIPAS</address>
-        <description><![CDATA[TIENDA: Avenida Sexta<br>DIRECCION: SEXTA #500 ESQ. TERÁN  COLONIA: CENTRO  C.P.: 87300  MATAMOROS, TAMAULIPASNo. 500<br>COLONIA: CENTRO<br>CIUDAD: MATAMOROS<br>ESTADO: TAMAULIPAS<br>Direccion FULL: SEXTA #500 ESQ. TERÁN  COLONIA: CENTRO  C.P.: 87300  MATAMOROS, TAMAULIPASNo. 500,CENTRO,MATAMOROS,TAMAULIPAS<br>CP: 87300<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>Avenida Sexta</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>SEXTA #500 ESQ. TERÁN  COLONIA: CENTRO  C.P.: 87300  MATAMOROS, TAMAULIPASNo. 500</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>CENTRO</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>MATAMOROS</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>TAMAULIPAS</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>SEXTA #500 ESQ. TERÁN  COLONIA: CENTRO  C.P.: 87300  MATAMOROS, TAMAULIPASNo. 500,CENTRO,MATAMOROS,TAMAULIPAS</value>
-          </Data>
-          <Data name="CP">
-            <value>87300</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>RIO ORINOCO  OTE.No. 150,DEL VALLE,San Pedro Garza García,NUEVO LEON</address>
@@ -1225,41 +1191,7 @@
           </Data>
         </ExtendedData>
       <Point><coordinates>-100.33948699999999,25.651356,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>Alfonso Reyes  entre Eje Exterior y Francisco Villa No. 11,Via Cordillera,Santa Catarina,NUEVO LEON</address>
-        <description><![CDATA[TIENDA: Vía Cordillera<br>DIRECCION:  Alfonso Reyes  entre Eje Exterior y Francisco Villa No. 11<br>COLONIA: Via Cordillera<br>CIUDAD: Santa Catarina<br>ESTADO: NUEVO LEON<br>Direccion FULL:  Alfonso Reyes  entre Eje Exterior y Francisco Villa No. 11,Via Cordillera,Santa Catarina,NUEVO LEON<br>CP: 66196<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>Vía Cordillera</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value> Alfonso Reyes  entre Eje Exterior y Francisco Villa No. 11</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>Via Cordillera</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Santa Catarina</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>NUEVO LEON</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value> Alfonso Reyes  entre Eje Exterior y Francisco Villa No. 11,Via Cordillera,Santa Catarina,NUEVO LEON</value>
-          </Data>
-          <Data name="CP">
-            <value>66196</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>AV. LÁZARO CÁRDENAS  ENTRE RUFINO TAMAYO Y FRIDA KAHLO  No. 2225,VALLE ORIENTE,San Pedro Garza García,NUEVO LEON</address>
@@ -9018,41 +8950,7 @@ ENTRE OJO DE AGUA Y PARQUE DE LOS OLIVOSNo. S/N, RESIDENCIAL POTRERO ANAHUAC,San
           </Data>
         </ExtendedData>
       <Point><coordinates>-103.41394439999999,20.625908329999998,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>FCO. VAZQUEZ CORONADO No. 2083,JARDINES DE LA CRUZ,Guadalajara,JALISCO</address>
-        <description><![CDATA[TIENDA: JARDINES DE LA CRUZ<br>DIRECCION: FCO. VAZQUEZ CORONADO No. 2083<br>COLONIA: JARDINES DE LA CRUZ<br>CIUDAD: Guadalajara<br>ESTADO: JALISCO<br>Direccion FULL: FCO. VAZQUEZ CORONADO No. 2083,JARDINES DE LA CRUZ,Guadalajara,JALISCO<br>CP: 44950<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>JARDINES DE LA CRUZ</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>FCO. VAZQUEZ CORONADO No. 2083</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>JARDINES DE LA CRUZ</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Guadalajara</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>JALISCO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>FCO. VAZQUEZ CORONADO No. 2083,JARDINES DE LA CRUZ,Guadalajara,JALISCO</value>
-          </Data>
-          <Data name="CP">
-            <value>44950</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>AV. NINOS HEROES  No. 2770 - A,JARDINES DEL BOSQUE,Guadalajara,JALISCO</address>
@@ -9086,41 +8984,7 @@ ENTRE OJO DE AGUA Y PARQUE DE LOS OLIVOSNo. S/N, RESIDENCIAL POTRERO ANAHUAC,San
           </Data>
         </ExtendedData>
       <Point><coordinates>-103.38588059999998,20.666897220000003,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>AV. LOPES MATEOS No. 5560 Local 2,EL MANANTIAL,Tlajomulco de Zuñiga,JALISCO</address>
-        <description><![CDATA[TIENDA: EL MANANTIAL<br>DIRECCION: AV. LOPES MATEOS No. 5560 Local 2<br>COLONIA: EL MANANTIAL<br>CIUDAD: Tlajomulco de Zuñiga<br>ESTADO: JALISCO<br>Direccion FULL: AV. LOPES MATEOS No. 5560 Local 2,EL MANANTIAL,Tlajomulco de Zuñiga,JALISCO<br>CP: 45645<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>EL MANANTIAL</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>AV. LOPES MATEOS No. 5560 Local 2</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>EL MANANTIAL</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Tlajomulco de Zuñiga</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>JALISCO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>AV. LOPES MATEOS No. 5560 Local 2,EL MANANTIAL,Tlajomulco de Zuñiga,JALISCO</value>
-          </Data>
-          <Data name="CP">
-            <value>45645</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>AV. LAPIZLAZULI No. 3052,RESIDENCIAL VICTORIA,Zapopan,JALISCO</address>
@@ -9913,41 +9777,7 @@ ENTRE OJO DE AGUA Y PARQUE DE LOS OLIVOSNo. S/N, RESIDENCIAL POTRERO ANAHUAC,San
           </Data>
         </ExtendedData>
       <Point><coordinates>-103.387222,20.687244,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>TARASCO No. 3469 local 1,MONRAZ,Guadalajara,JALISCO</address>
-        <description><![CDATA[TIENDA: HOSPITAL DEL CARMEN<br>DIRECCION: TARASCO No. 3469 local 1<br>COLONIA: MONRAZ<br>CIUDAD: Guadalajara<br>ESTADO: JALISCO<br>Direccion FULL: TARASCO No. 3469 local 1,MONRAZ,Guadalajara,JALISCO<br>CP: 44670<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>HOSPITAL DEL CARMEN</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>TARASCO No. 3469 local 1</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>MONRAZ</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Guadalajara</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>JALISCO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>TARASCO No. 3469 local 1,MONRAZ,Guadalajara,JALISCO</value>
-          </Data>
-          <Data name="CP">
-            <value>44670</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>EVA BRISENO No. 2,CENTRO,Zapopan,JALISCO</address>
@@ -10311,41 +10141,7 @@ ENTRE OJO DE AGUA Y PARQUE DE LOS OLIVOSNo. S/N, RESIDENCIAL POTRERO ANAHUAC,San
           </Data>
         </ExtendedData>
       <Point><coordinates>-103.83241699999999,20.882139,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>AV. SANTA MARGARITA No. 4140-2,NOVATERRA,Zapopan,JALISCO</address>
-        <description><![CDATA[TIENDA: VALLE REAL<br>DIRECCION: AV. SANTA MARGARITANo.  4140-2<br>COLONIA: NOVATERRA<br>CIUDAD: Zapopan<br>ESTADO: JALISCO<br>Direccion FULL: AV. SANTA MARGARITA No. 4140-2,NOVATERRA,Zapopan,JALISCO<br>CP: 45140<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>VALLE REAL</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>AV. SANTA MARGARITANo.  4140-2</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>NOVATERRA</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Zapopan</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>JALISCO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>AV. SANTA MARGARITA No. 4140-2,NOVATERRA,Zapopan,JALISCO</value>
-          </Data>
-          <Data name="CP">
-            <value>45140</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>AV. RUBEN DARIO No. 1476-C ,PROVIDENCIA,Guadalajara,JALISCO</address>
@@ -10478,41 +10274,7 @@ ENTRE OJO DE AGUA Y PARQUE DE LOS OLIVOSNo. S/N, RESIDENCIAL POTRERO ANAHUAC,San
           </Data>
         </ExtendedData>
       <Point><coordinates>-103.39111109999999,20.742861110000003,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>AV. CAMINO A SAN ISIDRO No. 1506 A ,RINCONADA LOS SAUCES,Zapopan,JALISCO</address>
-        <description><![CDATA[TIENDA: PLAZA SAUCES<br>DIRECCION: AV. CAMINO A SAN ISIDRO No. 1506 A <br>COLONIA: RINCONADA LOS SAUCES<br>CIUDAD: Zapopan<br>ESTADO: JALISCO<br>Direccion FULL: AV. CAMINO A SAN ISIDRO No. 1506 A ,RINCONADA LOS SAUCES,Zapopan,JALISCO<br>CP: 45180<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>PLAZA SAUCES</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>AV. CAMINO A SAN ISIDRO No. 1506 A </value>
-          </Data>
-          <Data name="COLONIA">
-            <value>RINCONADA LOS SAUCES</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Zapopan</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>JALISCO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>AV. CAMINO A SAN ISIDRO No. 1506 A ,RINCONADA LOS SAUCES,Zapopan,JALISCO</value>
-          </Data>
-          <Data name="CP">
-            <value>45180</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>AV. AMERICAS No. 268,COL. LOMA BLANCA,Zapopan,JALISCO</address>
@@ -10876,41 +10638,7 @@ ENTRE OJO DE AGUA Y PARQUE DE LOS OLIVOSNo. S/N, RESIDENCIAL POTRERO ANAHUAC,San
           </Data>
         </ExtendedData>
       <Point><coordinates>-103.19047500000002,20.30075833,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>GAZA No. 1397 LOCAL 21-B ,BEATRIZ HDEZ.,Guadalajara,JALISCO</address>
-        <description><![CDATA[TIENDA: BEATRIZ HERNANDEZ<br>DIRECCION: GAZA No. 1397 LOCAL 21-B <br>COLONIA: BEATRIZ HDEZ.<br>CIUDAD: Guadalajara<br>ESTADO: JALISCO<br>Direccion FULL: GAZA No. 1397 LOCAL 21-B ,BEATRIZ HDEZ.,Guadalajara,JALISCO<br>CP: 44730<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>BEATRIZ HERNANDEZ</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>GAZA No. 1397 LOCAL 21-B </value>
-          </Data>
-          <Data name="COLONIA">
-            <value>BEATRIZ HDEZ.</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Guadalajara</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>JALISCO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>GAZA No. 1397 LOCAL 21-B ,BEATRIZ HDEZ.,Guadalajara,JALISCO</value>
-          </Data>
-          <Data name="CP">
-            <value>44730</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>CIPRIANO CAMPOS No. 650,PARQUES DEL NILO,Guadalajara,JALISCO</address>
@@ -11076,41 +10804,7 @@ ENTRE OJO DE AGUA Y PARQUE DE LOS OLIVOSNo. S/N, RESIDENCIAL POTRERO ANAHUAC,San
           </Data>
         </ExtendedData>
       <Point><coordinates>-102.5097278,20.54998056,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>16 DE SEP. ENTRE PRICILIANO SANCHEZ No. 40,COL. CENTRO,Atotonilco,JALISCO</address>
-        <description><![CDATA[TIENDA: ATOTONILCO 2<br>DIRECCION: 16 DE SEP.  ENTRE  PRICILIANO SANCHEZNo. 40<br>COLONIA: COL. CENTRO<br>CIUDAD: Atotonilco<br>ESTADO: JALISCO<br>Direccion FULL: 16 DE SEP. ENTRE PRICILIANO SANCHEZ No. 40,COL. CENTRO,Atotonilco,JALISCO<br>CP: 47750<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>ATOTONILCO 2</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>16 DE SEP.  ENTRE  PRICILIANO SANCHEZNo. 40</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>COL. CENTRO</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Atotonilco</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>JALISCO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>16 DE SEP. ENTRE PRICILIANO SANCHEZ No. 40,COL. CENTRO,Atotonilco,JALISCO</value>
-          </Data>
-          <Data name="CP">
-            <value>47750</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>AV 5 DE FEBRERO No. S/N,COL. CENTRO,Atotonilco,JALISCO</address>
@@ -11144,76 +10838,8 @@ ENTRE OJO DE AGUA Y PARQUE DE LOS OLIVOSNo. S/N, RESIDENCIAL POTRERO ANAHUAC,San
           </Data>
         </ExtendedData>
       <Point><coordinates>-102.5076028,20.551333330000002,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>AV. INDEPENDENCIA No. 99,SAGRADO CORAZON,Atotonilco,JALISCO</address>
-        <description><![CDATA[TIENDA: ATOTONILCO, JAL. 5<br>DIRECCION: AV. INDEPENDENCIA No. 99<br>COLONIA: SAGRADO CORAZON<br>CIUDAD: Atotonilco<br>ESTADO: JALISCO<br>Direccion FULL: AV. INDEPENDENCIA No. 99,SAGRADO CORAZON,Atotonilco,JALISCO<br>CP: 47750<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>ATOTONILCO, JAL. 5</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>AV. INDEPENDENCIA No. 99</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>SAGRADO CORAZON</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Atotonilco</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>JALISCO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>AV. INDEPENDENCIA No. 99,SAGRADO CORAZON,Atotonilco,JALISCO</value>
-          </Data>
-          <Data name="CP">
-            <value>47750</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>HIDALGO No. 125,COL. CENTRO,Zapotlanejo,JALISCO</address>
-        <description><![CDATA[TIENDA: ZAPOTLANEJO, JAL.<br>DIRECCION: HIDALGO No. 125<br>COLONIA: COL. CENTRO<br>CIUDAD: Zapotlanejo<br>ESTADO: JALISCO<br>Direccion FULL: HIDALGO No. 125,COL. CENTRO,Zapotlanejo,JALISCO<br>CP: 45430<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>ZAPOTLANEJO, JAL.</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>HIDALGO No. 125</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>COL. CENTRO</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Zapotlanejo</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>JALISCO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>HIDALGO No. 125,COL. CENTRO,Zapotlanejo,JALISCO</value>
-          </Data>
-          <Data name="CP">
-            <value>45430</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>MIGUEL HIDALGO No. 3,CENTRO,Ayotlán,JALISCO</address>
@@ -11313,41 +10939,7 @@ ENTRE OJO DE AGUA Y PARQUE DE LOS OLIVOSNo. S/N, RESIDENCIAL POTRERO ANAHUAC,San
           </Data>
         </ExtendedData>
       <Point><coordinates>-102.77314440000002,20.34950278,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>RAMON CORONA No. 305,CENTRO,Ocotlán,JALISCO</address>
-        <description><![CDATA[TIENDA: OCOTLAN 3<br>DIRECCION: RAMON CORONA No. 305<br>COLONIA: CENTRO<br>CIUDAD: Ocotlán<br>ESTADO: JALISCO<br>Direccion FULL: RAMON CORONA No. 305,CENTRO,Ocotlán,JALISCO<br>CP: 47800<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>OCOTLAN 3</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>RAMON CORONA No. 305</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>CENTRO</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Ocotlán</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>JALISCO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>RAMON CORONA No. 305,CENTRO,Ocotlán,JALISCO</value>
-          </Data>
-          <Data name="CP">
-            <value>47800</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>AV. MEXICO No. 2237,LADRON DE GUEVARA,Guadalajara,JALISCO</address>
@@ -11711,41 +11303,7 @@ ENTRE OJO DE AGUA Y PARQUE DE LOS OLIVOSNo. S/N, RESIDENCIAL POTRERO ANAHUAC,San
           </Data>
         </ExtendedData>
       <Point><coordinates>-103.36346499999999,20.671075000000002,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>AV.CHAPULTEPEC SUR 249 No. 249,AMERICANA,Guadalajara,JALISCO</address>
-        <description><![CDATA[TIENDA: CHAPULTEPEC<br>DIRECCION: AV.CHAPULTEPEC SUR 249 No. 249<br>COLONIA: AMERICANA<br>CIUDAD: Guadalajara<br>ESTADO: JALISCO<br>Direccion FULL: AV.CHAPULTEPEC SUR 249 No. 249,AMERICANA,Guadalajara,JALISCO<br>CP: 44140<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>CHAPULTEPEC</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>AV.CHAPULTEPEC SUR 249 No. 249</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>AMERICANA</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Guadalajara</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>JALISCO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>AV.CHAPULTEPEC SUR 249 No. 249,AMERICANA,Guadalajara,JALISCO</value>
-          </Data>
-          <Data name="CP">
-            <value>44140</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>CALZ. INDEPENDENCIA NTE No. 1804,INDEPENDENCIA,Guadalajara,JALISCO</address>
@@ -11878,41 +11436,7 @@ ENTRE OJO DE AGUA Y PARQUE DE LOS OLIVOSNo. S/N, RESIDENCIAL POTRERO ANAHUAC,San
           </Data>
         </ExtendedData>
       <Point><coordinates>-103.38247779999999,20.674658329999996,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>AV. CIRCUNVALACION 1040 No. 1040,SANTA MONICA,Guadalajara,JALISCO</address>
-        <description><![CDATA[TIENDA: TRANSITO<br>DIRECCION: AV. CIRCUNVALACION 1040 No. 1040<br>COLONIA: SANTA MONICA<br>CIUDAD: Guadalajara<br>ESTADO: JALISCO<br>Direccion FULL: AV. CIRCUNVALACION 1040 No. 1040,SANTA MONICA,Guadalajara,JALISCO<br>CP: 44220<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>TRANSITO</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>AV. CIRCUNVALACION 1040 No. 1040</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>SANTA MONICA</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Guadalajara</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>JALISCO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>AV. CIRCUNVALACION 1040 No. 1040,SANTA MONICA,Guadalajara,JALISCO</value>
-          </Data>
-          <Data name="CP">
-            <value>44220</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>ANDRES  TERAN 447 No. 447,STA. TERE,Guadalajara,JALISCO</address>
@@ -12045,41 +11569,7 @@ ENTRE OJO DE AGUA Y PARQUE DE LOS OLIVOSNo. S/N, RESIDENCIAL POTRERO ANAHUAC,San
           </Data>
         </ExtendedData>
       <Point><coordinates>-103.31999720000002,20.69908056,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>AV. LA PAZ 2261 No. 2261,COL OBRERA CENTRO,Guadalajara,JALISCO</address>
-        <description><![CDATA[TIENDA: AMERICAS 3<br>DIRECCION: AV. LA PAZ 2261 No. 2261<br>COLONIA: COL OBRERA CENTRO<br>CIUDAD: Guadalajara<br>ESTADO: JALISCO<br>Direccion FULL: AV. LA PAZ 2261 No. 2261,COL OBRERA CENTRO,Guadalajara,JALISCO<br>CP: 44140<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>AMERICAS 3</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>AV. LA PAZ 2261 No. 2261</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>COL OBRERA CENTRO</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Guadalajara</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>JALISCO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>AV. LA PAZ 2261 No. 2261,COL OBRERA CENTRO,Guadalajara,JALISCO</value>
-          </Data>
-          <Data name="CP">
-            <value>44140</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>ESTEBAN LOERA No. 189,OBLATOS,Guadalajara,JALISCO</address>
@@ -12773,41 +12263,7 @@ ENTRE OJO DE AGUA Y PARQUE DE LOS OLIVOSNo. S/N, RESIDENCIAL POTRERO ANAHUAC,San
           </Data>
         </ExtendedData>
       <Point><coordinates>-103.38255000000001,20.632808329999996,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>CARR. GDL-CHAPALANo. S/N,MCPIO DE TLAJOMULCO DE ZUÑIGA ,Tlajomulco de Zuñiga,JALISCO</address>
-        <description><![CDATA[TIENDA: AEROPUERTO GDL 2<br>DIRECCION: CARR. GDL-CHAPALANo. S/N<br>COLONIA: MCPIO DE TLAJOMULCO DE ZUÑIGA <br>CIUDAD: Tlajomulco de Zuñiga<br>ESTADO: JALISCO<br>Direccion FULL: CARR. GDL-CHAPALANo. S/N,MCPIO DE TLAJOMULCO DE ZUÑIGA ,Tlajomulco de Zuñiga,JALISCO<br>CP: 45656<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>AEROPUERTO GDL 2</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>CARR. GDL-CHAPALANo. S/N</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>MCPIO DE TLAJOMULCO DE ZUÑIGA </value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Tlajomulco de Zuñiga</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>JALISCO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>CARR. GDL-CHAPALANo. S/N,MCPIO DE TLAJOMULCO DE ZUÑIGA ,Tlajomulco de Zuñiga,JALISCO</value>
-          </Data>
-          <Data name="CP">
-            <value>45656</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>GONZALEZ BOCANEGRA No. 704,LEON MODERNO,León,GUANAJUATO</address>
@@ -13171,41 +12627,7 @@ ENTRE OJO DE AGUA Y PARQUE DE LOS OLIVOSNo. S/N, RESIDENCIAL POTRERO ANAHUAC,San
           </Data>
         </ExtendedData>
       <Point><coordinates>-101.86089440000002,21.01494167,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>ARTEAGA No. 23,COL. CENTRO,Valle de Santiago,GUANAJUATO</address>
-        <description><![CDATA[TIENDA: VALLE DE SANTIAGO<br>DIRECCION: ARTEAGA No. 23<br>COLONIA: COL. CENTRO<br>CIUDAD: Valle de Santiago<br>ESTADO: GUANAJUATO<br>Direccion FULL: ARTEAGA No. 23,COL. CENTRO,Valle de Santiago,GUANAJUATO<br>CP: 38400<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>VALLE DE SANTIAGO</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>ARTEAGA No. 23</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>COL. CENTRO</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Valle de Santiago</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>GUANAJUATO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>ARTEAGA No. 23,COL. CENTRO,Valle de Santiago,GUANAJUATO</value>
-          </Data>
-          <Data name="CP">
-            <value>38400</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>AV. REFORMA No. 200,FRACC. GAMEZ,Irapuato,GUANAJUATO</address>
@@ -13734,41 +13156,7 @@ ENTRE OJO DE AGUA Y PARQUE DE LOS OLIVOSNo. S/N, RESIDENCIAL POTRERO ANAHUAC,San
           </Data>
         </ExtendedData>
       <Point><coordinates>-101.70216669999999,21.136386109999997,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>BLVD.  VALTIERRA No. 3201,COL. SAN FELIPE DE JESUS,León,GUANAJUATO</address>
-        <description><![CDATA[TIENDA: LEON 11<br>DIRECCION: BLVD.  VALTIERRA No. 3201<br>COLONIA: COL. SAN FELIPE DE JESUS<br>CIUDAD: León<br>ESTADO: GUANAJUATO<br>Direccion FULL: BLVD.  VALTIERRA No. 3201,COL. SAN FELIPE DE JESUS,León,GUANAJUATO<br>CP: 37250<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>LEON 11</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>BLVD.  VALTIERRA No. 3201</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>COL. SAN FELIPE DE JESUS</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>León</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>GUANAJUATO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>BLVD.  VALTIERRA No. 3201,COL. SAN FELIPE DE JESUS,León,GUANAJUATO</value>
-          </Data>
-          <Data name="CP">
-            <value>37250</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>5 DE MAYO 682No. 682,JARDINADAS,Zamora,MICHOACAN</address>
@@ -13901,146 +13289,10 @@ ENTRE OJO DE AGUA Y PARQUE DE LOS OLIVOSNo. S/N, RESIDENCIAL POTRERO ANAHUAC,San
           </Data>
         </ExtendedData>
       <Point><coordinates>-101.934056,20.103763999999998,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>HIDALGO ESQ. PEDRO CHAVOLLA  No. S/N,COL. CENTRO,La Piedad,MICHOACAN</address>
-        <description><![CDATA[TIENDA: CENTRO<br>DIRECCION: HIDALGO ESQ. PEDRO CHAVOLLA  No. S/N<br>COLONIA: COL. CENTRO<br>CIUDAD: La Piedad<br>ESTADO: MICHOACAN<br>Direccion FULL: HIDALGO ESQ. PEDRO CHAVOLLA  No. S/N,COL. CENTRO,La Piedad,MICHOACAN<br>CP: 59300<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>CENTRO</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>HIDALGO ESQ. PEDRO CHAVOLLA  No. S/N</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>COL. CENTRO</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>La Piedad</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>MICHOACAN</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>HIDALGO ESQ. PEDRO CHAVOLLA  No. S/N,COL. CENTRO,La Piedad,MICHOACAN</value>
-          </Data>
-          <Data name="CP">
-            <value>59300</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>AV. PADRE HIDALGO No. 214, COL. SANTA ANA PCO.,Penjamo,MICHOACAN</address>
-        <description><![CDATA[TIENDA: SUCURSAL 1<br>DIRECCION: AV. PADRE HIDALGO No. 214<br>COLONIA: COL. SANTA ANA PCO.<br>CIUDAD: Penjamo<br>ESTADO: MICHOACAN<br>Direccion FULL: AV. PADRE HIDALGO No. 214, COL. SANTA ANA PCO.,Penjamo,MICHOACAN<br>CP: 36910<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>SUCURSAL 1</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>AV. PADRE HIDALGO No. 214</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>COL. SANTA ANA PCO.</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Penjamo</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>MICHOACAN</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>AV. PADRE HIDALGO No. 214, COL. SANTA ANA PCO.,Penjamo,MICHOACAN</value>
-          </Data>
-          <Data name="CP">
-            <value>36910</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>MARIANO JIMENEZ No. 620, COL. JARDINES DEL CARMEN,La Piedad,MICHOACAN</address>
-        <description><![CDATA[TIENDA: MARIANO JIMENEZ<br>DIRECCION: MARIANO JIMENEZ No. 620<br>COLONIA: COL. JARDINES DEL CARMEN<br>CIUDAD: La Piedad<br>ESTADO: MICHOACAN<br>Direccion FULL: MARIANO JIMENEZ No. 620, COL. JARDINES DEL CARMEN,La Piedad,MICHOACAN<br>CP: 59300<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>MARIANO JIMENEZ</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>MARIANO JIMENEZ No. 620</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>COL. JARDINES DEL CARMEN</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>La Piedad</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>MICHOACAN</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>MARIANO JIMENEZ No. 620, COL. JARDINES DEL CARMEN,La Piedad,MICHOACAN</value>
-          </Data>
-          <Data name="CP">
-            <value>59300</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>VASCO DE QUIROGA 126 ,FRACC JARDINES DE CATEDRAL,Zamora,MICHOACAN</address>
-        <description><![CDATA[TIENDA: ZAMORA<br>DIRECCION: VASCO DE QUIROGA 126 No. 126<br>COLONIA: FRACC JARDINES DE CATEDRAL<br>CIUDAD: Zamora<br>ESTADO: MICHOACAN<br>Direccion FULL: VASCO DE QUIROGA 126 ,FRACC JARDINES DE CATEDRAL,Zamora,MICHOACAN<br>CP: 59670<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>ZAMORA</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>VASCO DE QUIROGA 126 No. 126</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>FRACC JARDINES DE CATEDRAL</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Zamora</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>MICHOACAN</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>VASCO DE QUIROGA 126 ,FRACC JARDINES DE CATEDRAL,Zamora,MICHOACAN</value>
-          </Data>
-          <Data name="CP">
-            <value>59670</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
+      
+      
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>PORTAL NEGRETE 1 No. 1,COL. CENTRO,Yurécuaro,MICHOACAN</address>
@@ -14173,41 +13425,7 @@ ENTRE OJO DE AGUA Y PARQUE DE LOS OLIVOSNo. S/N, RESIDENCIAL POTRERO ANAHUAC,San
           </Data>
         </ExtendedData>
       <Point><coordinates>-102.03041110000001,20.34553056,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>PORTAL ADOLFO L. MATEOS 27 ,COL. CENTRO,Degollado,JALISCO</address>
-        <description><![CDATA[TIENDA: DEGOLLADO<br>DIRECCION: PORTAL ADOLFO L. MATEOS  27 No. 27<br>COLONIA: COL. CENTRO<br>CIUDAD: Degollado<br>ESTADO: JALISCO<br>Direccion FULL: PORTAL ADOLFO L. MATEOS 27 ,COL. CENTRO,Degollado,JALISCO<br>CP: 47980<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>DEGOLLADO</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>PORTAL ADOLFO L. MATEOS  27 No. 27</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>COL. CENTRO</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Degollado</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>JALISCO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>PORTAL ADOLFO L. MATEOS 27 ,COL. CENTRO,Degollado,JALISCO</value>
-          </Data>
-          <Data name="CP">
-            <value>47980</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>PORTAL HIDALGO  3No. 3,COL. CENTRO,Tangancicuaro,MICHOACAN</address>
@@ -14241,76 +13459,8 @@ ENTRE OJO DE AGUA Y PARQUE DE LOS OLIVOSNo. S/N, RESIDENCIAL POTRERO ANAHUAC,San
           </Data>
         </ExtendedData>
       <Point><coordinates>-102.20782779999999,19.887830559999998,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>JUAREZ ESQ. GUERRERO No. S/N,COL. CENTRO,La Piedad,MICHOACAN</address>
-        <description><![CDATA[TIENDA: JUAREZ (MATRIZ)<br>DIRECCION: JUAREZ ESQ. GUERRERO No. S/N<br>COLONIA: COL. CENTRO<br>CIUDAD: La Piedad<br>ESTADO: MICHOACAN<br>Direccion FULL: JUAREZ ESQ. GUERRERO No. S/N,COL. CENTRO,La Piedad,MICHOACAN<br>CP: 59300<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>JUAREZ (MATRIZ)</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>JUAREZ ESQ. GUERRERO No. S/N</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>COL. CENTRO</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>La Piedad</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>MICHOACAN</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>JUAREZ ESQ. GUERRERO No. S/N,COL. CENTRO,La Piedad,MICHOACAN</value>
-          </Data>
-          <Data name="CP">
-            <value>59300</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>LERDO No. 101,COL. CENTRO,Abasolo,GUANAJUATO</address>
-        <description><![CDATA[TIENDA: ABASOLO<br>DIRECCION: LERDO ESQ JUAREZ No. 101<br>COLONIA: COL. CENTRO<br>CIUDAD: Abasolo<br>ESTADO: GUANAJUATO<br>Direccion FULL: LERDO No. 101,COL. CENTRO,Abasolo,GUANAJUATO<br>CP: 36970<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>ABASOLO</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>LERDO ESQ JUAREZ No. 101</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>COL. CENTRO</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Abasolo</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>GUANAJUATO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>LERDO No. 101,COL. CENTRO,Abasolo,GUANAJUATO</value>
-          </Data>
-          <Data name="CP">
-            <value>36970</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>PORTAL PRINCIPAL ESQ. MELCHOR OCAMPONo. S/N,COL. CENTRO,Pastor Ortiz,MICHOACAN</address>
@@ -14344,111 +13494,9 @@ ENTRE OJO DE AGUA Y PARQUE DE LOS OLIVOSNo. S/N, RESIDENCIAL POTRERO ANAHUAC,San
           </Data>
         </ExtendedData>
       <Point><coordinates>-101.5973667,20.30184167,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>HIDALGO No. 1-C,COL. CENTRO,Penjamo,MICHOACAN</address>
-        <description><![CDATA[TIENDA: PENJAMO 1<br>DIRECCION: HIDALGO No. 1-C<br>COLONIA: COL. CENTRO<br>CIUDAD: Penjamo<br>ESTADO: MICHOACAN<br>Direccion FULL: HIDALGO No. 1-C,COL. CENTRO,Penjamo,MICHOACAN<br>CP: 36900<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>PENJAMO 1</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>HIDALGO No. 1-C</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>COL. CENTRO</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Penjamo</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>MICHOACAN</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>HIDALGO No. 1-C,COL. CENTRO,Penjamo,MICHOACAN</value>
-          </Data>
-          <Data name="CP">
-            <value>36900</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>GUERRERO No. num 23-LOCAL 3 ,COL. CENTRO,Puruandiro,MICHOACAN</address>
-        <description><![CDATA[TIENDA: PURUANDIRO, MICH.<br>DIRECCION: GUERRERO No. num 23-LOCAL 3 <br>COLONIA: COL. CENTRO<br>CIUDAD: Puruandiro<br>ESTADO: MICHOACAN<br>Direccion FULL: GUERRERO No. num 23-LOCAL 3 ,COL. CENTRO,Puruandiro,MICHOACAN<br>CP: 58500<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>PURUANDIRO, MICH.</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>GUERRERO No. num 23-LOCAL 3 </value>
-          </Data>
-          <Data name="COLONIA">
-            <value>COL. CENTRO</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Puruandiro</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>MICHOACAN</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>GUERRERO No. num 23-LOCAL 3 ,COL. CENTRO,Puruandiro,MICHOACAN</value>
-          </Data>
-          <Data name="CP">
-            <value>58500</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>PORTAL HIDALGO No. 35-A,COL. CENTRO,Puruandiro,MICHOACAN</address>
-        <description><![CDATA[TIENDA: PURUANDIRO, MICH. 2<br>DIRECCION: PORTAL HIDALGONo. 35-A<br>COLONIA: COL. CENTRO<br>CIUDAD: Puruandiro<br>ESTADO: MICHOACAN<br>Direccion FULL: PORTAL HIDALGO No. 35-A,COL. CENTRO,Puruandiro,MICHOACAN<br>CP: 58500<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>PURUANDIRO, MICH. 2</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>PORTAL HIDALGONo. 35-A</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>COL. CENTRO</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Puruandiro</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>MICHOACAN</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>PORTAL HIDALGO No. 35-A,COL. CENTRO,Puruandiro,MICHOACAN</value>
-          </Data>
-          <Data name="CP">
-            <value>58500</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
+      
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>BLVD. LAZARO CARDENAS No. 1001,COL. LAS ARBOLEDAS,La Piedad,MICHOACAN</address>
@@ -16990,41 +16038,7 @@ ENTRE OJO DE AGUA Y PARQUE DE LOS OLIVOSNo. S/N, RESIDENCIAL POTRERO ANAHUAC,San
           </Data>
         </ExtendedData>
       <Point><coordinates>-114.77828900000002,32.473545,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>Av. Libertad 1108 esq. 12 COLONIA: Comercial C.P.: 83449 San Luis Río Colorado, Sonora No. 1108,COMERCIAL,SAN LUIS RIO COLORADO,SONORA</address>
-        <description><![CDATA[TIENDA: Libertad Río Colorado<br>DIRECCION: Av. Libertad 1108 esq. 12 COLONIA: Comercial C.P.: 83449 San Luis Río Colorado, Sonora No. 1108<br>COLONIA: COMERCIAL<br>CIUDAD: SAN LUIS RIO COLORADO<br>ESTADO: SONORA<br>Direccion FULL: Av. Libertad 1108 esq. 12 COLONIA: Comercial C.P.: 83449 San Luis Río Colorado, Sonora No. 1108,COMERCIAL,SAN LUIS RIO COLORADO,SONORA<br>CP: 83449<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>Libertad Río Colorado</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>Av. Libertad 1108 esq. 12 COLONIA: Comercial C.P.: 83449 San Luis Río Colorado, Sonora No. 1108</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>COMERCIAL</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>SAN LUIS RIO COLORADO</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>SONORA</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>Av. Libertad 1108 esq. 12 COLONIA: Comercial C.P.: 83449 San Luis Río Colorado, Sonora No. 1108,COMERCIAL,SAN LUIS RIO COLORADO,SONORA</value>
-          </Data>
-          <Data name="CP">
-            <value>83449</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>AV. ELECTRICISTAS 1701 ESQ. CALLE I COLONIA,LIBERTAD,Mexicali,BAJA CALIFORNIA</address>
@@ -17058,41 +16072,7 @@ ENTRE OJO DE AGUA Y PARQUE DE LOS OLIVOSNo. S/N, RESIDENCIAL POTRERO ANAHUAC,San
           </Data>
         </ExtendedData>
       <Point><coordinates>-115.460339,32.647093,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>Boulevard Benito Juárez #332 COLONIA: López Portillo  C.P.: 83556 Puerto Peñasco, Sonora Entre calles: 33 Melquiades Palacio y 34 Ramón Villa No. 332,Lopez Portillo,Puerto Peñasco,SONORA</address>
-        <description><![CDATA[TIENDA: Ramon Villa<br>DIRECCION: Boulevard Benito Juárez #332 COLONIA: López Portillo  C.P.: 83556 Puerto Peñasco, Sonora Entre calles: 33 Melquiades Palacio y 34 Ramón Villa No. 332<br>COLONIA: Lopez Portillo<br>CIUDAD: Puerto Peñasco<br>ESTADO: SONORA<br>Direccion FULL: Boulevard Benito Juárez #332 COLONIA: López Portillo  C.P.: 83556 Puerto Peñasco, Sonora Entre calles: 33 Melquiades Palacio y 34 Ramón Villa No. 332,Lopez Portillo,Puerto Peñasco,SONORA<br>CP: 83556<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>Ramon Villa</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>Boulevard Benito Juárez #332 COLONIA: López Portillo  C.P.: 83556 Puerto Peñasco, Sonora Entre calles: 33 Melquiades Palacio y 34 Ramón Villa No. 332</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>Lopez Portillo</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Puerto Peñasco</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>SONORA</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>Boulevard Benito Juárez #332 COLONIA: López Portillo  C.P.: 83556 Puerto Peñasco, Sonora Entre calles: 33 Melquiades Palacio y 34 Ramón Villa No. 332,Lopez Portillo,Puerto Peñasco,SONORA</value>
-          </Data>
-          <Data name="CP">
-            <value>83556</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>ZARAGOZA, ESQ. CALLEJON JUAN DE LA BARRERA, ENTRE HIDALGO E INDEPENDENCIA No. 336 SUR,CENTRO,Los Mochis,SINALOA</address>
@@ -25277,41 +24257,7 @@ ENTRE OJO DE AGUA Y PARQUE DE LOS OLIVOSNo. S/N, RESIDENCIAL POTRERO ANAHUAC,San
           </Data>
         </ExtendedData>
       <Point><coordinates>-106.08600099999998,28.642456,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>Av. de la Juventud – Luis Donaldo Colosio Murrieta 8315 esq. Bahía de Huatulco ,Residencial Bahias,Chihuahua ,CHIHUAHUA</address>
-        <description><![CDATA[TIENDA: Bahía<br>DIRECCION: Av. de la Juventud – Luis Donaldo Colosio Murrieta 8315 esq. Bahía de Huatulco No. 8315<br>COLONIA: Residencial Bahias<br>CIUDAD: Chihuahua <br>ESTADO: CHIHUAHUA<br>Direccion FULL: Av. de la Juventud – Luis Donaldo Colosio Murrieta 8315 esq. Bahía de Huatulco ,Residencial Bahias,Chihuahua ,CHIHUAHUA<br>CP: 31123<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>Bahía</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>Av. de la Juventud – Luis Donaldo Colosio Murrieta 8315 esq. Bahía de Huatulco No. 8315</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>Residencial Bahias</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Chihuahua </value>
-          </Data>
-          <Data name="ESTADO">
-            <value>CHIHUAHUA</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>Av. de la Juventud – Luis Donaldo Colosio Murrieta 8315 esq. Bahía de Huatulco ,Residencial Bahias,Chihuahua ,CHIHUAHUA</value>
-          </Data>
-          <Data name="CP">
-            <value>31123</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>AV. VICTORIA SURNo. 302 SUR,CENTRO,Gómez Palacio,DURANGO</address>
@@ -26368,41 +25314,7 @@ ENTRE OJO DE AGUA Y PARQUE DE LOS OLIVOSNo. S/N, RESIDENCIAL POTRERO ANAHUAC,San
           </Data>
         </ExtendedData>
       <Point><coordinates>-101.42599,26.916601000000004,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>Blvd. José Santos Valdez  Local 09 No. 505 pte,Centro,Matamoros,COAHUILA</address>
-        <description><![CDATA[TIENDA: Plaza 506<br>DIRECCION:  Blvd. José Santos Valdez  Local 09 No. 505 pte<br>COLONIA: Centro<br>CIUDAD: Matamoros<br>ESTADO: COAHUILA<br>Direccion FULL:  Blvd. José Santos Valdez  Local 09 No. 505 pte,Centro,Matamoros,COAHUILA<br>CP: 27440<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>Plaza 506</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value> Blvd. José Santos Valdez  Local 09 No. 505 pte</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>Centro</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Matamoros</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>COAHUILA</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value> Blvd. José Santos Valdez  Local 09 No. 505 pte,Centro,Matamoros,COAHUILA</value>
-          </Data>
-          <Data name="CP">
-            <value>27440</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>AV. LOS REYES No. 999,NUEVA ROSITA,Monclova ,COAHUILA</address>
@@ -26436,41 +25348,7 @@ ENTRE OJO DE AGUA Y PARQUE DE LOS OLIVOSNo. S/N, RESIDENCIAL POTRERO ANAHUAC,San
           </Data>
         </ExtendedData>
       <Point><coordinates>-101.43876629999998,26.920940600000005,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>BLVD. HAROLD R. PAPENo. 738,FRACC. MONCLOVA,Monclova ,COAHUILA</address>
-        <description><![CDATA[TIENDA: PAPE<br>DIRECCION: BLVD. HAROLD R. PAPENo. 738<br>COLONIA: FRACC. MONCLOVA<br>CIUDAD: Monclova <br>ESTADO: COAHUILA<br>Direccion FULL: BLVD. HAROLD R. PAPENo. 738,FRACC. MONCLOVA,Monclova ,COAHUILA<br>CP: 25760<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>PAPE</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>BLVD. HAROLD R. PAPENo. 738</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>FRACC. MONCLOVA</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Monclova </value>
-          </Data>
-          <Data name="ESTADO">
-            <value>COAHUILA</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>BLVD. HAROLD R. PAPENo. 738,FRACC. MONCLOVA,Monclova ,COAHUILA</value>
-          </Data>
-          <Data name="CP">
-            <value>25760</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>MORELOS OTE No. 499,CENTRO,Monterrey,NUEVO LEON</address>
@@ -31025,41 +29903,7 @@ ENTRE OJO DE AGUA Y PARQUE DE LOS OLIVOSNo. S/N, RESIDENCIAL POTRERO ANAHUAC,San
           </Data>
         </ExtendedData>
       <Point><coordinates>-102.50015800000001,22.768586000000006,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>Calle Pascual M. Hernández esq. I. Zaragoza No. 290,Centro,San Luis Potosí,SAN LUIS POTOSI</address>
-        <description><![CDATA[TIENDA: Centro San Luis<br>DIRECCION:  Calle Pascual M. Hernández esq. I. Zaragoza No. 290<br>COLONIA: Centro<br>CIUDAD: San Luis Potosí<br>ESTADO: SAN LUIS POTOSI<br>Direccion FULL:  Calle Pascual M. Hernández esq. I. Zaragoza No. 290,Centro,San Luis Potosí,SAN LUIS POTOSI<br>CP: 78000<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>Centro San Luis</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value> Calle Pascual M. Hernández esq. I. Zaragoza No. 290</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>Centro</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>San Luis Potosí</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>SAN LUIS POTOSI</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value> Calle Pascual M. Hernández esq. I. Zaragoza No. 290,Centro,San Luis Potosí,SAN LUIS POTOSI</value>
-          </Data>
-          <Data name="CP">
-            <value>78000</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>VENTURA SALAZAR #305 ENTRE GARCÍA DE LA CADENA E INSURGENTES ,Centro,Zacatecas,ZACATECAS</address>
@@ -31918,41 +30762,7 @@ ENTRE OJO DE AGUA Y PARQUE DE LOS OLIVOSNo. S/N, RESIDENCIAL POTRERO ANAHUAC,San
           </Data>
         </ExtendedData>
       <Point><coordinates>-101.00331199999998,25.368846,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>GUSTAVO DÍAZ ORDAZ 1020 ENTRE CERRO COLORADO Y SIERRA MADRE COLONIA: DEL VALLE C.P.: 25904 RAMOS ARIZPE, COAHUILA,DEL VALLE,Ramos Arizpe,COAHUILA</address>
-        <description><![CDATA[TIENDA: Plaza Diaz Ordaz 1020<br>DIRECCION: GUSTAVO DÍAZ ORDAZ 1020 ENTRE CERRO COLORADO Y SIERRA MADRE COLONIA: DEL VALLE C.P.: 25904 RAMOS ARIZPE, COAHUILANo. 1020<br>COLONIA: DEL VALLE<br>CIUDAD: Ramos Arizpe<br>ESTADO: COAHUILA<br>Direccion FULL: GUSTAVO DÍAZ ORDAZ 1020 ENTRE CERRO COLORADO Y SIERRA MADRE COLONIA: DEL VALLE C.P.: 25904 RAMOS ARIZPE, COAHUILA,DEL VALLE,Ramos Arizpe,COAHUILA<br>CP: 25904<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>Plaza Diaz Ordaz 1020</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>GUSTAVO DÍAZ ORDAZ 1020 ENTRE CERRO COLORADO Y SIERRA MADRE COLONIA: DEL VALLE C.P.: 25904 RAMOS ARIZPE, COAHUILANo. 1020</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>DEL VALLE</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Ramos Arizpe</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>COAHUILA</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>GUSTAVO DÍAZ ORDAZ 1020 ENTRE CERRO COLORADO Y SIERRA MADRE COLONIA: DEL VALLE C.P.: 25904 RAMOS ARIZPE, COAHUILA,DEL VALLE,Ramos Arizpe,COAHUILA</value>
-          </Data>
-          <Data name="CP">
-            <value>25904</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>BLVD. MOCTEZUMA 1504 ESQ. TEZCATLIPOCA COLONIA: RESIDENCIAL LOS PINOS C.P.: 25198 SALTILLO, COAHUILANo. 1504,LOS PINOS,SALTILLO,COAHUILA</address>
@@ -32681,41 +31491,7 @@ No. 1887-A</value>
           </Data>
         </ExtendedData>
       <Point><coordinates>-103.429593,25.570134,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>Calzada Saltillo 400 #204 esq. Paseo del Tecnológico  COLONIA: Ampliación La Rosita C.P.: 27258 Torreón, Coahuila No. 204,AMPLIACION LA ROSITA,Torreón,COAHUILA</address>
-        <description><![CDATA[TIENDA: Paseo Tec y Saltillo P14<br>DIRECCION: Calzada Saltillo 400 #204 esq. Paseo del Tecnológico  COLONIA: Ampliación La Rosita C.P.: 27258 Torreón, Coahuila No. 204<br>COLONIA: AMPLIACION LA ROSITA<br>CIUDAD: Torreón<br>ESTADO: COAHUILA<br>Direccion FULL: Calzada Saltillo 400 #204 esq. Paseo del Tecnológico  COLONIA: Ampliación La Rosita C.P.: 27258 Torreón, Coahuila No. 204,AMPLIACION LA ROSITA,Torreón,COAHUILA<br>CP: 27258<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>Paseo Tec y Saltillo P14</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>Calzada Saltillo 400 #204 esq. Paseo del Tecnológico  COLONIA: Ampliación La Rosita C.P.: 27258 Torreón, Coahuila No. 204</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>AMPLIACION LA ROSITA</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Torreón</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>COAHUILA</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>Calzada Saltillo 400 #204 esq. Paseo del Tecnológico  COLONIA: Ampliación La Rosita C.P.: 27258 Torreón, Coahuila No. 204,AMPLIACION LA ROSITA,Torreón,COAHUILA</value>
-          </Data>
-          <Data name="CP">
-            <value>27258</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>BLVD. INDEPENDENCIA #2191 ESQ. QUEBEC  COLONIA: SAN ISIDRO  C.P.: 27100  TORREÓN, COAHUILANo. 2191,SAN ISIDRO,Torreón,COAHUILA</address>
@@ -33244,76 +32020,8 @@ No. 1887-A</value>
           </Data>
         </ExtendedData>
       <Point><coordinates>-99.16735400000002,19.370993,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>VENUSTIANO CARRANZA #125 ENTRE PASAJE YUCATÁN Y CORREO MAYOR COLONIA: CENTRO C.P.: 06060 DEL. ,DELEGACION CU,Cuauhtémoc ,CIUDAD DE MEXICO</address>
-        <description><![CDATA[TIENDA: Carranza Centro Histórico<br>DIRECCION: VENUSTIANO CARRANZA #125 ENTRE PASAJE YUCATÁN Y CORREO MAYOR  COLONIA: CENTRO  C.P.: 06060  DEL. CUAUHTÉMOC, CIUDAD DE MÉXICONo. 125<br>COLONIA: DELEGACION CU<br>CIUDAD: Cuauhtémoc <br>ESTADO: CIUDAD DE MEXICO<br>Direccion FULL: VENUSTIANO CARRANZA #125 ENTRE PASAJE YUCATÁN Y CORREO MAYOR COLONIA: CENTRO C.P.: 06060 DEL. ,DELEGACION CU,Cuauhtémoc ,CIUDAD DE MEXICO<br>CP: 06060<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>Carranza Centro Histórico</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>VENUSTIANO CARRANZA #125 ENTRE PASAJE YUCATÁN Y CORREO MAYOR  COLONIA: CENTRO  C.P.: 06060  DEL. CUAUHTÉMOC, CIUDAD DE MÉXICONo. 125</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>DELEGACION CU</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Cuauhtémoc </value>
-          </Data>
-          <Data name="ESTADO">
-            <value>CIUDAD DE MEXICO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>VENUSTIANO CARRANZA #125 ENTRE PASAJE YUCATÁN Y CORREO MAYOR COLONIA: CENTRO C.P.: 06060 DEL. ,DELEGACION CU,Cuauhtémoc ,CIUDAD DE MEXICO</value>
-          </Data>
-          <Data name="CP">
-            <value>06060</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>AV. BENJAMIN FRANKLIN No. 99 Loc.2, COL HIPODROMO CONDESA ,Cuauhtémoc ,CIUDAD DE MEXICO</address>
-        <description><![CDATA[TIENDA: PATRIOTISMO<br>DIRECCION: AV. BENJAMIN FRANKLIN No. 99 Loc.2, COL HIPODROMO CONDESA No. 99<br>COLONIA: HIPODROMO CONDESA<br>CIUDAD: Cuauhtémoc <br>ESTADO: CIUDAD DE MEXICO<br>Direccion FULL: AV. BENJAMIN FRANKLIN No. 99 Loc.2, COL HIPODROMO CONDESA ,Cuauhtémoc ,CIUDAD DE MEXICO<br>CP: 06170<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>PATRIOTISMO</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>AV. BENJAMIN FRANKLIN No. 99 Loc.2, COL HIPODROMO CONDESA No. 99</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>HIPODROMO CONDESA</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Cuauhtémoc </value>
-          </Data>
-          <Data name="ESTADO">
-            <value>CIUDAD DE MEXICO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>AV. BENJAMIN FRANKLIN No. 99 Loc.2, COL HIPODROMO CONDESA ,Cuauhtémoc ,CIUDAD DE MEXICO</value>
-          </Data>
-          <Data name="CP">
-            <value>06170</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>AV. UNIVERSIDAD NO.740 COL. SANTA CRUZ ATOYAC L B20 PLAZA COMERCIAL PABELLON DEL VALLENo. 740,SANTA CRUZ ATOYAC,Benito Juárez,CIUDAD DE MEXICO</address>
@@ -33842,41 +32550,7 @@ No. 1887-A</value>
           </Data>
         </ExtendedData>
       <Point><coordinates>-99.07397699999999,19.392488,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>CALZADA DE TLALPAN #1461 ENTRE EJE 7-A SUR Y EMPERADORES COLONIA: PORTALES C.P.: 03300 BENITO JUÁREZ, CIUDAD DE MÉXICO</address>
-        <description><![CDATA[TIENDA: Capitolio <br>DIRECCION: CALZADA DE TLALPAN #1461 ENTRE EJE 7-A SUR Y EMPERADORES  COLONIA: PORTALES  C.P.: 03300  BENITO JUÁREZ, CIUDAD DE MÉXICONo. 1461<br>COLONIA: PORTALES<br>CIUDAD: Benito Juárez<br>ESTADO: CIUDAD DE MEXICO<br>Direccion FULL: CALZADA DE TLALPAN #1461 ENTRE EJE 7-A SUR Y EMPERADORES COLONIA: PORTALES C.P.: 03300 BENITO JUÁREZ, CIUDAD DE MÉXICO<br>CP: 03300<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>Capitolio </value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>CALZADA DE TLALPAN #1461 ENTRE EJE 7-A SUR Y EMPERADORES  COLONIA: PORTALES  C.P.: 03300  BENITO JUÁREZ, CIUDAD DE MÉXICONo. 1461</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>PORTALES</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Benito Juárez</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>CIUDAD DE MEXICO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>CALZADA DE TLALPAN #1461 ENTRE EJE 7-A SUR Y EMPERADORES COLONIA: PORTALES C.P.: 03300 BENITO JUÁREZ, CIUDAD DE MÉXICO</value>
-          </Data>
-          <Data name="CP">
-            <value>03300</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>XOLA 732 ESQ. EJE 2 GABRIEL MANCERA  COLONIA: DEL VALLE  C.P.: 03100  BENITO JUÁREZ, CIUDAD DE MÉXICONo. 732,DEL VALLE,Benito Juárez,CIUDAD DE MEXICO</address>
@@ -34372,181 +33046,11 @@ No. 1887-A</value>
           </Data>
         </ExtendedData>
       <Point><coordinates>-99.277366,19.389848,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>Calle Bosque de Duraznos Entre calles: Bosque de la Reforma y Bosque de Ciruelos No. 61,BOSQUES DE LAS LOMAS,Miguel Hidalgo,CIUDAD DE MEXICO</address>
-        <description><![CDATA[TIENDA: Duraznos<br>DIRECCION:  Calle Bosque de Duraznos Entre calles: Bosque de la Reforma y Bosque de Ciruelos No. 61<br>COLONIA: BOSQUES DE LAS LOMAS<br>CIUDAD: Miguel Hidalgo<br>ESTADO: CIUDAD DE MEXICO<br>Direccion FULL:  Calle Bosque de Duraznos Entre calles: Bosque de la Reforma y Bosque de Ciruelos No. 61,BOSQUES DE LAS LOMAS,Miguel Hidalgo,CIUDAD DE MEXICO<br>CP: 11700<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>Duraznos</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value> Calle Bosque de Duraznos Entre calles: Bosque de la Reforma y Bosque de Ciruelos No. 61</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>BOSQUES DE LAS LOMAS</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Miguel Hidalgo</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>CIUDAD DE MEXICO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value> Calle Bosque de Duraznos Entre calles: Bosque de la Reforma y Bosque de Ciruelos No. 61,BOSQUES DE LAS LOMAS,Miguel Hidalgo,CIUDAD DE MEXICO</value>
-          </Data>
-          <Data name="CP">
-            <value>11700</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>VICENTE GUERRERO No. 201-B, BARRIO SAN MIGUEL ,San Mateo Atenco ,ESTADO DE MEXICO</address>
-        <description><![CDATA[TIENDA: GUERRERO<br>DIRECCION: VICENTE GUERRERO  No. 201-B, BARRIO SAN MIGUEL No. 201<br>COLONIA: BARRIO DE SAN MIGUEL<br>CIUDAD: San Mateo Atenco <br>ESTADO: ESTADO DE MEXICO<br>Direccion FULL: VICENTE GUERRERO No. 201-B, BARRIO SAN MIGUEL ,San Mateo Atenco ,ESTADO DE MEXICO<br>CP: 52100<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>GUERRERO</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>VICENTE GUERRERO  No. 201-B, BARRIO SAN MIGUEL No. 201</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>BARRIO DE SAN MIGUEL</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>San Mateo Atenco </value>
-          </Data>
-          <Data name="ESTADO">
-            <value>ESTADO DE MEXICO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>VICENTE GUERRERO No. 201-B, BARRIO SAN MIGUEL ,San Mateo Atenco ,ESTADO DE MEXICO</value>
-          </Data>
-          <Data name="CP">
-            <value>52100</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>AV. BENITO JUAREZ No. 510,  BARRIO  SAN PEDRO No. 510,BARRIO DE SAN PEDRO,San Mateo Atenco ,ESTADO DE MEXICO</address>
-        <description><![CDATA[TIENDA: JUAREZ<br>DIRECCION: AV. BENITO JUAREZ No. 510,  BARRIO  SAN PEDRO No. 510<br>COLONIA: BARRIO DE SAN PEDRO<br>CIUDAD: San Mateo Atenco <br>ESTADO: ESTADO DE MEXICO<br>Direccion FULL: AV. BENITO JUAREZ No. 510,  BARRIO  SAN PEDRO No. 510,BARRIO DE SAN PEDRO,San Mateo Atenco ,ESTADO DE MEXICO<br>CP: 52100<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>JUAREZ</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>AV. BENITO JUAREZ No. 510,  BARRIO  SAN PEDRO No. 510</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>BARRIO DE SAN PEDRO</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>San Mateo Atenco </value>
-          </Data>
-          <Data name="ESTADO">
-            <value>ESTADO DE MEXICO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>AV. BENITO JUAREZ No. 510,  BARRIO  SAN PEDRO No. 510,BARRIO DE SAN PEDRO,San Mateo Atenco ,ESTADO DE MEXICO</value>
-          </Data>
-          <Data name="CP">
-            <value>52100</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>CALLE 16 DE SEPTIEMBRE No. 107, COL DEL CALVARIONo. 107,DEL CALVARIO,Zinacantepec,ESTADO DE MEXICO</address>
-        <description><![CDATA[TIENDA: ZINACANTEPEC<br>DIRECCION: CALLE 16 DE SEPTIEMBRE No. 107, COL DEL CALVARIONo. 107<br>COLONIA: DEL CALVARIO<br>CIUDAD: Zinacantepec<br>ESTADO: ESTADO DE MEXICO<br>Direccion FULL: CALLE 16 DE SEPTIEMBRE No. 107, COL DEL CALVARIONo. 107,DEL CALVARIO,Zinacantepec,ESTADO DE MEXICO<br>CP: 51350<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>ZINACANTEPEC</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>CALLE 16 DE SEPTIEMBRE No. 107, COL DEL CALVARIONo. 107</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>DEL CALVARIO</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Zinacantepec</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>ESTADO DE MEXICO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>CALLE 16 DE SEPTIEMBRE No. 107, COL DEL CALVARIONo. 107,DEL CALVARIO,Zinacantepec,ESTADO DE MEXICO</value>
-          </Data>
-          <Data name="CP">
-            <value>51350</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>AV. BENITO JUAREZ No. 89, BARRIO DE SAN JUAN,San Mateo Atenco ,ESTADO DE MEXICO</address>
-        <description><![CDATA[TIENDA: SAN MATEO 3<br>DIRECCION: AV. BENITO JUAREZ No. 89, BARRIO  DE SAN JUANNo. 89<br>COLONIA: BARRIO DE SAN JUAN<br>CIUDAD: San Mateo Atenco <br>ESTADO: ESTADO DE MEXICO<br>Direccion FULL: AV. BENITO JUAREZ No. 89, BARRIO DE SAN JUAN,San Mateo Atenco ,ESTADO DE MEXICO<br>CP: 52100<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>SAN MATEO 3</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>AV. BENITO JUAREZ No. 89, BARRIO  DE SAN JUANNo. 89</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>BARRIO DE SAN JUAN</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>San Mateo Atenco </value>
-          </Data>
-          <Data name="ESTADO">
-            <value>ESTADO DE MEXICO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>AV. BENITO JUAREZ No. 89, BARRIO DE SAN JUAN,San Mateo Atenco ,ESTADO DE MEXICO</value>
-          </Data>
-          <Data name="CP">
-            <value>52100</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
+      
+      
+      
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>AV EL ROSARIO 240 Y 241 COL EL ROSARIO No. 240,EL ROSARIO ,Azcapotzalco,CIUDAD DE MEXICO</address>
@@ -35339,41 +33843,7 @@ No. 1887-A</value>
           </Data>
         </ExtendedData>
       <Point><coordinates>-99.192147,19.600873999999997,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>Av. de los Jinetes 7 entre Blvd. Valle Dorado y Paseo de las Aves No. 7,LAS ARBOLEDAS,Tlalnepantla de Baz,ESTADO DE MEXICO</address>
-        <description><![CDATA[TIENDA: Terraviva Jinetes<br>DIRECCION: Av. de los Jinetes 7 entre Blvd. Valle Dorado y Paseo de las Aves  No. 7<br>COLONIA: LAS ARBOLEDAS<br>CIUDAD: Tlalnepantla de Baz<br>ESTADO: ESTADO DE MEXICO<br>Direccion FULL: Av. de los Jinetes 7 entre Blvd. Valle Dorado y Paseo de las Aves No. 7,LAS ARBOLEDAS,Tlalnepantla de Baz,ESTADO DE MEXICO<br>CP: 54026<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>Terraviva Jinetes</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>Av. de los Jinetes 7 entre Blvd. Valle Dorado y Paseo de las Aves  No. 7</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>LAS ARBOLEDAS</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Tlalnepantla de Baz</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>ESTADO DE MEXICO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>Av. de los Jinetes 7 entre Blvd. Valle Dorado y Paseo de las Aves No. 7,LAS ARBOLEDAS,Tlalnepantla de Baz,ESTADO DE MEXICO</value>
-          </Data>
-          <Data name="CP">
-            <value>54026</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>AV. MARIO COLÍN 2 LOCAL 90-A ENTRE MONTERREY E IZTACCÍHUATL No. LOCAL 90-A,VALLE CEYLÁN,Tlalnepantla de Baz,ESTADO DE MEXICO</address>
@@ -35440,41 +33910,7 @@ No. 1887-A</value>
           </Data>
         </ExtendedData>
       <Point><coordinates>-99.245383,19.559703000000003,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>Av. Tlalnepantla Tenayuca  entre Jacarandas y Ahuehuetes No. 25,SAN BARTOLO TENAYUCA,Tlalnepantla de Baz,CIUDAD DE MEXICO</address>
-        <description><![CDATA[TIENDA: Encuentro Tlalnepantla<br>DIRECCION:  Av. Tlalnepantla Tenayuca  entre Jacarandas y Ahuehuetes No. 25<br>COLONIA: SAN BARTOLO TENAYUCA<br>CIUDAD: Tlalnepantla de Baz<br>ESTADO: CIUDAD DE MEXICO<br>Direccion FULL:  Av. Tlalnepantla Tenayuca  entre Jacarandas y Ahuehuetes No. 25,SAN BARTOLO TENAYUCA,Tlalnepantla de Baz,CIUDAD DE MEXICO<br>CP: 54150<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>Encuentro Tlalnepantla</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value> Av. Tlalnepantla Tenayuca  entre Jacarandas y Ahuehuetes No. 25</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>SAN BARTOLO TENAYUCA</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Tlalnepantla de Baz</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>CIUDAD DE MEXICO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value> Av. Tlalnepantla Tenayuca  entre Jacarandas y Ahuehuetes No. 25,SAN BARTOLO TENAYUCA,Tlalnepantla de Baz,CIUDAD DE MEXICO</value>
-          </Data>
-          <Data name="CP">
-            <value>54150</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>CAMINO REAL DE CALACOAYA #73 ENTRE JUSTO SIERRA Y DOMINGO DE RAMOS  COLONIA: CALACOAYA  C.P.: 52990  ATIZAPÁN DE ZARAGOZA, ESTADO DE MÉXICONo. 73,CALACOAYA,Atizapán de Zaragoza,ESTADO DE MEXICO</address>
@@ -35508,111 +33944,9 @@ No. 1887-A</value>
           </Data>
         </ExtendedData>
       <Point><coordinates>-99.242513,19.533711000000004,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>AV. PRIMERO DE MAYO A LOCAL 25 COL CENTRO URBANO No. S/N,CENTRO URBANO,Cuautitlán Izcalli,ESTADO DE MEXICO</address>
-        <description><![CDATA[TIENDA: CUAUTITLAN<br>DIRECCION: AV. PRIMERO DE MAYO A LOCAL 25 COL CENTRO URBANO No. S/N<br>COLONIA: CENTRO URBANO<br>CIUDAD: Cuautitlán Izcalli<br>ESTADO: ESTADO DE MEXICO<br>Direccion FULL: AV. PRIMERO DE MAYO A LOCAL 25 COL CENTRO URBANO No. S/N,CENTRO URBANO,Cuautitlán Izcalli,ESTADO DE MEXICO<br>CP: 54700<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>CUAUTITLAN</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>AV. PRIMERO DE MAYO A LOCAL 25 COL CENTRO URBANO No. S/N</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>CENTRO URBANO</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Cuautitlán Izcalli</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>ESTADO DE MEXICO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>AV. PRIMERO DE MAYO A LOCAL 25 COL CENTRO URBANO No. S/N,CENTRO URBANO,Cuautitlán Izcalli,ESTADO DE MEXICO</value>
-          </Data>
-          <Data name="CP">
-            <value>54700</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>SUPER AV. LOMAS VERDES 480 COL. LOMAS VERDES,Naucalpan de Juárez,ESTADO DE MEXICO</address>
-        <description><![CDATA[TIENDA: LOMAS VERDES<br>DIRECCION: SUPER AV. LO,AS VERDES 480 COL. LOMAS VERDESNo. 480<br>COLONIA: LOMAS VERDES<br>CIUDAD: Naucalpan de Juárez<br>ESTADO: ESTADO DE MEXICO<br>Direccion FULL: SUPER AV. LOMAS VERDES 480 COL. LOMAS VERDES,Naucalpan de Juárez,ESTADO DE MEXICO<br>CP: 53120<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>LOMAS VERDES</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>SUPER AV. LO,AS VERDES 480 COL. LOMAS VERDESNo. 480</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>LOMAS VERDES</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Naucalpan de Juárez</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>ESTADO DE MEXICO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>SUPER AV. LOMAS VERDES 480 COL. LOMAS VERDES,Naucalpan de Juárez,ESTADO DE MEXICO</value>
-          </Data>
-          <Data name="CP">
-            <value>53120</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>DR JIMENEZ CANTU 44 B L-10 COL CENTRO URBANO,Cuautitlán Izcalli,ESTADO DE MEXICO</address>
-        <description><![CDATA[TIENDA: C. IZCALLI<br>DIRECCION: DR JIMENEZ CANTU 44 B L-10 COL CENTRO URBANONo. 44<br>COLONIA: CENTRO URBANO<br>CIUDAD: Cuautitlán Izcalli<br>ESTADO: ESTADO DE MEXICO<br>Direccion FULL: DR JIMENEZ CANTU 44 B L-10 COL CENTRO URBANO,Cuautitlán Izcalli,ESTADO DE MEXICO<br>CP: 54700<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>C. IZCALLI</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>DR JIMENEZ CANTU 44 B L-10 COL CENTRO URBANONo. 44</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>CENTRO URBANO</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Cuautitlán Izcalli</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>ESTADO DE MEXICO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>DR JIMENEZ CANTU 44 B L-10 COL CENTRO URBANO,Cuautitlán Izcalli,ESTADO DE MEXICO</value>
-          </Data>
-          <Data name="CP">
-            <value>54700</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
+      
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>CALZADA DE TLALPAN NO. 5062 COL. LA JOYANo. 5062,LA JOYA,Tlalpan,CIUDAD DE MEXICO</address>
@@ -36009,111 +34343,9 @@ No. 1887-A</value>
           </Data>
         </ExtendedData>
       <Point><coordinates>-99.176527,18.904145,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>Av. San Isidro 1 entre Cuauhtémoc y Matamoros    COLONIA: La Conchita  C.P.: 56600 Chalco, Estado de México No. 1,CONCHITA,CHALCO,ESTADO DE MEXICO</address>
-        <description><![CDATA[TIENDA: Isidro Chalco<br>DIRECCION: Av. San Isidro 1 entre Cuauhtémoc y Matamoros    COLONIA: La Conchita  C.P.: 56600 Chalco, Estado de México No. 1<br>COLONIA: CONCHITA<br>CIUDAD: CHALCO<br>ESTADO: ESTADO DE MEXICO<br>Direccion FULL: Av. San Isidro 1 entre Cuauhtémoc y Matamoros    COLONIA: La Conchita  C.P.: 56600 Chalco, Estado de México No. 1,CONCHITA,CHALCO,ESTADO DE MEXICO<br>CP: 56600<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>Isidro Chalco</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>Av. San Isidro 1 entre Cuauhtémoc y Matamoros    COLONIA: La Conchita  C.P.: 56600 Chalco, Estado de México No. 1</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>CONCHITA</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>CHALCO</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>ESTADO DE MEXICO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>Av. San Isidro 1 entre Cuauhtémoc y Matamoros    COLONIA: La Conchita  C.P.: 56600 Chalco, Estado de México No. 1,CONCHITA,CHALCO,ESTADO DE MEXICO</value>
-          </Data>
-          <Data name="CP">
-            <value>56600</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>AV. ARMADA DE MEXICO No. 1385 LOCAL A, COL. CAFETALES RESIDENCIAL, Coyoacán,CIUDAD DE MEXICO</address>
-        <description><![CDATA[TIENDA: CAFETALES<br>DIRECCION: AV. ARMADA DE MEXICO No. 1385 LOCAL A,  COL. CAFETALES RESIDENCIAL No. 1385<br>COLONIA: CAFETALES RESIDENCIAL<br>CIUDAD: Coyoacán<br>ESTADO: CIUDAD DE MEXICO<br>Direccion FULL: AV. ARMADA DE MEXICO No. 1385 LOCAL A, COL. CAFETALES RESIDENCIAL, Coyoacán,CIUDAD DE MEXICO<br>CP: 04918<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>CAFETALES</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>AV. ARMADA DE MEXICO No. 1385 LOCAL A,  COL. CAFETALES RESIDENCIAL No. 1385</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>CAFETALES RESIDENCIAL</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Coyoacán</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>CIUDAD DE MEXICO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>AV. ARMADA DE MEXICO No. 1385 LOCAL A, COL. CAFETALES RESIDENCIAL, Coyoacán,CIUDAD DE MEXICO</value>
-          </Data>
-          <Data name="CP">
-            <value>04918</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>CARR. MEXICO - PUEBLA KM.17.50, COL. EL RINCON DE LOS REYESNo. 17.5,EL RINCON DE LOS REYES,Los Reyes Acaquilpan,ESTADO DE MEXICO</address>
-        <description><![CDATA[TIENDA: REYES LA PAZ<br>DIRECCION: CARR. MEXICO - PUEBLA KM.17.50, COL. EL RINCON DE LOS REYESNo. 17.5<br>COLONIA: EL RINCON DE LOS REYES<br>CIUDAD: Los Reyes Acaquilpan<br>ESTADO: ESTADO DE MEXICO<br>Direccion FULL: CARR. MEXICO - PUEBLA KM.17.50, COL. EL RINCON DE LOS REYESNo. 17.5,EL RINCON DE LOS REYES,Los Reyes Acaquilpan,ESTADO DE MEXICO<br>CP: 56400<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>REYES LA PAZ</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>CARR. MEXICO - PUEBLA KM.17.50, COL. EL RINCON DE LOS REYESNo. 17.5</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>EL RINCON DE LOS REYES</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Los Reyes Acaquilpan</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>ESTADO DE MEXICO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>CARR. MEXICO - PUEBLA KM.17.50, COL. EL RINCON DE LOS REYESNo. 17.5,EL RINCON DE LOS REYES,Los Reyes Acaquilpan,ESTADO DE MEXICO</value>
-          </Data>
-          <Data name="CP">
-            <value>56400</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
+      
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>AV. CAP. CARLOS LEON SN COL. PEÑON DE LOS BAÑOS LOCAL A-191 PTA 7 T1,Venustiano Carranza,CIUDAD DE MEXICO</address>
@@ -36279,181 +34511,11 @@ No. 1887-A</value>
           </Data>
         </ExtendedData>
       <Point><coordinates>-99.01863399999999,19.581153,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>VIA MORELOS 28 COL FUENTES DE ECATEPECNo. 28,FUENTES DE ECATEPEC,Ecatepec de Morelos ,ESTADO DE MEXICO</address>
-        <description><![CDATA[TIENDA: ECATEPEC<br>DIRECCION: VIA MORELOS 28 COL FUENTES DE ECATEPECNo. 28<br>COLONIA: FUENTES DE ECATEPEC<br>CIUDAD: Ecatepec de Morelos <br>ESTADO: ESTADO DE MEXICO<br>Direccion FULL: VIA MORELOS 28 COL FUENTES DE ECATEPECNo. 28,FUENTES DE ECATEPEC,Ecatepec de Morelos ,ESTADO DE MEXICO<br>CP: 55040<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>ECATEPEC</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>VIA MORELOS 28 COL FUENTES DE ECATEPECNo. 28</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>FUENTES DE ECATEPEC</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Ecatepec de Morelos </value>
-          </Data>
-          <Data name="ESTADO">
-            <value>ESTADO DE MEXICO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>VIA MORELOS 28 COL FUENTES DE ECATEPECNo. 28,FUENTES DE ECATEPEC,Ecatepec de Morelos ,ESTADO DE MEXICO</value>
-          </Data>
-          <Data name="CP">
-            <value>55040</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>CAP. CARLOS LEON SN INT ALL-03 TERM. AEREA 2 COL. PEÑON DE LOS BAÑOS,Venustiano Carranza,CIUDAD DE MEXICO</address>
-        <description><![CDATA[TIENDA: AEROPUERTO T2 ALL-03<br>DIRECCION: CAP.  CARLOS LEON  SN INT ALL-03 TERM. AEREA 2 COL. PEÑON DE LOS BAÑOSNo. S/N<br>COLONIA: PEÑON DE LOS BAÑOS<br>CIUDAD: Venustiano Carranza<br>ESTADO: CIUDAD DE MEXICO<br>Direccion FULL: CAP. CARLOS LEON SN INT ALL-03 TERM. AEREA 2 COL. PEÑON DE LOS BAÑOS,Venustiano Carranza,CIUDAD DE MEXICO<br>CP: 15620<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>AEROPUERTO T2 ALL-03</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>CAP.  CARLOS LEON  SN INT ALL-03 TERM. AEREA 2 COL. PEÑON DE LOS BAÑOSNo. S/N</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>PEÑON DE LOS BAÑOS</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Venustiano Carranza</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>CIUDAD DE MEXICO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>CAP. CARLOS LEON SN INT ALL-03 TERM. AEREA 2 COL. PEÑON DE LOS BAÑOS,Venustiano Carranza,CIUDAD DE MEXICO</value>
-          </Data>
-          <Data name="CP">
-            <value>15620</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>CAP. CARLOS LEON SN INT ALL-31 TERM. AEREA 2 COL. PEÑON DE LOS BAÑOS,Venustiano Carranza,CIUDAD DE MEXICO</address>
-        <description><![CDATA[TIENDA: AEROPUERTO T2 ALL-31<br>DIRECCION: CAP.  CARLOS LEON  SN INT ALL-31 TERM. AEREA 2 COL. PEÑON DE LOS BAÑOSNo. S/N<br>COLONIA: PEÑON DE LOS BAÑOS<br>CIUDAD: Venustiano Carranza<br>ESTADO: CIUDAD DE MEXICO<br>Direccion FULL: CAP. CARLOS LEON SN INT ALL-31 TERM. AEREA 2 COL. PEÑON DE LOS BAÑOS,Venustiano Carranza,CIUDAD DE MEXICO<br>CP: 15620<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>AEROPUERTO T2 ALL-31</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>CAP.  CARLOS LEON  SN INT ALL-31 TERM. AEREA 2 COL. PEÑON DE LOS BAÑOSNo. S/N</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>PEÑON DE LOS BAÑOS</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Venustiano Carranza</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>CIUDAD DE MEXICO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>CAP. CARLOS LEON SN INT ALL-31 TERM. AEREA 2 COL. PEÑON DE LOS BAÑOS,Venustiano Carranza,CIUDAD DE MEXICO</value>
-          </Data>
-          <Data name="CP">
-            <value>15620</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>CAP. CARLOS LEON SN INT AS-12 TERM. AEREA 2 COL. PEÑON DE LOS BAÑOS,Venustiano Carranza,CIUDAD DE MEXICO</address>
-        <description><![CDATA[TIENDA: AEROPUERTO T2 AS-12<br>DIRECCION: CAP.  CARLOS LEON  SN INT AS-12 TERM. AEREA 2 COL. PEÑON DE LOS BAÑOSNo. S/N<br>COLONIA: PEÑON DE LOS BAÑOS<br>CIUDAD: Venustiano Carranza<br>ESTADO: CIUDAD DE MEXICO<br>Direccion FULL: CAP. CARLOS LEON SN INT AS-12 TERM. AEREA 2 COL. PEÑON DE LOS BAÑOS,Venustiano Carranza,CIUDAD DE MEXICO<br>CP: 15620<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>AEROPUERTO T2 AS-12</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>CAP.  CARLOS LEON  SN INT AS-12 TERM. AEREA 2 COL. PEÑON DE LOS BAÑOSNo. S/N</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>PEÑON DE LOS BAÑOS</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Venustiano Carranza</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>CIUDAD DE MEXICO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>CAP. CARLOS LEON SN INT AS-12 TERM. AEREA 2 COL. PEÑON DE LOS BAÑOS,Venustiano Carranza,CIUDAD DE MEXICO</value>
-          </Data>
-          <Data name="CP">
-            <value>15620</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>CAP. CARLOS LEON SN INT SUES N-03 TERM. AEREA 2 COL. PEÑON DE LOS BAÑOS,Venustiano Carranza,CIUDAD DE MEXICO</address>
-        <description><![CDATA[TIENDA: AEROPUERTO T2 SUE'S NS03<br>DIRECCION: CAP.  CARLOS LEON  SN INT SUES N-03 TERM. AEREA 2 COL. PEÑON DE LOS BAÑOSNo. S/N<br>COLONIA: PEÑON DE LOS BAÑOS<br>CIUDAD: Venustiano Carranza<br>ESTADO: CIUDAD DE MEXICO<br>Direccion FULL: CAP. CARLOS LEON SN INT SUES N-03 TERM. AEREA 2 COL. PEÑON DE LOS BAÑOS,Venustiano Carranza,CIUDAD DE MEXICO<br>CP: 15620<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value><![CDATA[AEROPUERTO T2 SUE'S NS03]]></value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>CAP.  CARLOS LEON  SN INT SUES N-03 TERM. AEREA 2 COL. PEÑON DE LOS BAÑOSNo. S/N</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>PEÑON DE LOS BAÑOS</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Venustiano Carranza</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>CIUDAD DE MEXICO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>CAP. CARLOS LEON SN INT SUES N-03 TERM. AEREA 2 COL. PEÑON DE LOS BAÑOS,Venustiano Carranza,CIUDAD DE MEXICO</value>
-          </Data>
-          <Data name="CP">
-            <value>15620</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
+      
+      
+      
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>AV. NEZAHUALCOYOTL No. 6, COL. CENTRO No. 6,CENTRO,Texcoco,ESTADO DE MEXICO</address>
@@ -36553,76 +34615,8 @@ No. 1887-A</value>
           </Data>
         </ExtendedData>
       <Point><coordinates>-99.06617778,19.53824722,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>CAP. CARLOS LEON SN EDIF. B P.B LOCAL D-4 TERM. AEREA 1 COL. PEÑON DE LOS BAÑOS,Venustiano Carranza,CIUDAD DE MEXICO</address>
-        <description><![CDATA[TIENDA: AEROPUERTO T-1 LOC D-4<br>DIRECCION: CAP.  CARLOS LEON  SN EDIF. B P.B LOCAL D-4 TERM. AEREA 1 COL. PEÑON DE LOS BAÑOSNo. S/N<br>COLONIA: PEÑON DE LOS BAÑOS<br>CIUDAD: Venustiano Carranza<br>ESTADO: CIUDAD DE MEXICO<br>Direccion FULL: CAP. CARLOS LEON SN EDIF. B P.B LOCAL D-4 TERM. AEREA 1 COL. PEÑON DE LOS BAÑOS,Venustiano Carranza,CIUDAD DE MEXICO<br>CP: 15620<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>AEROPUERTO T-1 LOC D-4</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>CAP.  CARLOS LEON  SN EDIF. B P.B LOCAL D-4 TERM. AEREA 1 COL. PEÑON DE LOS BAÑOSNo. S/N</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>PEÑON DE LOS BAÑOS</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Venustiano Carranza</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>CIUDAD DE MEXICO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>CAP. CARLOS LEON SN EDIF. B P.B LOCAL D-4 TERM. AEREA 1 COL. PEÑON DE LOS BAÑOS,Venustiano Carranza,CIUDAD DE MEXICO</value>
-          </Data>
-          <Data name="CP">
-            <value>15620</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>BOSQUES DE FRANCIA # 2 COL BOSQUES DE ARAGONNo. 2,BOSQUES DE ARAGON ,Netzahualcóyotl,ESTADO DE MEXICO</address>
-        <description><![CDATA[TIENDA: ARAGON 2<br>DIRECCION: BOSQUES DE FRANCIA # 2 COL BOSQUES DE ARAGONNo. 2<br>COLONIA: BOSQUES DE ARAGON <br>CIUDAD: Netzahualcóyotl<br>ESTADO: ESTADO DE MEXICO<br>Direccion FULL: BOSQUES DE FRANCIA # 2 COL BOSQUES DE ARAGONNo. 2,BOSQUES DE ARAGON ,Netzahualcóyotl,ESTADO DE MEXICO<br>CP: 57170<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>ARAGON 2</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>BOSQUES DE FRANCIA # 2 COL BOSQUES DE ARAGONNo. 2</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>BOSQUES DE ARAGON </value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Netzahualcóyotl</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>ESTADO DE MEXICO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>BOSQUES DE FRANCIA # 2 COL BOSQUES DE ARAGONNo. 2,BOSQUES DE ARAGON ,Netzahualcóyotl,ESTADO DE MEXICO</value>
-          </Data>
-          <Data name="CP">
-            <value>57170</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>BOULEVARD VALSEQUILLO #8323 COL. BARRIO DE LAS ARBOLEDASNo. 8323,LAS ARBOLEDAS,Puebla,PUEBLA</address>
@@ -37712,41 +35706,7 @@ No. 1887-A</value>
           </Data>
         </ExtendedData>
       <Point><coordinates>-100.43214700000001,20.560068,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>Av. del Parque #401 esq. Estatal No. 400 COLONIA: Loma Linda  C.P.: 76070  Querétaro, Querétaro No. 401,LOMA LINDA,QUERETARO,QUERETARO</address>
-        <description><![CDATA[TIENDA: Isla de Montecristo <br>DIRECCION:  Av. del Parque #401 esq. Estatal No. 400 COLONIA: Loma Linda  C.P.: 76070  Querétaro, Querétaro No. 401<br>COLONIA: LOMA LINDA<br>CIUDAD: QUERETARO<br>ESTADO: QUERETARO<br>Direccion FULL:  Av. del Parque #401 esq. Estatal No. 400 COLONIA: Loma Linda  C.P.: 76070  Querétaro, Querétaro No. 401,LOMA LINDA,QUERETARO,QUERETARO<br>CP: 76070<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>Isla de Montecristo </value>
-          </Data>
-          <Data name="DIRECCION">
-            <value> Av. del Parque #401 esq. Estatal No. 400 COLONIA: Loma Linda  C.P.: 76070  Querétaro, Querétaro No. 401</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>LOMA LINDA</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>QUERETARO</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>QUERETARO</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value> Av. del Parque #401 esq. Estatal No. 400 COLONIA: Loma Linda  C.P.: 76070  Querétaro, Querétaro No. 401,LOMA LINDA,QUERETARO,QUERETARO</value>
-          </Data>
-          <Data name="CP">
-            <value>76070</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <description><![CDATA[TIENDA: Plaza el Puente<br>DIRECCION: AV. MANUFACTURA EXT 1 INT 14 CONDOMINIO EL PUENTE ENTRE  EPIGMEO GONZÁLEZ No. 1 INT 14<br>COLONIA: LA LAMBORCILLA<br>CIUDAD: Santiago de Querétaro<br>ESTADO: QUERETARO<br>Direccion FULL: AV. MANUFACTURA EXT 1 INT 14 CONDOMINIO EL PUENTE ENTRE  EPIGMEO GONZÁLEZ No. 1 INT 14,LA LAMBORCILLA,Santiago de Querétaro,QUERETARO<br>CP: 76160<br>LATITUD: 20613512<br>LONGITUD: -10038971]]></description>
@@ -38422,74 +36382,8 @@ No. 1887-A</value>
           </Data>
         </ExtendedData>
       <Point><coordinates>-96.907161,19.525556,0</coordinates></Point></Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <description><![CDATA[TIENDA: ISSTE Veracruz <br>DIRECCION: AV. SALVADOR DÍAZ MIRÓN ESQ. CALLE SAYULA No. 2322<br>COLONIA: MODERNO<br>CIUDAD: VERACRUZ<br>ESTADO: VERACRUZ<br>Direccion FULL: AV. SALVADOR DÍAZ MIRÓN ESQ. CALLE SAYULA No. 2322,MODERNO,VERACRUZ,VERACRUZ<br>CP: 91918<br>LATITUD: <br>LONGITUD: ]]></description>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>ISSTE Veracruz </value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>AV. SALVADOR DÍAZ MIRÓN ESQ. CALLE SAYULA No. 2322</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>MODERNO</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>VERACRUZ</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>VERACRUZ</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>AV. SALVADOR DÍAZ MIRÓN ESQ. CALLE SAYULA No. 2322,MODERNO,VERACRUZ,VERACRUZ</value>
-          </Data>
-          <Data name="CP">
-            <value>91918</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
-      <Placemark>
-        <name>FARMACIAS BENAVIDES</name>
-        <address>VÍCTOR ROSALES  ESQ. TACUBA , 104,ZONA CENTRO,Zacatecas,ZACATECAS</address>
-        <description><![CDATA[TIENDA: ZACATECAS<br>DIRECCION: VÍCTOR ROSALES  ESQ. TACUBA , 104<br>COLONIA: ZONA CENTRO<br>CIUDAD: Zacatecas<br>ESTADO: ZACATECAS<br>Direccion FULL: VÍCTOR ROSALES  ESQ. TACUBA , 104,ZONA CENTRO,Zacatecas,ZACATECAS<br>CP: 98000<br>LATITUD: <br>LONGITUD: ]]></description>
-        <styleUrl>#icon-1646-FF5252</styleUrl>
-        <ExtendedData>
-          <Data name="TIENDA">
-            <value>ZACATECAS</value>
-          </Data>
-          <Data name="DIRECCION">
-            <value>VÍCTOR ROSALES  ESQ. TACUBA , 104</value>
-          </Data>
-          <Data name="COLONIA">
-            <value>ZONA CENTRO</value>
-          </Data>
-          <Data name="CIUDAD">
-            <value>Zacatecas</value>
-          </Data>
-          <Data name="ESTADO">
-            <value>ZACATECAS</value>
-          </Data>
-          <Data name="Direccion FULL">
-            <value>VÍCTOR ROSALES  ESQ. TACUBA , 104,ZONA CENTRO,Zacatecas,ZACATECAS</value>
-          </Data>
-          <Data name="CP">
-            <value>98000</value>
-          </Data>
-          <Data name="LATITUD">
-            <value/>
-          </Data>
-          <Data name="LONGITUD">
-            <value/>
-          </Data>
-        </ExtendedData>
-      </Placemark>
+      
+      
       <Placemark>
         <name>FARMACIAS BENAVIDES</name>
         <address>AVEnida PUERTO RICO SN, FRACC. RINCON COLONIAL, Matamoros, TAMAULIPAS, Mexico</address>
